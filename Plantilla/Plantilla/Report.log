@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  12 OCT 2016 23:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  12 OCT 2016 23:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1709,14 +1709,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 16.
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (./doc_config/cover.tex
-<./doc_config/images/logo.png, id=39, 3862.43pt x 1275.76625pt>
+<./doc_config/images/logo.png, id=43, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 169.29684pt x 55.90807pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=40, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=44, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1795,7 +1795,7 @@ l.40 \newpage
 
 ]
 (./sections/SatelliteDesign/SatDesign.tex (./sections/SatelliteDesign/EPS.tex
-<./sections/SatelliteDesign/images/EPSschematics.png, id=76, 711.65875pt x 253.
+<./sections/SatelliteDesign/images/EPSschematics.png, id=81, 711.65875pt x 253.
 94875pt>
 File: ./sections/SatelliteDesign/images/EPSschematics.png Graphic file (type pn
 g)
@@ -1803,8 +1803,13 @@ g)
 Package pdftex.def Info: ./sections/SatelliteDesign/images/EPSschematics.png us
 ed on input line 6.
 (pdftex.def)             Requested size: 355.8285pt x 126.97406pt.
-))
-(./Report.bbl) 
+)
+(./sections/SatelliteDesign/Communicationmodule.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+
+ []
+
+)) (./Report.bbl) 
 AED: lastpage setting LastPage
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
@@ -1824,32 +1829,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
 (./Report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
-
-
-Package rerunfilecheck Warning: File `Report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Report.out':
-(rerunfilecheck)             Before: CD089CCD6824D4F50A8545A3E3334E30;524
-(rerunfilecheck)             After:  C6D8937B2FF934FAB885F998E3061391;533.
+Package rerunfilecheck Info: File `Report.out' has not changed.
+(rerunfilecheck)             Checksum: 7F577552D66F9193FC089EB0BD645EDF;603.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 28720 strings out of 493014
- 539747 string characters out of 6133351
+ 28725 strings out of 493014
+ 539896 string characters out of 6133351
  610549 words of memory out of 5000000
- 31826 multiletter control sequences out of 15000+600000
+ 31827 multiletter control sequences out of 15000+600000
  50073 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,15n,51p,10484b,737s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/20
 16/texmf-dist/fonts/type1/public/lm/lmr12.pfb>
-Output written on Report.pdf (7 pages, 384369 bytes).
+Output written on Report.pdf (7 pages, 385222 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

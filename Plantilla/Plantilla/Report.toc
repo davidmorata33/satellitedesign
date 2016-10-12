@@ -7,3 +7,4 @@
 \contentsline {section}{\numberline {2}Satellite design}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}Electrical Power System}{2}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Market study}{2}{subsubsection.2.1.1}
+\contentsline {subsection}{\numberline {2.2}Communication module}{2}{subsection.2.2}
