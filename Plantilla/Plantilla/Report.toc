@@ -4,7 +4,6 @@
 \contentsline {subsection}{\numberline {1.1}Example}{1}{subsection.1.1}
 \contentsline {subsubsection}{\numberline {1.1.1}Example}{1}{subsubsection.1.1.1}
 \contentsline {subsubsubsection}{\numberline {1.1.1.1}Example}{1}{subsubsubsection.1.1.1.1}
-\contentsline {section}{\numberline {2}Example}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}Example}{2}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Example}{2}{subsubsection.2.1.1}
-\contentsline {subsubsubsection}{\numberline {2.1.1.1}Example}{2}{subsubsubsection.2.1.1.1}
+\contentsline {section}{\numberline {2}Satellite design}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Electrical Power System}{2}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Market study}{2}{subsubsection.2.1.1}
