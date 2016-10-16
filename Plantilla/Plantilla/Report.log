@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 OCT 2016 18:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 OCT 2016 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1832,18 +1832,23 @@ LaTeX Warning: Citation `cubesatdimensions' on page 2 undefined on input line 8
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 35.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 36.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35 \end{longtable}
+l.36 \end{longtable}
                      [2
 
- <./sections/SatelliteDesign/images/CubeSatDesign.png>]) (./sections/SatelliteD
-esign/EPS.tex
-<./sections/SatelliteDesign/images/EPSschematics.png, id=249, 711.65875pt x 253
+ <./sections/SatelliteDesign/images/CubeSatDesign.png>]
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 36.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [3]) (./sections/SatelliteDesign/EPS.tex
+<./sections/SatelliteDesign/images/EPSschematics.png, id=253, 711.65875pt x 253
 .94875pt>
 File: ./sections/SatelliteDesign/images/EPSschematics.png Graphic file (type pn
 g)
@@ -1853,50 +1858,59 @@ ed on input line 6.
 (pdftex.def)             Requested size: 426.99855pt x 152.3704pt.
 
 
-LaTeX Warning: Citation `epsbasics' on page 3 undefined on input line 8.
+LaTeX Warning: Citation `epsbasics' on page 4 undefined on input line 8.
 
 
-LaTeX Warning: Citation `epsbasics' on page 3 undefined on input line 8.
+LaTeX Warning: Citation `epsbasics' on page 4 undefined on input line 8.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 34.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 19.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [3 <./sections/SatelliteDesign/images/EPSschematics.png>]) (./sections/Satelli
+ [4 <./sections/SatelliteDesign/images/EPSschematics.png>]) (./sections/Satelli
 teDesign/Propulsion.tex)
 (./sections/SatelliteDesign/Communicationmodule.tex
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [5]
 Underfull \hbox (badness 10000) in paragraph at lines 14--19
 
  []
 
-) (./sections/SatelliteDesign/Payload.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 5.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+) (./sections/SatelliteDesign/Payload.tex) (./sections/SatelliteDesign/AOCS.tex
 
-[4]) (./sections/SatelliteDesign/AOCS.tex)
-(./sections/SatelliteDesign/Subsystems.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 12.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
 
-[5])) (./Report.bbl) 
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 4.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [6])) (./Report.bbl)
+
 AED: lastpage setting LastPage
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 58.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [6]
+ [7]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
  (./Report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
-Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 5943A457EDDD9BC6A0ED745A18170D5D;2803.
 
+
+Package rerunfilecheck Warning: File `Report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Report.out':
+(rerunfilecheck)             Before: 5943A457EDDD9BC6A0ED745A18170D5D;2803
+(rerunfilecheck)             After:  E07D62D429C743429ED0F39F5DD919DA;2351.
 
 LaTeX Warning: There were undefined references.
 
@@ -1906,23 +1920,50 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 28835 strings out of 493014
- 542000 string characters out of 6133351
+ 28836 strings out of 493014
+ 541950 string characters out of 6133351
  614729 words of memory out of 5000000
  31880 multiletter control sequences out of 15000+600000
  56175 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,16n,87p,10484b,854s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
-texlive/2016/texmf-dist/fonts/type1/public/eurosym/feybr10.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
-/public/lm/lmr12.pfb>
-Output written on Report.pdf (12 pages, 652330 bytes).
+ 44i,16n,87p,10484b,844s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{figure.caption.2} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.2.7.6} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.2.7.5} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.2.7.4} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.2.7.3} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.2.7.2} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.2.7.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.2.7} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.3} has been referenced but does not exist,
+ replaced by a fixed one
+
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/eurosym/feybr10.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
+ublic/lm/lmr12.pfb>
+Output written on Report.pdf (13 pages, 654081 bytes).
 PDF statistics:
- 303 PDF objects out of 1000 (max. 8388607)
- 274 compressed objects within 3 object streams
- 53 named destinations out of 1000 (max. 500000)
+ 312 PDF objects out of 1000 (max. 8388607)
+ 282 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
  341 words of extra memory for PDF output out of 10000 (max. 10000000)
 
