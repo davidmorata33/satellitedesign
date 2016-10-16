@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  13 OCT 2016 11:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 OCT 2016 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1718,14 +1718,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 16.
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (./doc_config/cover.tex
-<./doc_config/images/logo.png, id=115, 3862.43pt x 1275.76625pt>
+<./doc_config/images/logo.png, id=159, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 169.29684pt x 55.90807pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=116, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=160, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1758,41 +1758,48 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map} <./doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT
-.jpg>] [2] (./Report.toc)
+.jpg>] [2] (./Report.toc
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 38.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [1
+
+])
 \tf@toc=\write4
 \openout4 = `Report.toc'.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
+
+<use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 28.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [1
-
-] (./Report.lot)
+ [2] (./Report.lot)
 \tf@lot=\write5
 \openout5 = `Report.lot'.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
+
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 31.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [2
+ [3
 
 ] (./Report.lof
 
-LaTeX Warning: Citation `cubesatdimensions' on page iii undefined on input line
- 1.
+LaTeX Warning: Citation `cubesatdimensions' on page iv undefined on input line 
+1.
 
 
-LaTeX Warning: Citation `epsbasics' on page iii undefined on input line 2.
+LaTeX Warning: Citation `epsbasics' on page iv undefined on input line 2.
 
 
-LaTeX Warning: Citation `cubesatdimensions' on page iii undefined on input line
- 3.
+LaTeX Warning: Citation `cubesatdimensions' on page iv undefined on input line 
+3.
 
 
-LaTeX Warning: Citation `cubesatdimensions' on page iii undefined on input line
- 4.
+LaTeX Warning: Citation `cubesatdimensions' on page iv undefined on input line 
+4.
 
 )
 \tf@lof=\write6
@@ -1802,7 +1809,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 36.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [3
+ [4
 
 ] (./sections/0_Example/example.tex)
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -1820,7 +1827,7 @@ l.40 \newpage
 ]
 (./sections/SatelliteDesign/SatDesign.tex
 (./sections/SatelliteDesign/Structureandmechanical.tex
-<./sections/SatelliteDesign/images/CubeSatDesign.png, id=188, 614.295pt x 397.4
+<./sections/SatelliteDesign/images/CubeSatDesign.png, id=244, 614.295pt x 397.4
 85pt>
 File: ./sections/SatelliteDesign/images/CubeSatDesign.png Graphic file (type pn
 g)
@@ -1850,7 +1857,7 @@ l.35 \end{longtable}
 
  <./sections/SatelliteDesign/images/CubeSatDesign.png>]) (./sections/SatelliteD
 esign/EPS.tex
-<./sections/SatelliteDesign/images/EPSschematics.png, id=198, 711.65875pt x 253
+<./sections/SatelliteDesign/images/EPSschematics.png, id=253, 711.65875pt x 253
 .94875pt>
 File: ./sections/SatelliteDesign/images/EPSschematics.png Graphic file (type pn
 g)
@@ -1924,14 +1931,20 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 15.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [5])) (./Report.bbl)
+ [5])
+(./sections/SatelliteDesign/Subsystems.tex
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 14.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
+[6])) (./Report.bbl) 
 AED: lastpage setting LastPage
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 58.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [6]
+ [7]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
  (./Report.aux)
@@ -1944,8 +1957,8 @@ Package rerunfilecheck Warning: File `Report.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Report.out':
-(rerunfilecheck)             Before: 6320D00851BE1E6784D2A973F8C76D50;2022
-(rerunfilecheck)             After:  99A1650F3407F139FE4BD28D72D804CD;2011.
+(rerunfilecheck)             Before: 5D047F2C8CEF6E549E307834351364DF;2737
+(rerunfilecheck)             After:  05E42DB83EA71BD05F3761FCB41BF948;2741.
 
 LaTeX Warning: There were undefined references.
 
@@ -1955,23 +1968,23 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 28810 strings out of 493014
- 541496 string characters out of 6133351
+ 28837 strings out of 493014
+ 541959 string characters out of 6133351
  615831 words of memory out of 5000000
- 31870 multiletter control sequences out of 15000+600000
+ 31881 multiletter control sequences out of 15000+600000
  56175 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,15n,87p,10484b,854s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,16n,87p,10484b,854s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2016/texmf-dist/fonts/type1/public/eurosym/feybr10.pfb></usr/local/texl
 ive/2016/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2016/t
 exmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/
 fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /public/lm/lmr12.pfb>
-Output written on Report.pdf (11 pages, 650001 bytes).
+Output written on Report.pdf (13 pages, 654423 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 500000)
- 245 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 315 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 333 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,5 @@
-\contentsline {section}{List of Tables}{ii}{Doc-Start}
-\contentsline {section}{List of Figures}{iii}{Doc-Start}
+\contentsline {section}{List of Tables}{iii}{Doc-Start}
+\contentsline {section}{List of Figures}{iv}{Doc-Start}
 \contentsline {section}{\numberline {1}Example}{1}{section.1}
 \contentsline {subsection}{\numberline {1.1}Example}{1}{subsection.1.1}
 \contentsline {subsubsection}{\numberline {1.1.1}Example}{1}{subsubsection.1.1.1}
@@ -26,3 +26,14 @@
 \contentsline {subsubsection}{\numberline {2.5.2}Batteries}{6}{subsubsection.2.5.2}
 \contentsline {subsubsection}{\numberline {2.5.3}Power management}{6}{subsubsection.2.5.3}
 \contentsline {subsubsection}{\numberline {2.5.4}Study of the commercial available options}{6}{subsubsection.2.5.4}
+\contentsline {subsection}{\numberline {2.6}Subsystems}{6}{subsection.2.6}
+\contentsline {subsubsection}{\numberline {2.6.1}Communication}{6}{subsubsection.2.6.1}
+\contentsline {paragraph}{}{6}{section*.5}
+\contentsline {paragraph}{}{6}{section*.6}
+\contentsline {subsubsection}{\numberline {2.6.2}Electrical power}{7}{subsubsection.2.6.2}
+\contentsline {paragraph}{}{7}{section*.7}
+\contentsline {paragraph}{}{7}{section*.8}
+\contentsline {subsubsection}{\numberline {2.6.3}Thermal protection}{7}{subsubsection.2.6.3}
+\contentsline {subsubsection}{\numberline {2.6.4}Attitude and orbital}{7}{subsubsection.2.6.4}
+\contentsline {subsubsection}{\numberline {2.6.5}Propulsion?}{7}{subsubsection.2.6.5}
+\contentsline {subsubsection}{\numberline {2.6.6}Payload?}{7}{subsubsection.2.6.6}
