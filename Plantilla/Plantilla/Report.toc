@@ -6,34 +6,35 @@
 \contentsline {subsubsubsection}{\numberline {1.1.1.1}Example}{1}{subsubsubsection.1.1.1.1}
 \contentsline {section}{\numberline {2}Satellite design}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}Structure and mechanics}{2}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Solar arrays}{2}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}Batteries}{2}{subsubsection.2.1.2}
-\contentsline {subsubsection}{\numberline {2.1.3}Power management}{2}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.1}Structure}{2}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Deployments}{2}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Thermal protection}{2}{subsubsection.2.1.3}
 \contentsline {subsubsection}{\numberline {2.1.4}Study of the commercial available options}{2}{subsubsection.2.1.4}
 \contentsline {subsection}{\numberline {2.2}Electrical Power System}{3}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Solar arrays}{3}{subsubsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2}Batteries}{4}{subsubsection.2.2.2}
 \contentsline {subsubsection}{\numberline {2.2.3}Power management}{4}{subsubsection.2.2.3}
 \contentsline {subsubsection}{\numberline {2.2.4}Study of the commercial available options}{4}{subsubsection.2.2.4}
-\contentsline {subsection}{\numberline {2.3}Communication module}{4}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Payload}{4}{subsection.2.4}
-\contentsline {subsubsection}{\numberline {2.4.1}Solar arrays}{4}{subsubsection.2.4.1}
-\contentsline {subsubsection}{\numberline {2.4.2}Batteries}{4}{subsubsection.2.4.2}
-\contentsline {subsubsection}{\numberline {2.4.3}Power management}{4}{subsubsection.2.4.3}
-\contentsline {subsubsection}{\numberline {2.4.4}Study of the commercial available options}{5}{subsubsection.2.4.4}
-\contentsline {subsection}{\numberline {2.5}Attitude and control systems}{5}{subsection.2.5}
-\contentsline {subsubsection}{\numberline {2.5.1}Solar arrays}{5}{subsubsection.2.5.1}
-\contentsline {subsubsection}{\numberline {2.5.2}Batteries}{6}{subsubsection.2.5.2}
-\contentsline {subsubsection}{\numberline {2.5.3}Power management}{6}{subsubsection.2.5.3}
-\contentsline {subsubsection}{\numberline {2.5.4}Study of the commercial available options}{6}{subsubsection.2.5.4}
-\contentsline {subsection}{\numberline {2.6}Subsystems}{6}{subsection.2.6}
-\contentsline {subsubsection}{\numberline {2.6.1}Communication}{6}{subsubsection.2.6.1}
+\contentsline {subsection}{\numberline {2.3}Propulsion Systems}{4}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Motivations}{4}{subsubsection.2.3.1}
+\contentsline {paragraph}{}{4}{section*.3}
+\contentsline {subsubsection}{\numberline {2.3.2}Study of the commercial available options}{4}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}Communication module}{4}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Payload}{5}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Antenna}{5}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Data Handling Systems}{5}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Study of the commercial available options}{5}{subsubsection.2.5.3}
+\contentsline {subsection}{\numberline {2.6}Attitude and control systems}{5}{subsection.2.6}
+\contentsline {subsubsection}{\numberline {2.6.1}EMPTY}{5}{subsubsection.2.6.1}
+\contentsline {subsubsection}{\numberline {2.6.2}EMPTY}{5}{subsubsection.2.6.2}
+\contentsline {subsection}{\numberline {2.7}Subsystems}{5}{subsection.2.7}
+\contentsline {subsubsection}{\numberline {2.7.1}Communication}{5}{subsubsection.2.7.1}
+\contentsline {paragraph}{}{5}{section*.4}
 \contentsline {paragraph}{}{6}{section*.5}
+\contentsline {subsubsection}{\numberline {2.7.2}Electrical power system}{6}{subsubsection.2.7.2}
 \contentsline {paragraph}{}{6}{section*.6}
-\contentsline {subsubsection}{\numberline {2.6.2}Electrical power}{7}{subsubsection.2.6.2}
-\contentsline {paragraph}{}{7}{section*.7}
-\contentsline {paragraph}{}{7}{section*.8}
-\contentsline {subsubsection}{\numberline {2.6.3}Thermal protection}{7}{subsubsection.2.6.3}
-\contentsline {subsubsection}{\numberline {2.6.4}Attitude and orbital}{7}{subsubsection.2.6.4}
-\contentsline {subsubsection}{\numberline {2.6.5}Propulsion?}{7}{subsubsection.2.6.5}
-\contentsline {subsubsection}{\numberline {2.6.6}Payload?}{7}{subsubsection.2.6.6}
+\contentsline {paragraph}{}{6}{section*.7}
+\contentsline {subsubsection}{\numberline {2.7.3}Thermal protection}{6}{subsubsection.2.7.3}
+\contentsline {subsubsection}{\numberline {2.7.4}Attitude and orbital control system}{6}{subsubsection.2.7.4}
+\contentsline {subsubsection}{\numberline {2.7.5}Propulsion?}{6}{subsubsection.2.7.5}
+\contentsline {subsubsection}{\numberline {2.7.6}Payload?}{6}{subsubsection.2.7.6}
