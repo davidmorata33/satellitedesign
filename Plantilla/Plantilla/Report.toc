@@ -1,5 +1,5 @@
-\contentsline {section}{List of Tables}{iii}{Doc-Start}
-\contentsline {section}{List of Figures}{iv}{Doc-Start}
+\contentsline {section}{List of Tables}{ii}{Doc-Start}
+\contentsline {section}{List of Figures}{iii}{Doc-Start}
 \contentsline {section}{\numberline {1}Example}{1}{section.1}
 \contentsline {subsection}{\numberline {1.1}Example}{1}{subsection.1.1}
 \contentsline {subsubsection}{\numberline {1.1.1}Example}{1}{subsubsection.1.1.1}
@@ -20,15 +20,20 @@
 \contentsline {subsection}{\numberline {2.3}Propulsion Systems}{5}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}Motivations}{5}{subsubsection.2.3.1}
 \contentsline {paragraph}{}{5}{section*.5}
-\contentsline {subsubsection}{\numberline {2.3.2}Study of the commercial available options}{6}{subsubsection.2.3.2}
-\contentsline {subsection}{\numberline {2.4}Communication module}{6}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}Payload}{6}{subsection.2.5}
-\contentsline {subsubsection}{\numberline {2.5.1}Antenna and communication system}{6}{subsubsection.2.5.1}
 \contentsline {paragraph}{}{6}{section*.6}
+\contentsline {subsubsection}{\numberline {2.3.2}Orbit decay}{6}{subsubsection.2.3.2}
 \contentsline {paragraph}{}{6}{section*.7}
-\contentsline {subsubsection}{\numberline {2.5.2}Data Handling Systems}{6}{subsubsection.2.5.2}
-\contentsline {subsubsection}{\numberline {2.5.3}Study of the commercial available options}{6}{subsubsection.2.5.3}
+\contentsline {paragraph}{}{6}{section*.8}
+\contentsline {paragraph}{}{6}{section*.9}
+\contentsline {paragraph}{}{6}{section*.10}
+\contentsline {subsection}{\numberline {2.4}Communication module}{6}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Payload}{7}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Antenna and communication system}{7}{subsubsection.2.5.1}
+\contentsline {paragraph}{}{7}{section*.11}
+\contentsline {paragraph}{}{7}{section*.12}
+\contentsline {subsubsection}{\numberline {2.5.2}Data Handling Systems}{7}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Study of the commercial available options}{7}{subsubsection.2.5.3}
 \contentsline {subsection}{\numberline {2.6}Attitude and control systems}{7}{subsection.2.6}
-\contentsline {paragraph}{}{7}{section*.8}
+\contentsline {paragraph}{}{7}{section*.13}
 \contentsline {subsubsection}{\numberline {2.6.1}EMPTY}{7}{subsubsection.2.6.1}
 \contentsline {subsubsection}{\numberline {2.6.2}EMPTY}{7}{subsubsection.2.6.2}

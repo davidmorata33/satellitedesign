@@ -3,7 +3,28 @@
 EMPTY
 
 \subsubsection{Motivations}
-\paragraph{}There is a big risk of a collision with space debris while a spacecraft is operating in LEO. The Inter-Agency Space Debris Coordination Committee to the United Nations (section 5.3.2 ‘Objects Passing Through the LEO Region’): “Whenever possible space systems that are terminating their operational phases in orbits that pass through the LEO region, or have the potential to interfere with the LEO region, should be de-orbited (direct re-entry is preferred) or where appropriate manoeuvred into an orbit with a reduced lifetime. Retrieval is also a disposal option.” and “A space system should be left in an orbit in which, using an accepted nominal projection for solar activity, atmospheric drag will limit the orbital lifetime after completion of operations. A study on the effect of post- mission orbital lifetime limitation on collision rate and debris population growth has been performed by the IADC. This IADC and some other studies and a number of existing national guidelines have found 25 years to be a reasonable and appropriate lifetime limit.”
+\paragraph{}There is a big risk of a collision with space debris while a spacecraft is operating in Low Earth Orbits. The Inter-Agency Space Debris Coordination Committee recommended to the United Nations (section 5.3.2 ‘Objects Passing Through the LEO Region’): “Whenever possible space systems that are terminating their operational phases in orbits that pass through the LEO region, or have the potential to interfere with the LEO region, should be de-orbited (direct re-entry is preferred) or where appropriate manoeuvred into an orbit with a reduced lifetime. Retrieval is also a disposal option.” and “A space system should be left in an orbit in which, using an accepted nominal projection for solar activity, atmospheric drag will limit the orbital lifetime after completion of operations. A study on the effect of post- mission orbital lifetime limitation on collision rate and debris population growth has been performed by the IADC. This IADC and some other studies and a number of existing national guidelines have found 25 years to be a reasonable and appropriate lifetime limit.”
 
-\subsubsection{Study of the commercial available options}
-EMPTY
+Thus, a proper propulsion system is needed both for maintaining the satellite's orbit and for de-orbiting after the mission's lifetime.
+
+\paragraph{}Given the size of the CubeSat, not many effective options are available and a committed solution has to be found in order to follow the recommendations by the IADC.
+
+\subsubsection{Orbit decay}
+
+\paragraph{}Orbit decay prediction powered by the Bureau of Meteorology by the Australian Government.
+
+To calculate the orbit decay the following parameters are used:
+\paragraph{}Solar Radio Flux at 10.7cm (F10.7). It is a clear indicator of solar activity and has proven very valuable in forecasting space weather. The extreme UV that impact the ionosphere also modify the upper atmosphere, thus F10.7 data is needed to account for these variations. The value used in this calculation is: 79.54.
+REF: http://www.spaceweather.gc.ca/solarflux/sx-5-mavg-en.php
+
+\paragraph{}Cubesat mass of up to 4kg.
+
+\paragraph{}The K-index, and by extension the Planetary K-index, are used to characterize the magnitude of geomagnetic storms. Kp is an excellent indicator of disturbances in the Earth's magnetic field and is used by SWPC to decide whether geomagnetic alerts and warnings need to be issued for users who are affected by these disturbances.
+
+The principal users affected by geomagnetic storms are the electrical power grid, spacecraft operations, users of radio signals that reflect off of or pass through the ionosphere, and observers of the aurora.
+
+The geomagnetic index used in this calculation is: 12.
+
+RE-ENTRY EVERY 106.25 DAYS!
+
+
