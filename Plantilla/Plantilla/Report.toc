@@ -1,9 +1,6 @@
-\contentsline {section}{List of Tables}{iii}{Doc-Start}
-\contentsline {section}{List of Figures}{iv}{Doc-Start}
-\contentsline {section}{\numberline {1}Example}{1}{section.1}
-\contentsline {subsection}{\numberline {1.1}Example}{1}{subsection.1.1}
-\contentsline {subsubsection}{\numberline {1.1.1}Example}{1}{subsubsection.1.1.1}
-\contentsline {subsubsubsection}{\numberline {1.1.1.1}Example}{1}{subsubsubsection.1.1.1.1}
+\contentsline {section}{List of Tables}{ii}{Doc-Start}
+\contentsline {section}{List of Figures}{iii}{Doc-Start}
+\contentsline {section}{\numberline {1}Satellite design planning}{1}{section.1}
 \contentsline {section}{\numberline {2}Satellite design}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}Structure and mechanics}{2}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Structure}{2}{subsubsection.2.1.1}
@@ -37,7 +34,7 @@
 \contentsline {subsubsection}{\numberline {2.6.1}Communications systems}{7}{subsubsection.2.6.1}
 \contentsline {paragraph}{}{8}{section*.12}
 \contentsline {paragraph}{}{8}{section*.13}
-\contentsline {subsubsection}{\numberline {2.6.2}Data Handling Systems}{8}{subsubsection.2.6.2}
-\contentsline {subsubsection}{\numberline {2.6.3}Antenna}{8}{subsubsection.2.6.3}
-\contentsline {subsubsection}{\numberline {2.6.4}Study of the commercial available options}{8}{subsubsection.2.6.4}
+\contentsline {subsubsubsection}{\numberline {2.6.1.1}Data Handling Systems}{8}{subsubsubsection.2.6.1.1}
+\contentsline {subsubsubsection}{\numberline {2.6.1.2}Antenna}{8}{subsubsubsection.2.6.1.2}
+\contentsline {subsubsection}{\numberline {2.6.2}Study of the commercial available options}{8}{subsubsection.2.6.2}
 \contentsline {section}{\numberline {3}References}{9}{section.3}
