@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  17 OCT 2016 09:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  17 OCT 2016 09:45
 entering extended mode
 **./Report.tex
 (Report.tex
@@ -1447,6 +1447,9 @@ LaTeX Warning: Label `epsoptionstable' multiply defined.
 
 LaTeX Warning: Label `epsoptionstable' multiply defined.
 
+
+LaTeX Warning: Label `epsoptionstable' multiply defined.
+
 )
 \openout1 = `Report.aux'.
 
@@ -1704,14 +1707,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 16.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (doc_config/cover.tex
-<./doc_config/images/logo.png, id=166, 3862.43pt x 1275.76625pt>
+<./doc_config/images/logo.png, id=170, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 169.29684pt x 55.90807pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=167, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=171, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1799,7 +1802,7 @@ l.40 \newpage
 ]
 (sections/SatelliteDesign/SatDesign.tex
 (sections/SatelliteDesign/Structureandmechanical.tex
-<./sections/SatelliteDesign/images/CubeSatDesign.png, id=234, 614.295pt x 397.4
+<./sections/SatelliteDesign/images/CubeSatDesign.png, id=241, 614.295pt x 397.4
 85pt>
 File: ./sections/SatelliteDesign/images/CubeSatDesign.png Graphic file (type pn
 g)
@@ -1834,7 +1837,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 36.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [3]) (sections/SatelliteDesign/EPS.tex
-<./sections/SatelliteDesign/images/EPSschematics.png, id=247, 711.65875pt x 253
+<./sections/SatelliteDesign/images/EPSschematics.png, id=254, 711.65875pt x 253
 .94875pt>
 File: ./sections/SatelliteDesign/images/EPSschematics.png Graphic file (type pn
 g)
@@ -1895,7 +1898,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 44CB7C6AB979D4BCFB76F7A2C569455E;2858.
+(rerunfilecheck)             Checksum: C45546509EE6529CDCD28F2BF945E474;2916.
 
 
 LaTeX Warning: There were undefined references.
@@ -1906,10 +1909,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 28860 strings out of 493334
- 540262 string characters out of 3139246
- 618191 words of memory out of 3000000
- 31891 multiletter control sequences out of 15000+200000
+ 28864 strings out of 493334
+ 540314 string characters out of 3139246
+ 618242 words of memory out of 3000000
+ 31893 multiletter control sequences out of 15000+200000
  56175 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,15n,87p,10486b,842s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1918,9 +1921,9 @@ iKTeX 2.9/fonts/type1/public/eurosym/feybr10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:
 /Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb>
-Output written on Report.pdf (13 pages, 684276 bytes).
+Output written on Report.pdf (13 pages, 685853 bytes).
 PDF statistics:
- 306 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 349 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 313 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 357 words of extra memory for PDF output out of 10000 (max. 10000000)
 

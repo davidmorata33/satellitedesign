@@ -34,8 +34,9 @@
 \contentsline {subsubsection}{\numberline {2.5.3}Orbital Control}{7}{subsubsection.2.5.3}
 \contentsline {subsubsection}{\numberline {2.5.4}Study of the commercial available options}{7}{subsubsection.2.5.4}
 \contentsline {subsection}{\numberline {2.6}Payload}{7}{subsection.2.6}
-\contentsline {subsubsection}{\numberline {2.6.1}Antenna and communication system}{7}{subsubsection.2.6.1}
+\contentsline {subsubsection}{\numberline {2.6.1}Communications systems}{7}{subsubsection.2.6.1}
 \contentsline {paragraph}{}{8}{section*.12}
 \contentsline {paragraph}{}{8}{section*.13}
 \contentsline {subsubsection}{\numberline {2.6.2}Data Handling Systems}{8}{subsubsection.2.6.2}
-\contentsline {subsubsection}{\numberline {2.6.3}Study of the commercial available options}{8}{subsubsection.2.6.3}
+\contentsline {subsubsection}{\numberline {2.6.3}Antenna}{8}{subsubsection.2.6.3}
+\contentsline {subsubsection}{\numberline {2.6.4}Study of the commercial available options}{8}{subsubsection.2.6.4}
