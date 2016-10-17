@@ -27,13 +27,15 @@
 \BOOKMARK [4][-]{section*.9}{}{subsubsection.2.3.2}% 27
 \BOOKMARK [4][-]{section*.10}{}{subsubsection.2.3.2}% 28
 \BOOKMARK [2][-]{subsection.2.4}{Communication module}{section.2}% 29
-\BOOKMARK [2][-]{subsection.2.5}{Payload}{section.2}% 30
-\BOOKMARK [3][-]{subsubsection.2.5.1}{Antenna and communication system}{subsection.2.5}% 31
-\BOOKMARK [4][-]{section*.11}{}{subsubsection.2.5.1}% 32
-\BOOKMARK [4][-]{section*.12}{}{subsubsection.2.5.1}% 33
-\BOOKMARK [3][-]{subsubsection.2.5.2}{Data Handling Systems}{subsection.2.5}% 34
-\BOOKMARK [3][-]{subsubsection.2.5.3}{Study of the commercial available options}{subsection.2.5}% 35
-\BOOKMARK [2][-]{subsection.2.6}{Attitude and control systems}{section.2}% 36
-\BOOKMARK [3][-]{section*.13}{}{subsection.2.6}% 37
-\BOOKMARK [3][-]{subsubsection.2.6.1}{EMPTY}{subsection.2.6}% 38
-\BOOKMARK [3][-]{subsubsection.2.6.2}{EMPTY}{subsection.2.6}% 39
+\BOOKMARK [2][-]{subsection.2.5}{Attitude and Orbital Control Systems}{section.2}% 30
+\BOOKMARK [3][-]{section*.11}{}{subsection.2.5}% 31
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Attitude Determination}{subsection.2.5}% 32
+\BOOKMARK [3][-]{subsubsection.2.5.2}{Attitude Control}{subsection.2.5}% 33
+\BOOKMARK [3][-]{subsubsection.2.5.3}{Orbital Control}{subsection.2.5}% 34
+\BOOKMARK [3][-]{subsubsection.2.5.4}{Study of the commercial available options}{subsection.2.5}% 35
+\BOOKMARK [2][-]{subsection.2.6}{Payload}{section.2}% 36
+\BOOKMARK [3][-]{subsubsection.2.6.1}{Antenna and communication system}{subsection.2.6}% 37
+\BOOKMARK [4][-]{section*.12}{}{subsubsection.2.6.1}% 38
+\BOOKMARK [4][-]{section*.13}{}{subsubsection.2.6.1}% 39
+\BOOKMARK [3][-]{subsubsection.2.6.2}{Data Handling Systems}{subsection.2.6}% 40
+\BOOKMARK [3][-]{subsubsection.2.6.3}{Study of the commercial available options}{subsection.2.6}% 41
