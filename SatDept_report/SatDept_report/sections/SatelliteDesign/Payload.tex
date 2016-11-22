@@ -1,12 +1,43 @@
 \subsection{Payload}
 
-EMPTY
-
-\section{Antennas}
+\subsubsection{Antennas}
  
-Antennas are a fundamental part of the communication subsytem and their principal work is transmit and receive electromagnetic waves.
-There are three main types of antennas: XXXXX. \\
-The main parameteres must fulfill meet certain requirements to ensure correct operation.
+\paragraph{}The antennas are an essential part of the communication subsytem and their principal rike is ti transmit and receive the data. In order to provide fast and reliable communication, several options have been studied and the solution is presented on the lines below.
+
+\subsubsubsection{Patch antenna}
+
+\paragraph{} \textbf{FALTA DESCRIPCIÓ}
+
+\begin{longtable}{| l | r |}
+
+\hline
+\rowcolor[gray]{0.60}	\textbf{Patch antenna} \\
+\hline
+
+\hline
+\rowcolor[gray]{0.75}	\textbf{Features} &  \textbf{Value}   \\
+\hline
+
+\cellcolor[gray]{0.85} \textbf{Bands} & L,S,C,X  \\
+\cellcolor[gray]{0.85} \textbf{Frequency range} & 1-12 GHz  \\
+\cellcolor[gray]{0.85} \textbf{Bandwidth} & 20 MHz \\
+\cellcolor[gray]{0.85} \textbf{Gain} & 6 dBi  \\
+\cellcolor[gray]{0.85} \textbf{Polarization} & Circular \\
+\cellcolor[gray]{0.85} \textbf{Maximum power consumption} & 10 W \\
+\cellcolor[gray]{0.85} \textbf{Impedance} & 50 Ohms \\
+\cellcolor[gray]{0.85} \textbf{Operational temperature range} & -65ºC to +100ºC \\
+\cellcolor[gray]{0.85} \textbf{Mass} & <250 grams \\
+\hline
+
+\end{longtable}
+
+
+\subsubsubsection{Turnstile antenna}
+
+\paragraph{} \textbf{FALTA DESCRIPCIÓ}
+
+\textbf{Nando, ¿esto se puede arreglar un poco?}
+
 
 \paragraph{}
 The frequency range is one of the most important parameters, because it must take into account satellite-satellite and satellite-earth communication. The initial requirement of the antenna frequency range is that it should be between 1-10 GHz. This is due to limitations in satellite-ground communication due to atmospheric conditions. Finding an antenna that meets this stringent requirement is very complicated, and a margin must be given to find an optimal market option.
@@ -40,33 +71,11 @@ The following table shows the main parameters of those antennas.
 \begin{longtable}{| l | r |}
 
 \hline
-\rowcolor[gray]{0.60}	\textbf{PACTH ANTENNA} \\
+\rowcolor[gray]{0.60}	\textbf{Turnstile antenna} \\
 \hline
 
 \hline
-\rowcolor[gray]{0.75}	\textbf{PARAMETERS} &  \textbf{VALUE}   \\
-\hline
-
-\cellcolor[gray]{0.85} \textbf{Frequency range} & 1-2 GHz  \\
-\cellcolor[gray]{0.85} \textbf{Bandwidth} & 20 MHz \\
-\cellcolor[gray]{0.85} \textbf{Gain} & 6 dBi  \\
-\cellcolor[gray]{0.85} \textbf{Polarization} & Circular \\
-\cellcolor[gray]{0.85} \textbf{Maximum power consumption} & 10 W \\
-\cellcolor[gray]{0.85} \textbf{Impedance} & 50 Ohms \\
-\cellcolor[gray]{0.85} \textbf{Operational temperature range} & -65ºC to +100ºC \\
-\cellcolor[gray]{0.85} \textbf{Mass} & <250 grams \\
-\hline
-
-\end{longtable}
-
-\begin{longtable}{| l | r |}
-
-\hline
-\rowcolor[gray]{0.60}	\textbf{TURNSTILE} \\
-\hline
-
-\hline
-\rowcolor[gray]{0.75}	\textbf{PARAMETERS} &  \textbf{VALUE}   \\
+\rowcolor[gray]{0.75}	\textbf{Features} &  \textbf{Value}   \\
 \hline
 
 \cellcolor[gray]{0.85} \textbf{Frequency range} & 400-480 MHz  \\
@@ -79,36 +88,36 @@ The following table shows the main parameters of those antennas.
 \cellcolor[gray]{0.85} \textbf{Mass} & 30 grams \\
 \hline
 
+	\caption{Main features of the turnstile antenna}
+	\label{turnstileantenna}
+
 \end{longtable}
 
 
-\subsubsection{Communications systems}
+\subsubsection{Data Handling Systems}
+
 The communication system allows us to realize the reception and trasmission of data, voice signals, etc. It consists of a group of transponders, that are the combination of a transmitter and a receiver and whose functions are receiving, separating, amplify, process, reamplify and retransmit signals.
 	\paragraph{} 
 	The telemetry subsytem analyses the information about the ground station and other sensors of the satellite in 	order to monitor conditions on board. It allows report to ground station about the conditions of the on board 			systems.
 	\paragraph{} 
 	The command and control subsystem allows the ground station to control the satellite.
-\subsubsubsection{Data Handling Systems}
-EMPTY
-\subsubsubsection{Antenna}
-EMPTY
 
 \subsubsection{Study of the commercial available options}
-EMPTY
+
+
 \begin{longtable}{| l | r | r | }
 	\hline
-	\rowcolor[gray]{0.80}	\textbf{Brand and model} &  \textbf{Features and description}     & \textbf{Money (\euro)}   \\
+	\rowcolor[gray]{0.80}	\textbf{System} &  \textbf{Brand and model}     & \textbf{Price per unit (\euro)}   \\
 	\hline
 	\endfirsthead
 	
-	\rowcolor[gray]{0.85} \textbf{Solar Panels} &  &  \\
-	~Fabricant 1 & EMPTY & 2000000 \\
-	~Chuscas 1 & EMPTY & 20000 \\
-	~Truñaas 1 & EMPTY & 20000 \\
-	~Cuescas 1 & EMPTY & 20000 \\
+	~Patch antenna & ADC, Microstrip & TO REQUEST! \\
+	~Turnstile antenna 1 & Gomspace, ANT430 & TO REQUEST \\
+	~TRANSCEIVER & EMPTY & TO REQUEST \\
+	~DHS & EMPTY & 20000 \\
 	\hline
 	
 	\caption{Options studied}
-	\label{epsoptionstable}
+	\label{payloadoptionstable}
 \end{longtable}
 

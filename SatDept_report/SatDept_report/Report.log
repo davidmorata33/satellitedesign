@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  23 NOV 2016 00:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  23 NOV 2016 00:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1456,9 +1456,6 @@ LaTeX Warning: Label `epsoptionstable' multiply defined.
 
 LaTeX Warning: Label `epsoptionstable' multiply defined.
 
-
-LaTeX Warning: Label `epsoptionstable' multiply defined.
-
 )
 \openout1 = `Report.aux'.
 
@@ -1718,14 +1715,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 16.
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (./doc_config/cover.tex
-<./doc_config/images/logo.png, id=208, 3862.43pt x 1275.76625pt>
+<./doc_config/images/logo.png, id=260, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 169.29684pt x 55.90807pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=209, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=261, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1832,7 +1829,7 @@ l.7 \begin{landscape}
                       [2
 
 ]
-<./sections/0_Example/GANTT_satellite_design.pdf, id=289, 1195.46625pt x 845.15
+<./sections/0_Example/GANTT_satellite_design.pdf, id=344, 1195.46625pt x 845.15
 75pt>
 File: ./sections/0_Example/GANTT_satellite_design.pdf Graphic file (type pdf)
  <use ./sections/0_Example/GANTT_satellite_design.pdf>
@@ -1846,7 +1843,7 @@ Package pdftex.def Info: ./sections/0_Example/GANTT_satellite_design.pdf used o
 n input line 8.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
 
-<./sections/0_Example/GANTT_satellite_design.pdf, id=292, page=1, 1195.46625pt 
+<./sections/0_Example/GANTT_satellite_design.pdf, id=347, page=1, 1195.46625pt 
 x 845.1575pt>
 File: ./sections/0_Example/GANTT_satellite_design.pdf Graphic file (type pdf)
  <use ./sections/0_Example/GANTT_satellite_design.pdf, page 1>
@@ -1888,7 +1885,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 3.
 
 
-<./sections/SatelliteDesign/images/CubeSatDesign.png, id=382, 614.295pt x 397.4
+<./sections/SatelliteDesign/images/CubeSatDesign.png, id=438, 614.295pt x 397.4
 85pt>
 File: ./sections/SatelliteDesign/images/CubeSatDesign.png Graphic file (type pn
 g)
@@ -1917,19 +1914,14 @@ estination with the same identifier (name{table.1}) has been already used, dupl
 icate ignored
 <to be read again> 
                    \relax 
-l.45 \end{longtable}
-                    
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 3.1 on input line 45.
-
-) (./sections/SatelliteDesign/EPS.tex
+l.44 \end{longtable}
+                    ) (./sections/SatelliteDesign/EPS.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
 
-<./sections/SatelliteDesign/images/EPSschematics.png, id=391, 711.65875pt x 253
+<./sections/SatelliteDesign/images/EPSschematics.png, id=445, 711.65875pt x 253
 .94875pt>
 File: ./sections/SatelliteDesign/images/EPSschematics.png Graphic file (type pn
 g)
@@ -1944,9 +1936,12 @@ LaTeX Warning: Citation `epsbasics' on page 5 undefined on input line 8.
 
 LaTeX Warning: Citation `epsbasics' on page 5 undefined on input line 8.
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 9.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 16.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [5]
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -1955,18 +1950,50 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 25.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
 [6 <./sections/SatelliteDesign/images/EPSschematics.png>])
-(./sections/SatelliteDesign/Propulsion.tex
+(./sections/SatelliteDesign/Payload.tex
+Underfull \vbox (badness 10000) detected at line 32
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 32.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [7]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 5.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 59.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
-[7]
+[8]
+Underfull \vbox (badness 10000) detected at line 94
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 102.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [9]
+Overfull \hbox (6.30745pt too wide) in alignment at lines 108--112
+ [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 3.5 on input line 122.
+
+) (./sections/SatelliteDesign/Propulsion.tex
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 15.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [10]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 34.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 65.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [8]
+
+[11]
 Underfull \vbox (badness 10000) detected at line 65
  []
 
@@ -1982,63 +2009,15 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 4.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 12.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [9]) (./sections/SatelliteDesign/Payload.tex
+ [12])) (./Report.bbl
 File: ./doc_config/images/logo.png Graphic file (type png)
+
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 5.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [10]
-
-Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 12.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 15.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 32.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [11
-
-]
-Underfull \vbox (badness 10000) detected at line 60
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.60 \end{longtable}
-                    
-Underfull \vbox (badness 10000) detected at line 82
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.82 \end{longtable}
-                    
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 87.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [12]pdfTeX warning (ext4): destination with the same identifier (name{table.3}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.113 \end{longtable}
-                     )) (./Report.bbl
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[13]
+ [13]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
@@ -2066,8 +2045,8 @@ Package rerunfilecheck Warning: File `Report.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Report.out':
-(rerunfilecheck)             Before: 1BEB0871CDBE19C6FF73A5586CF542D4;3386
-(rerunfilecheck)             After:  473EB066092DAD299274909A5E51D119;3919.
+(rerunfilecheck)             Before: EA60C6EDD03AF7E968A4CBC66B558487;4130
+(rerunfilecheck)             After:  06734A497A93409FE23E69DEA1242786;4187.
 
 LaTeX Warning: There were undefined references.
 
@@ -2077,51 +2056,24 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 28907 strings out of 493014
- 543012 string characters out of 6133351
- 629939 words of memory out of 5000000
- 31907 multiletter control sequences out of 15000+600000
+ 28919 strings out of 493014
+ 543147 string characters out of 6133351
+ 630113 words of memory out of 5000000
+ 31922 multiletter control sequences out of 15000+600000
  63429 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,18n,87p,10484b,941s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.caption.7} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.5} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.6.2} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsubsection.3.6.1.2} has been referenced but d
-oes not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsubsection.3.6.1.1} has been referenced but d
-oes not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.6.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.9} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.3} has been referenced but does not exist,
- replaced by a fixed one
-
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/eurosym/feybr10.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2016/tex
-mf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/fo
-nts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
-ublic/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lm
-r8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on Report.pdf (20 pages, 786206 bytes).
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/eurosym/feybr10.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/public/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
+lmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
+Output written on Report.pdf (20 pages, 789084 bytes).
 PDF statistics:
- 506 PDF objects out of 1000 (max. 8388607)
- 387 compressed objects within 4 object streams
- 94 named destinations out of 1000 (max. 500000)
- 449 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 545 PDF objects out of 1000 (max. 8388607)
+ 425 compressed objects within 5 object streams
+ 91 named destinations out of 1000 (max. 500000)
+ 553 words of extra memory for PDF output out of 10000 (max. 10000000)
 
