@@ -2,6 +2,86 @@
 
 EMPTY
 
+\section{Antennas}
+ 
+Antennas are a fundamental part of the communication subsytem and their principal work is transmit and receive electromagnetic waves.
+There are three main types of antennas: XXXXX. \\
+The main parameteres must fulfill meet certain requirements to ensure correct operation.
+
+\paragraph{}
+The frequency range is one of the most important parameters, because it must take into account satellite-satellite and satellite-earth communication. The initial requirement of the antenna frequency range is that it should be between 1-10 GHz. This is due to limitations in satellite-ground communication due to atmospheric conditions. Finding an antenna that meets this stringent requirement is very complicated, and a margin must be given to find an optimal market option.
+
+\paragraph{}
+The bandwidth is the frequency range where the highest power of the signal is found. The higher this bandwidth the better performance we will have.
+
+\paragraph{}
+The gain of an antenna is the ratio between the power density radiated in one direction and the power density that would radiate an isotropic antenna. The best option is to have a high gain. 
+
+\paragraph{}
+Polarization is the orientation of the electromagnetic waves when leaving the antenna. There are three types of polarization: linear, circular and elliptical.For better perfomance, an antenna that receives and an antenna that transmits must have the same polarization. In project case, the best option is circular polarization because it is able to keep the signal constant regardless of the appearance of different problems such as movement with respect to the ground station.
+
+\paragraph{} 
+The weight of the antennas should be as small as possible because the total weight of the cubesat should not exceed 4 kg. Most of the antennas of the market have a similar weight and does not cause us an extra problem when choosing the antenna of the project.
+
+\paragraph{} 
+The power consumption parameter is an important requierement because most of the power is consumed by the different subsystems. The stage of greater power consumption due to the antenna corresponds to its deployment, while once it is deployed, consumption is greatly reduced. In most cases, the power required for deployment ranges from 2-10 W. 
+
+\paragraph{}
+The operational temperature range is important to the correct work of the antenna, because if the antenna was in a temperature outside this range, it would not be able to perform the communication of optimal form. An habitual temperature range use to be between XXXX
+
+\paragraph{}
+After a market study, the antennas chosen to perform the communication have been a Microstrip Patch Antenna developed by Antenna Development Corporation and a turnstile antenna ANT430.On the back and lower face of the cubesat will be implemented turnstile antennas, while on the lateral sides will be implemented the antennas patch. 
+
+On the lower face of the cubesat is necessary to use an antenna turnstile because a thruster must be incorporated. 
+
+The following table shows the main parameters of those antennas.
+
+
+\begin{longtable}{| l | r |}
+
+\hline
+\rowcolor[gray]{0.60}	\textbf{PACTH ANTENNA} \\
+\hline
+
+\hline
+\rowcolor[gray]{0.75}	\textbf{PARAMETERS} &  \textbf{VALUE}   \\
+\hline
+
+\cellcolor[gray]{0.85} \textbf{Frequency range} & 1-2 GHz  \\
+\cellcolor[gray]{0.85} \textbf{Bandwidth} & 20 MHz \\
+\cellcolor[gray]{0.85} \textbf{Gain} & 6 dBi  \\
+\cellcolor[gray]{0.85} \textbf{Polarization} & Circular \\
+\cellcolor[gray]{0.85} \textbf{Maximum power consumption} & 10 W \\
+\cellcolor[gray]{0.85} \textbf{Impedance} & 50 Ohms \\
+\cellcolor[gray]{0.85} \textbf{Operational temperature range} & -65ºC to +100ºC \\
+\cellcolor[gray]{0.85} \textbf{Mass} & <250 grams \\
+\hline
+
+\end{longtable}
+
+\begin{longtable}{| l | r |}
+
+\hline
+\rowcolor[gray]{0.60}	\textbf{TURNSTILE} \\
+\hline
+
+\hline
+\rowcolor[gray]{0.75}	\textbf{PARAMETERS} &  \textbf{VALUE}   \\
+\hline
+
+\cellcolor[gray]{0.85} \textbf{Frequency range} & 400-480 MHz  \\
+\cellcolor[gray]{0.85} \textbf{Bandwidth} & 5 MHz \\
+\cellcolor[gray]{0.85} \textbf{Gain} & 1.5 dBi \\
+\cellcolor[gray]{0.85} \textbf{Polarization} & Circular \\
+\cellcolor[gray]{0.85} \textbf{Maximum power consumption} & 10 W \\
+\cellcolor[gray]{0.85} \textbf{Impedance} & 50 Ohms \\
+\cellcolor[gray]{0.85} \textbf{Operational temperature range} & -40ºC to +85ºC \\
+\cellcolor[gray]{0.85} \textbf{Mass} & 30 grams \\
+\hline
+
+\end{longtable}
+
+
 \subsubsection{Communications systems}
 The communication system allows us to realize the reception and trasmission of data, voice signals, etc. It consists of a group of transponders, that are the combination of a transmitter and a receiver and whose functions are receiving, separating, amplify, process, reamplify and retransmit signals.
 	\paragraph{} 
