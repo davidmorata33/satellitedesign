@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  29 NOV 2016 11:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  29 NOV 2016 11:18
 entering extended mode
 **./Report.tex
 (Report.tex
@@ -1447,9 +1447,6 @@ LaTeX Warning: Label `epsoptionstable' multiply defined.
 
 LaTeX Warning: Label `epsoptionstable' multiply defined.
 
-
-LaTeX Warning: Label `epsoptionstable' multiply defined.
-
 )
 \openout1 = `Report.aux'.
 
@@ -1707,14 +1704,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 16.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (doc_config/cover.tex
-<./doc_config/images/logo.png, id=315, 3862.43pt x 1275.76625pt>
+<./doc_config/images/logo.png, id=274, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 169.29684pt x 55.90807pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=316, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=275, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1736,7 +1733,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--64
 
  []
 
-[1
+) [1
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -1746,21 +1743,8 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <.
-/doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT.jpg>])
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 19.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [2] [3] (Report.toc
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 70.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [1
-
-])
+/doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT.jpg>] [2]
+(Report.toc)
 \tf@toc=\write4
 \openout4 = `Report.toc'.
 
@@ -1768,13 +1752,21 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 28.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [1
 
-[2] (Report.lot)
+]
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 28.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [2] (Report.lot)
 \tf@lot=\write5
 \openout5 = `Report.lot'.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
+
+<use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 31.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [3
@@ -1826,7 +1818,7 @@ l.7 \begin{landscape}
                       [2
 
 ]
-<./sections/0_Example/GANTT_satellite_design.pdf, id=407, 1195.46625pt x 845.15
+<./sections/0_Example/GANTT_satellite_design.pdf, id=358, 1195.46625pt x 845.15
 75pt>
 File: ./sections/0_Example/GANTT_satellite_design.pdf Graphic file (type pdf)
  <use ./sections/0_Example/GANTT_satellite_design.pdf>
@@ -1840,7 +1832,7 @@ Package pdftex.def Info: ./sections/0_Example/GANTT_satellite_design.pdf used o
 n input line 8.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
 
-<./sections/0_Example/GANTT_satellite_design.pdf, id=410, page=1, 1195.46625pt 
+<./sections/0_Example/GANTT_satellite_design.pdf, id=361, page=1, 1195.46625pt 
 x 845.1575pt>
 File: ./sections/0_Example/GANTT_satellite_design.pdf Graphic file (type pdf)
  <use ./sections/0_Example/GANTT_satellite_design.pdf, page 1>
@@ -1871,12 +1863,7 @@ File: ./sections/0_Example/GANTT_satellite_design.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./sections/0_Example/GANTT_satellite_design.pdf, page1
  used on input line 8.
 (pdftex.def)             Requested size: 845.32114pt x 597.61578pt.
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.8 ...tions/0_Example/GANTT_satellite_design.pdf}
-                                                   [3
+ [3
 
  <./sections/0_Example/GANTT_satellite_design.pdf, page is rotated 90 degrees>]
 ))
@@ -1887,7 +1874,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 3.
 
 
-<./sections/SatelliteDesign/images/CubeSatDesign.png, id=499, 614.295pt x 397.4
+<./sections/SatelliteDesign/images/CubeSatDesign.png, id=451, 614.295pt x 397.4
 85pt>
 File: ./sections/SatelliteDesign/images/CubeSatDesign.png Graphic file (type pn
 g)
@@ -1927,7 +1914,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 3.
 
 
-<./sections/SatelliteDesign/images/EPSschematics.png, id=511, 711.65875pt x 253
+<./sections/SatelliteDesign/images/EPSschematics.png, id=463, 711.65875pt x 253
 .94875pt>
 File: ./sections/SatelliteDesign/images/EPSschematics.png Graphic file (type pn
 g)
@@ -2001,12 +1988,25 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
-)) (Report.bbl
+) (sections/SatelliteDesign/LinkBudget.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 4.
+
+
+LaTeX Warning: Citation `bibid' on page 13 undefined on input line 4.
+
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 23.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [13])) (Report.bbl
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [13]
+ [14]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
@@ -2016,7 +2016,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 58.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [14
+ [15
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
@@ -2031,8 +2031,8 @@ Package rerunfilecheck Warning: File `Report.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Report.out':
-(rerunfilecheck)             Before: 0BBDCAFBDDFCD99270E4D26FFDDEFDF8;5433
-(rerunfilecheck)             After:  AFEC74D65B3EBE23EC814D6BACE19842;4425.
+(rerunfilecheck)             Before: AFEC74D65B3EBE23EC814D6BACE19842;4425
+(rerunfilecheck)             After:  E6213671881254C89B3A6DB15509CB88;4625.
 
 LaTeX Warning: There were undefined references.
 
@@ -2042,32 +2042,27 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 28955 strings out of 493334
- 541695 string characters out of 3139246
- 633578 words of memory out of 3000000
- 31938 multiletter control sequences out of 15000+200000
+ 28959 strings out of 493334
+ 541771 string characters out of 3139246
+ 633527 words of memory out of 3000000
+ 31937 multiletter control sequences out of 15000+200000
  63429 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,18n,87p,10486b,941s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{table.8} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.3.7.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.7} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/eurosym/feybr10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/l
-m/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/lm/lmri12.pfb>
-Output written on Report.pdf (21 pages, 838668 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Fil
+es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fon
+ts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec
+.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feybr10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
+lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
+Output written on Report.pdf (21 pages, 847449 bytes).
 PDF statistics:
- 603 PDF objects out of 1000 (max. 8388607)
- 97 named destinations out of 1000 (max. 500000)
- 689 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 580 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 585 words of extra memory for PDF output out of 10000 (max. 10000000)
 
