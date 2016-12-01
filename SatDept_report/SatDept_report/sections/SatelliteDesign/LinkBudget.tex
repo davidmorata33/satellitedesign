@@ -1,23 +1,66 @@
 \subsection{Link Budget}
 \paragraph
 \
-The link budget calculations are mostly calculated using the following fonts: \cite{bibid}
+The link budget calculations are mostly calculated using the following fonts:\cite{linkBudget}
+\subsubsection{Communications Basics}
+\paragraph
+\
+\cite{an9804.pdf}
+When evaluating a wireless link, the three most important questions to be answered are:\\
+\begin{enumerate}
+	\item How much radio frequency (RF) power is available?
+	\item How much bandwidth is available?
+	\item What is the rquired reliability (as defined by Bit Error Rate, or BER)?
+\end{enumerate}
+
+The upper limit in terms of data rate is given by Shannon's Channel Capacity Theorem:
+\begin{equation}
+	C=Blog_2(1+S/N)
+	\label{channelCapacity}
+\end{equation}
+where:
+\begin{align*}
+	C&= \text{channel capacity (bits/s)}\\
+	B&= \text{channel bandwidth (Hz)}\\
+	S&= \text{signal strength (watts)}\\
+	N&= \text{noise power (watts)}
+\end{align*}
+
+\subsubsection{Channel Noise}
+\paragraph
+\
+All objects which have heat emit RF energy in the form of random (Gaussian) noise. The amount of radiation emitted can be calculated by \cite{linkBudget}:
+\begin{equation}
+	N=kTB
+	\label{noise}
+\end{equation}
+where:
+\begin{align*}
+	N&= \text{noise power (watts)}\\
+	k&= \text{Boltzman's constant}(1.38\mathrm{x}10^{-23}J/K)\\
+	T&= \text{system temperature, usually assumed to be 290K}\\
+	B&= \text{channel bandwidth (Hz)}
+\end{align*}
+
+This is the lowest possible noise level for a system with a given physical temperature. For most applications, temperature is typically assumed to be room temperature (290K). Equations \ref{channelCapacity} and \ref{noise} demonstrate that RF power and bandwidth can be traded off to achieve a given performance level (as defined by BER).
+
+\subsubsection{Range and Path Loss}
+Another key consideration is the issue of range. As radio
+waves propagate in free space, power falls off as the square
+of range. For a doubling of range, power reaching a receiver
+antenna is reduced by a factor of four. This effect is due to
+the spreading of the radio waves as they propagate, and can
+be calculated by:
+\begin{equation}
+	L=20log_{10}(4\pi D/\lambda)
+\end{equation}
+where:
+\begin{align*}
+	D&= \text{the distance between receiver and transmitter}\\
+	\lambda&= \text{free space wavelength = c/f}\\
+	c&= \text{speed of light}(3\mathrm{x}10^8m/s)\\
+	f&= \text{frequency (Hz)}
+\end{align*}
+
 \subsubsection{Ling budget calculation}
 $EIRP=P_T-L_T-G_T$
-
-\begin{longtable}{| l | r | r | }
-	\hline
-	\rowcolor[gray]{0.80}	\textbf{Brand and model} &  \textbf{Features and description}     & \textbf{Money (\euro)}   \\
-	\hline
-	\endfirsthead
-	
-	\rowcolor[gray]{0.85} \textbf{Solar Panels} &  &  \\
-	~Fabricant 1 & EMPTY & 2000000 \\
-	~Chuscas 1 & EMPTY & 20000 \\
-	~Truñaas 1 & EMPTY & 20000 \\
-	~Cuescas 1 & EMPTY & 20000 \\
-	\hline
-	
-	\caption{Options studied}
-	\label{epsoptionstable}
-\end{longtable}
