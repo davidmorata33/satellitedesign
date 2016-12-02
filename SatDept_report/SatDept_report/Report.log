@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  2 DEC 2016 01:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  2 DEC 2016 13:40
 entering extended mode
 **./Report.tex
 (Report.tex
@@ -1780,8 +1780,14 @@ LaTeX Warning: Citation `cubesatdimensions' on page iv undefined on input line
 LaTeX Warning: Citation `epsbasics' on page iv undefined on input line 2.
 
 
+LaTeX Warning: Citation `linkBudget' on page iv undefined on input line 3.
+
+
+LaTeX Warning: Citation `linkBudget' on page iv undefined on input line 4.
+
+
 LaTeX Warning: Citation `cubesatdimensions' on page iv undefined on input line 
-3.
+5.
 
 )
 \tf@lof=\write6
@@ -1822,7 +1828,7 @@ l.7 \begin{landscape}
                       [2
 
 ]
-<./sections/0_Example/GANTT_satellite_design.pdf, id=501, 1195.46625pt x 845.15
+<./sections/0_Example/GANTT_satellite_design.pdf, id=504, 1195.46625pt x 845.15
 75pt>
 File: ./sections/0_Example/GANTT_satellite_design.pdf Graphic file (type pdf)
  <use ./sections/0_Example/GANTT_satellite_design.pdf>
@@ -1836,7 +1842,7 @@ Package pdftex.def Info: ./sections/0_Example/GANTT_satellite_design.pdf used o
 n input line 8.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
 
-<./sections/0_Example/GANTT_satellite_design.pdf, id=504, page=1, 1195.46625pt 
+<./sections/0_Example/GANTT_satellite_design.pdf, id=507, page=1, 1195.46625pt 
 x 845.1575pt>
 File: ./sections/0_Example/GANTT_satellite_design.pdf Graphic file (type pdf)
  <use ./sections/0_Example/GANTT_satellite_design.pdf, page 1>
@@ -1878,7 +1884,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 3.
 
 
-<./sections/SatelliteDesign/images/CubeSatDesign.png, id=594, 614.295pt x 397.4
+<./sections/SatelliteDesign/images/CubeSatDesign.png, id=597, 614.295pt x 397.4
 85pt>
 File: ./sections/SatelliteDesign/images/CubeSatDesign.png Graphic file (type pn
 g)
@@ -1918,7 +1924,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 3.
 
 
-<./sections/SatelliteDesign/images/EPSschematics.png, id=608, 711.65875pt x 253
+<./sections/SatelliteDesign/images/EPSschematics.png, id=611, 711.65875pt x 253
 .94875pt>
 File: ./sections/SatelliteDesign/images/EPSschematics.png Graphic file (type pn
 g)
@@ -2026,116 +2032,170 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 5.
 
-
-LaTeX Warning: Citation `linkBudget' on page 15 undefined on input line 11.
-
-
-LaTeX Warning: Citation `an9804.pdf' on page 15 undefined on input line 16.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 16--19
 
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 44.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [15]
-Underfull \hbox (badness 10000) in paragraph at lines 73--80
 
- []
+<./sections/SatelliteDesign/images/principal_losses.png, id=660, 624.83438pt x 
+326.72063pt>
+File: ./sections/SatelliteDesign/images/principal_losses.png Graphic file (type
+ png)
+ <use ./sections/SatelliteDesign/images/principal_losses.png>
+Package pdftex.def Info: ./sections/SatelliteDesign/images/principal_losses.png
+ used on input line 43.
+(pdftex.def)             Requested size: 499.86818pt x 261.37685pt.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 88.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [16]
-
-LaTeX Warning: Citation `bibid' on page 17 undefined on input line 104.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--105
-
+Overfull \hbox (16.17131pt too wide) in paragraph at lines 43--45
+ [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--110
-
- []
+LaTeX Warning: Citation `linkBudget' on page 15 undefined on input line 45.
 
 
-<./sections/SatelliteDesign/images/BEvsSNR.png, id=672, 826.58812pt x 592.46344
-pt>
-File: ./sections/SatelliteDesign/images/BEvsSNR.png Graphic file (type png)
- <use ./sections/SatelliteDesign/images/BEvsSNR.png>
-Package pdftex.def Info: ./sections/SatelliteDesign/images/BEvsSNR.png used on 
-input line 112.
-(pdftex.def)             Requested size: 247.97835pt x 177.7404pt.
+LaTeX Warning: Citation `linkBudget' on page 15 undefined on input line 45.
 
 
-LaTeX Warning: Citation `cubesatdimensions' on page 17 undefined on input line 
-114.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-LaTeX Warning: Citation `cubesatdimensions' on page 17 undefined on input line 
-114.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 126.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [17 <./sections/SatelliteDesign/images/BEvsSNR.png>]
-
-LaTeX Warning: Citation `linkBudget' on page 18 undefined on input line 139.
-
-)) (Report.bbl
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [18]
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) (Report.bbl
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [19
-
-]
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) 
-AED: lastpage setting LastPage
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 59.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [20
+ [15]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 70.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+
+[16 <./sections/SatelliteDesign/images/principal_losses.png>]
+
+LaTeX Warning: Citation `Link Budget' on page 17 undefined on input line 79.
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 78--80
+[]\T1/lmr/m/n/12 The ma-jor dis-tin-guish-ing fac-tor be-tween them is their or
+i-gin. At-ten-u-a-tion is
+ []
+
+
+LaTeX Warning: Citation `linkBudget' on page 17 undefined on input line 98.
+
+
+LaTeX Warning: Citation `link Budget' on page 17 undefined on input line 100.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 100.
+
+
+<./sections/SatelliteDesign/images/specificAttenuation.png, id=680, 563.85657pt
+ x 430.60875pt>
+File: ./sections/SatelliteDesign/images/specificAttenuation.png Graphic file (t
+ype png)
+
+<use ./sections/SatelliteDesign/images/specificAttenuation.png>
+Package pdftex.def Info: ./sections/SatelliteDesign/images/specificAttenuation.
+png used on input line 109.
+(pdftex.def)             Requested size: 394.69691pt x 301.42406pt.
+
+
+LaTeX Warning: Citation `linkBudget' on page 17 undefined on input line 111.
+
+
+LaTeX Warning: Citation `linkBudget' on page 17 undefined on input line 111.
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 114.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [17
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
+Underfull \hbox (badness 10000) in paragraph at lines 120--127
+
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 127.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [18 <./sections/SatelliteDesign/images/specificAttenuation.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 141--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--157
+
+ []
+
+
+<./sections/SatelliteDesign/images/BEvsSNR.png, id=691, 826.58812pt x 592.46344
+pt>
+File: ./sections/SatelliteDesign/images/BEvsSNR.png Graphic file (type png)
+ <use ./sections/SatelliteDesign/images/BEvsSNR.png>
+Package pdftex.def Info: ./sections/SatelliteDesign/images/BEvsSNR.png used on 
+input line 159.
+(pdftex.def)             Requested size: 247.97835pt x 177.7404pt.
+
+
+LaTeX Warning: Citation `cubesatdimensions' on page 19 undefined on input line 
+161.
+
+
+LaTeX Warning: Citation `cubesatdimensions' on page 19 undefined on input line 
+161.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 180.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [19]
+
+LaTeX Warning: Citation `linkBudget' on page 20 undefined on input line 186.
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 203.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [20 <./sections/SatelliteDesign/images/BEvsSNR.png>])) (Report.bbl
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [21])
+
+AED: lastpage setting LastPage
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 58.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [22
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
  (Report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 74145BA34649AC724914785495DE2859;6620.
+(rerunfilecheck)             Checksum: 9A77C0A90A5E6CB02AEAD1CC4972D073;6644.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 29226 strings out of 493334
- 545185 string characters out of 3139246
- 636812 words of memory out of 3000000
- 32151 multiletter control sequences out of 15000+200000
+ 29245 strings out of 493334
+ 545851 string characters out of 3139246
+ 637057 words of memory out of 3000000
+ 32164 multiletter control sequences out of 15000+200000
  66417 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,18n,87p,10486b,941s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2151,9 +2211,9 @@ les/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
 lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Report.pdf (26 pages, 941840 bytes).
+Output written on Report.pdf (28 pages, 1330589 bytes).
 PDF statistics:
- 770 PDF objects out of 1000 (max. 8388607)
- 141 named destinations out of 1000 (max. 500000)
- 838 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 790 PDF objects out of 1000 (max. 8388607)
+ 147 named destinations out of 1000 (max. 500000)
+ 848 words of extra memory for PDF output out of 10000 (max. 10000000)
 

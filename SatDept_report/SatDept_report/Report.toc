@@ -78,22 +78,22 @@
 \contentsline {paragraph}{Transmission Losses}{15}{section*.48}
 \contentsline {subsubsection}{\numberline {3.7.2}Propagation losses}{16}{subsubsection.3.7.2}
 \contentsline {subsubsubsection}{\numberline {3.7.2.1}Free Space Losses}{16}{subsubsubsection.3.7.2.1}
-\contentsline {paragraph}{Range and Path Loss}{16}{section*.49}
-\contentsline {subsubsubsection}{\numberline {3.7.2.2}Atmospheric Losses}{16}{subsubsubsection.3.7.2.2}
-\contentsline {paragraph}{Ionospheric Effects}{16}{section*.50}
-\contentsline {paragraph}{Tropospheric Effects}{16}{section*.51}
-\contentsline {paragraph}{Local Effects}{16}{section*.52}
-\contentsline {subsubsubsection}{\numberline {3.7.2.3}Pointing Losses}{16}{subsubsubsection.3.7.2.3}
-\contentsline {subsubsubsection}{\numberline {3.7.2.4}Multipath and Fade Margin}{16}{subsubsubsection.3.7.2.4}
-\contentsline {paragraph}{\ }{16}{section*.53}
-\contentsline {subsubsection}{\numberline {3.7.3}Local Losses}{17}{subsubsection.3.7.3}
-\contentsline {subsubsubsection}{\numberline {3.7.3.1}Equipament Losses}{17}{subsubsubsection.3.7.3.1}
-\contentsline {subsubsubsection}{\numberline {3.7.3.2}Environment Losses}{17}{subsubsubsection.3.7.3.2}
-\contentsline {subsubsection}{\numberline {3.7.4}Modulation Technique}{17}{subsubsection.3.7.4}
-\contentsline {paragraph}{\ }{17}{section*.54}
-\contentsline {subsubsection}{\numberline {3.7.5}System Noise}{18}{subsubsection.3.7.5}
-\contentsline {paragraph}{Channel Noise}{18}{section*.56}
-\contentsline {subsubsection}{\numberline {3.7.6}Link Budget Calculation}{18}{subsubsection.3.7.6}
-\contentsline {paragraph}{Methodology}{18}{section*.57}
-\contentsline {section}{\numberline {4}References}{19}{section.4}
-\contentsline {section}{\numberline {5}References}{20}{section.5}
+\contentsline {paragraph}{Range and Path Loss}{16}{section*.50}
+\contentsline {subsubsubsection}{\numberline {3.7.2.2}Atmospheric Losses}{17}{subsubsubsection.3.7.2.2}
+\contentsline {paragraph}{\ }{17}{section*.51}
+\contentsline {paragraph}{Ionospheric Effects}{17}{section*.52}
+\contentsline {paragraph}{Tropospheric Effects \cite {link Budget}}{18}{section*.53}
+\contentsline {paragraph}{Local Effects}{18}{section*.55}
+\contentsline {subsubsubsection}{\numberline {3.7.2.3}Pointing Losses}{19}{subsubsubsection.3.7.2.3}
+\contentsline {subsubsubsection}{\numberline {3.7.2.4}Multipath and Fade Margin}{19}{subsubsubsection.3.7.2.4}
+\contentsline {paragraph}{\ }{19}{section*.56}
+\contentsline {subsubsection}{\numberline {3.7.3}Local Losses}{19}{subsubsection.3.7.3}
+\contentsline {subsubsubsection}{\numberline {3.7.3.1}Equipament Losses}{19}{subsubsubsection.3.7.3.1}
+\contentsline {subsubsubsection}{\numberline {3.7.3.2}Environment Losses}{19}{subsubsubsection.3.7.3.2}
+\contentsline {subsubsection}{\numberline {3.7.4}Modulation Technique}{19}{subsubsection.3.7.4}
+\contentsline {paragraph}{\ }{19}{section*.57}
+\contentsline {subsubsection}{\numberline {3.7.5}System Noise}{20}{subsubsection.3.7.5}
+\contentsline {paragraph}{Channel Noise}{20}{section*.59}
+\contentsline {subsubsection}{\numberline {3.7.6}Link Budget Calculation}{21}{subsubsection.3.7.6}
+\contentsline {paragraph}{Methodology}{21}{section*.60}
+\contentsline {section}{\numberline {4}References}{22}{section.4}

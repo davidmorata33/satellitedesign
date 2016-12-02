@@ -8,12 +8,12 @@
 \end{itemize} 
 
 \paragraph
-\ The link budget calculations are mostly calculated using the following fonts:\cite{linkBudget}.
+\ The link budget calculations are mostly calculated using the following fonts: \cite{Jorge2012}.
 
 \subsubsection{Communications Basics}
 \paragraph
 \
-\cite{an9804.pdf}
+\cite{Note1998}
 When evaluating a wireless link, the three most important questions to be answered are:\\
 \begin{enumerate}
 	\item How much radio frequency (RF) power is available?
@@ -39,8 +39,14 @@ where:
 those losses may be constant, others are dependent of statistical data and others vary
 with the weather conditions, especially with rain.
 
+\begin{figure}[h]
+	\includegraphics[scale=0.8]{./sections/SatelliteDesign/images/principal_losses}
+	\centering
+	\caption{Principal losses in the received signal \cite{linkBudget}}
+	\label{principal_losses}
+\end{figure}
+
 \subsubsection{Propagation losses}
-a
 \subsubsubsection{Free Space Losses}
 \paragraph{Range and Path Loss}
 \
@@ -61,10 +67,51 @@ where:
 	c&= \text{speed of light}(3\mathrm{x}10^8m/s)\\
 	f&= \text{frequency (Hz)}
 \end{align*}
-a
+\clearpage
 \subsubsubsection{Atmospheric Losses}
+\paragraph \ This kind of losses derives from the absorption of energy by atmospheric gases. They can assume two different types:
+\begin{itemize}
+	\item Atmospheric attenuation.
+	\item Atmospheric absorption.
+\end{itemize}
+
+The major distinguishing factor between them is their origin. Attenuation is weatherrelated, while absorption comes in clear-sky conditions.
+Likewise, these losses can be due to ionospheric, tropospheric and other local effects. \cite{Link Budget}
 \paragraph{Ionospheric Effects}
-\paragraph{Tropospheric Effects}
+\ All radio waves transmitted by satellites to the Earth or vice versa must pass through the
+ionosphere, the highest layer of the atmosphere, which contains ionized particles,
+especially due to the action of sun’s radiation. Free electrons are distributed in layers
+and clouds of electrons may be formed, originating what is known as travelling
+ionospheric disturbances, what provoke signal fluctuations that are only treated as
+statistical data. The effects are:
+\begin{itemize}
+	\item \textbf{Polarization rotation}: When a radio wave passes through the ionosphere, it contacts the layers of ionized 	electrons that move according to the Earth’s magnetic field. The direction these 	electrons move will no longer be parallel to the electric field of the wave and therefore	the polarization is shifted, in what is called Faraday rotation ($\theta_F$). ;
+	\item \textbf{Scintillation effects}: Differences in the atmospheric refractive index may cause scattering and multipath 	effect, due to the different directions rays may take through the atmosphere. They are detected as variations in amplitude, phase, polarization and angle of arrival of	the radio waves.	It is often recommended the introduction of a fade margin so atmospheric scintillation
+	can be a tolerated phenomenon.; 
+	\item Absorption;
+	\item Variation in the direction of arrival;
+	\item Propagation delay;
+	\item Dispersion;
+	\item Frequency change
+\end{itemize}
+These effects decrease usually with the increase of the square of the frequency and most serious ones in satellite communications are the polarization rotation and the
+scintillation effects, and those are the ones that will be treated in this dissertation. \cite{linkBudget}
+\paragraph{Tropospheric Effects \cite{link Budget}}
+\ Troposphere is composed by a miscellany of molecules of different compounds, such as hail, raindrops or other atmospheric gases. Radio waves that pass by troposphere will suffer their effects and will be scattered, depolarized, absorbed and therefore attenuated.\\
+\underline{Attenuation}: As radio waves cross troposphere, radio frequency energy will be converted into thermal energy and that attenuates signal.\\
+\underline{Rain attenuation}: Ground stations had been chosen in order that the attenuation caused by rainfall will be very punctual. Also, the fact that there are three ground stations makes really difficult that a satellite can not communicate to the ground in all the orbit period.\\
+\underline{Gas absorption}: Under normal conditions, only oxygen and water vapour have a significant contribution
+in absorption. Other atmospheric gases only become a problem in very dry air
+conditions above 70 GHz.
+Thereby, losses caused by atmospheric absorption vary with frequency and the
+collection of data already received allows the elaboration of the graphic that follows:
+\begin{figure}[h]
+	\includegraphics[scale=0.7]{./sections/SatelliteDesign/images/specificAttenuation}
+	\centering
+	\caption{Specific attenuation for different frequencies \cite{linkBudget}}
+	\label{specificAtenuattion}
+\end{figure}
+
 \paragraph{Local Effects}
 \subsubsubsection{Pointing Losses}
 \subsubsubsection{Multipath and Fade Margin}
@@ -101,7 +148,7 @@ Modulation (AM) and Frequency Modulation (FM) because
 of their widespread use in commercial radio. Phase
 Modulation is another important technique. It is used in
 applications such as Global Position System (GPS)
-receivers and some cellular telephone networks. \cite{bibid}\\
+receivers and some cellular telephone networks. \cite{Note1998}\\
 
 For the purposes of link budget analysis, the most important
 aspect of a given modulation technique is the Signal-to-

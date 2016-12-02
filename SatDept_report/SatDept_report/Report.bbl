@@ -1,3 +1,13 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{Jorge2012}
+Carlos Jorge and Rodrigues Capela.
+\newblock {Protocol of Communications for VORSAT Satellite - Link Budget}.
+\newblock (April), 2012.
+
+\bibitem{Note1998}
+Application Note.
+\newblock {Tutorial on Basic Link Budget Analysis}.
+\newblock {\em Intersil}, (June 1998):1--8, 1998.
 
 \end{thebibliography}
