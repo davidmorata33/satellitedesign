@@ -1,29 +1,94 @@
 \subsection{Electrical Power System}
 
-\paragraph{}The electric power system of the satellite must provide and manage the energy generated efficiently in order to have all the systems operating under normal conditions. The Electrical Power System of a Cubesat is, probably, the most fundamental requirement of the satellite payload, since its failure would result in the mission failure. The functions of the EPS are to control and distribute power to the Cubesat, to suppy a continuous source of electrical power for through the lifetime of the mission, to protect the satellite against bus failiures and to monitor and communicate the system status to the on-board computer. The role of the EPS is very diverse and the following subsystems have to be analyzed in detail.
+\paragraph{}The electric power system of the satellite must provide and manage the energy generated efficiently in order to have all the systems operating under normal conditions during the lifetime of the mission. The EPS of the Cubesat is, probably, the most fundamental requirement of the satellite, since its failure would result in a mission failure. 
+
+\paragraph{}The energy collection system and the power management and  collection systems compose the EPS and their role is to control and distribute power to the Cubesat, to suppy a continuous source of electrical power during the length of the mission, to protect the satellite against electrical bus failiures and to monitor and communicate the status of the EPS to the on-board computer.
 
 \begin{figure}[h]
 \includegraphics[scale=0.6]{./sections/SatelliteDesign/images/EPSschematics}
 \centering
-\caption{Basic schematics of the EPS \cite{epsbasics}}
+\caption{Basic schematics of the EPS} 
+\cite{epsbasics}
 \end{figure}
+
+\subsubsection{Estimation of the power required}
+\paragraph{}To select the adequate electrical power systems it is essential that the power consumed by the CubeSat is known \textit{a priori}. Thus, to select the solar arrays and batteries, as well as the power management system, an estimation of the power consumed has to be made.
+
+\paragraph{}The vast majority of the time the satellite will work under typical operation conditions. However, the estimation of the power consumption provided in the table \ref{powerestimation} has been made for typical-high conditions in order to have a power margin and a more reliable estimation.
+
+
+\begin{longtable}{| l | r | }
+\hline
+\rowcolor[gray]{0.80}	\textbf{System (number of units)} &  \textbf{Typical power consumption per unit (W)} \\
+\hline
+\endfirsthead
+
+\rowcolor[gray]{0.85} \textbf{Payload} &  \\
+	   ~Patch antenna (4) & 6 \\
+	   ~Turnstile antenna (2) & 6 \\
+	   \rowcolor[gray]{0.95} \textbf{Payload power consumption} & 36 \\
+	   \hline
+	\hline
+
+\rowcolor[gray]{0.85} \textbf{Electrical Power System} &  \\
+	   ~NanoPower P60 Power Module (1) & 2 \\
+	   ~Battery (2) & - \\
+	   ~Solar arrays (4) & -\\
+	   \rowcolor[gray]{0.95} \textbf{EPS power consumption} & 2 \\
+	   \hline
+	\hline
+	
+\rowcolor[gray]{0.85} \textbf{Data Handling Systems} &  \\
+	   ~Transceiver (4) & 6 \\
+	   \rowcolor[gray]{0.95} \textbf{DHS power consumption} & X \\
+	   \hline
+	\hline
+	
+\rowcolor[gray]{0.85} \textbf{Propulsion and ACDS} &  \\
+	   ~Thruster (1) & 20 \\
+	   ~Turnstile antenna (2) & 6 \\
+	   \rowcolor[gray]{0.95} \textbf{OACDS power consumption} & X \\
+	   \hline
+	\hline
+
+\rowcolor[gray]{0.65} \textbf{Estimated total power consumption} & 45 \\
+
+
+\caption{Estimation of the power consumption under typical working conditions}
+\label{powerestimation}
+\end{longtable}
 
 \subsubsection{Solar arrays}
 
-\paragraph{}The primary source of electrical power has to be photovoltaic cells, given the size of the CubeSat. The photovoltaic cells will collect and convert the energy of the sun into electrical energy. Since they are main power source, they have to be correctly selected to prevent failure. Among the characteristics we seek for our mission, we are looking specially wheter the solar cell has a decent amount of power collection, low mass, protective radiation shield, deployment system, great temperature range and compatibility with the other systems.
-\paragraph{}The selected option for the Astrea mission will be a set deployable solar panels provided by EXA (Agencia Espacial Civil Ecuatoriana). These panels are low mass (135g each), have a protective radiation shield (NEMEA Anti Radiation Shield protects the solar panels of EM, High Gamma, X-Ray, Alfa, Beta and low neutron radiation), a very high temperature range (from -80 to 130ºC), a gentle release and deployment with artificial muscles (developed by EXA) and provide a power of 16.8W each (19.2V@0.5A). \\
-\paragraph{}Every cubesat will have 4 deployable solar panels providing it with ~67.2W of power to supply peak demands while it is operating. Additionally, it is worth mentioning that these solar arrays are compatible with the hardwared used in each of the satellites.
+\paragraph{}Given that the space of a 3U CubeSat is very limited, the primary source of electrical power has to be photovoltaic cells. The photovoltaic cells will collect and convert the energy of the sun into electrical energy and they have to be correctly selected to prevent failure given their importance. 
 
-\subsubsection{Power management}
+\paragraph{}The solar arrays used must have a decent efficiency and capacity to collect the energy from the sun, have to keep their mass relatively low, must have a protective radiation shield to ensure their full efficiency for at least 4 years, a proper deployment system, the ability to withstand space conditions and also must be highly compatible with all the other systems used, especially the power management system (the \textit{NanoPower P60}).
 
-\paragraph{}The role of the power management systems is to distribute the power and supply the energy to the different systems used in the CubeSat.
+\paragraph{}The option selected for the mission is a set of deployable solar panels provided by EXA (Agencia Espacial Civil Ecuatoriana). These solar arrays fulfill all the requirements mentioned above: they are low mass (135g per unit), they have a protective radiation shield (NEMEA Anti Radiation Shield protects the solar panels of EM, High Gamma, X-Ray, Alfa, Beta and low neutron radiation) they can withstand a very high temperature range (from -80 to 130ºC) ensuring that they can operate in space, they have a gentle release and deployment system with artificial muscles (developed by EXA) and they provide a power of 16.8W each (19.2V@0.5A).
+
+\paragraph{}Every cubesat will come with 4 deployable solar panels providing it with 67.2W of power, approximately, to supply peak demands during the lifetime of the mission. Additionally, it is worth mentioning that these solar arrays are compatible with the hardward used (the structure and the power management system).
+
+\subsubsection{Power management system}
+
+\paragraph{}The role of the power management system is to distribute the power and supply the energy to the different systems used in the CubeSat. Since the systems of the CubeSat have different power and energy needs, the power management system has to be highly compatible and have a number of buses high enough to supply the different voltage and intensity required to the systems.
+
+\paragraph{}The selected option for the mission is the \textit{NanoPower P60} by \textit{Gomspace}, a high-power EPS for small satellites that comes with 1 motherboard, 1 ACU module (Array Conditioning Unit) and 1 PDU (Power Distribution Unit), allowing multiple configurations in just one motherboard; saving a lot of space.
+
+\paragraph{}The motherboard supports up to 4 ACU and PDU modules and has different regulated outputs (3.3V and 5V). It means that with one single motherboard, several conditioning and distributing units can be connected.
+
+\paragraph{}The ACU module 6 different inputs per unit with a high voltage solar input (up to 16V or 32V). Additionally, each input can withstand a maximum current of 2A and current and voltage inputs are measured on each input channel and the measurements can be communicated to the onboard computer.
+
+\paragraph{}The PDU module has 9 different outputs per unit that are highly configurable. Each module has 3 configurable output voltages (3.3V, 5V, 8V, 12V, 18V, 24V) and each of the outputs can withstand a maximum current of 1A or 2A (programmable). Additionally, like the ACU module, current and voltage outputs are measured on each output channel and can be effectively communicated to the onboard computer.
+
+\paragraph{}All these features make the \textit{NanoPower P60} a very efficient and configurable power management unit that fulfills the mission requirements. Furthermore, given this capacity to configure each input and output channel and the high number of channels that it has, the compatibility between all the systems used in the satellite is ensured.
 
 \subsubsection{Batteries}
 
-\paragraph{}	Batteries are essential for a proper mission operation. They will provide the spacecraft subsystems with the power needed when the solar arrays are working less efficiently or not properly. Astrea is looking for decent capacity batteries that provide a slightly high typical energy and power, since the subsystems will not usually operate under peak conditions.
-\paragraph{}Through the lifetime of the mission, the solar arrays will face an important unfavorable condition; in the worst case scenario, the satellite will be in the dark during half of the time of the orbit. Thus, the batteries must store and supply the energy needed for this time.
+\paragraph{}	Batteries are essential for a proper mission operation. They will provide the spacecraft subsystems with the power needed when the solar arrays are working less efficiently or not properly. Astrea is looking for decent capacity batteries that provide a slightly high typical energy and power supply, since all the systems will not usually operate under peak conditions. Additionally, through the lifetime of the mission, the solar arrays will face an important unfavorable condition; in the worst case scenario, the satellite will be in the dark during half of the time of the orbit. So, it is clear that the batteries are a critical system of the CubeSat
 
-\paragraph{}Among all the commercial options, Astrea has chosen the \textit{NanoPower BP4} batteries. The CubeSat will have two of these batteries, with a total capacity of 20800mAh or 77Wh. Each battery has a total of 4 cells, highly stackable and come with a temperature sensor and a heater that will automatically turn on if the temperature is worsening the whole operation of the system. 
+\paragraph{}Among all the commercial options, Astrea has chosen the \textit{BA01/D} batteries manufactured by \textit{EXA-Agencia Espacial Civil Ecuatoriana}. The CubeSat will have two of these batteries, with a total capacity of 28800mAh or 106,4Wh. Each battery has a total of 16 cells, highly stackable and with a very low mass (155g per unit). They also come with unique thermal transfer bus, that will transfer the heat of the other subsystems to the batteries to keep their temperature under efficient working conditions.
+
+\paragraph{}The output voltage can be configured (3.7V and 7.4V) and they are perfectly compatible with the solar arrays. Furthermore, they come with a protective radiation shield (NEMEA) that ensures at least 4 years working under full efficiency conditions in a LEO. It is also worth mentioning that if the company that will assemble the CubeSat faces problems during this part of the process, the batteries can be customized by contacting EXA.
 
 \subsubsection{Study of the commercial available options}
 \paragraph{}A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{epsoptions} is presented below.
@@ -34,11 +99,16 @@
 \hline
 \endfirsthead
 
-\rowcolor[gray]{0.85} \textbf{Structure} &  &  \\
+\rowcolor[gray]{0.85} \textbf{Solar arrays} &  &  \\
 	   ~EXA-Agencia Espacial Ecuatoriana & \makecell{Total power of 67.2W (4units)\\ Mass of 270g (p.unit) \\ Included thermal protection \\At least 4 years lifetime} & 17000 \\
 	   \hline
 	   ~ISIS & \makecell{Total ower of ~30W (4units) \\ Mass of 150g (p.unit) \\ No thermal protection \\At least 2 years lifetime} & \textbf{TO REQUEST!} \\
 	   \hline
+\rowcolor[gray]{0.85} \textbf{Power management} &  &  \\
+	   ~Crystalspace P1 Vasik & \makecell{Mass of 80g \\ Full redundancy \\ Low volume \\ 6x outputs \\ Up to 10W input \\ High temperature range} & \textbf{TO REQUEST!} \\
+	\hline
+	   ~Gomspace NanoPower BP4 & \makecell{Mass of 176g \\ 9x configurable outputs \\ 6x inputs per module \\ EMI shielding \\ High temperature range} & \textbf{TO REQUEST!} \\
+	\hline
 \rowcolor[gray]{0.85} \textbf{Batteries} &  &  \\
 	   ~Gomspace NanoPower BP4 & \makecell{Total capacity of 77Wh \\ Automatic heat regulation \\ Highly stackable \\ Mass of 270g (p.unit)} & \textbf{TO REQUEST!} \\
 	\hline
