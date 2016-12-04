@@ -42,7 +42,7 @@ with the weather conditions, especially with rain.
 \begin{figure}[h]
 	\includegraphics[scale=0.8]{./sections/SatelliteDesign/images/principal_losses}
 	\centering
-	\caption{Principal losses in the received signal \cite{linkBudget}}
+	\caption{Principal losses in the received signal \cite{Jorge2012}}
 	\label{principal_losses}
 \end{figure}
 
@@ -55,7 +55,7 @@ waves propagate in free space, power falls off as the square
 of range. For a doubling of range, power reaching a receiver
 antenna is reduced by a factor of four. This effect is due to
 the spreading of the radio waves as they propagate, and can
-be calculated by:
+be calculated by \cite{Note1998}:
 \begin{equation}
 L=20log_{10}(4\pi D/\lambda)
 \label{FSP}
@@ -76,7 +76,7 @@ where:
 \end{itemize}
 
 The major distinguishing factor between them is their origin. Attenuation is weatherrelated, while absorption comes in clear-sky conditions.
-Likewise, these losses can be due to ionospheric, tropospheric and other local effects. \cite{Link Budget}
+Likewise, these losses can be due to ionospheric, tropospheric and other local effects. \cite{Jorge2012}
 \paragraph{Ionospheric Effects}
 \ All radio waves transmitted by satellites to the Earth or vice versa must pass through the
 ionosphere, the highest layer of the atmosphere, which contains ionized particles,
@@ -95,8 +95,8 @@ statistical data. The effects are:
 	\item Frequency change
 \end{itemize}
 These effects decrease usually with the increase of the square of the frequency and most serious ones in satellite communications are the polarization rotation and the
-scintillation effects, and those are the ones that will be treated in this dissertation. \cite{linkBudget}
-\paragraph{Tropospheric Effects \cite{link Budget}}
+scintillation effects, and those are the ones that will be treated in this dissertation. \cite{Jorge2012}
+\paragraph{Tropospheric Effects \cite{Jorge2012}}
 \ Troposphere is composed by a miscellany of molecules of different compounds, such as hail, raindrops or other atmospheric gases. Radio waves that pass by troposphere will suffer their effects and will be scattered, depolarized, absorbed and therefore attenuated.\\
 \underline{Attenuation}: As radio waves cross troposphere, radio frequency energy will be converted into thermal energy and that attenuates signal.\\
 \underline{Rain attenuation}: Ground stations had been chosen in order that the attenuation caused by rainfall will be very punctual. Also, the fact that there are three ground stations makes really difficult that a satellite can not communicate to the ground in all the orbit period.\\
@@ -108,12 +108,37 @@ collection of data already received allows the elaboration of the graphic that f
 \begin{figure}[h]
 	\includegraphics[scale=0.7]{./sections/SatelliteDesign/images/specificAttenuation}
 	\centering
-	\caption{Specific attenuation for different frequencies \cite{linkBudget}}
+	\caption{Specific attenuation for different frequencies \cite{Jorge2012}}
 	\label{specificAtenuattion}
+\end{figure}
+Once these values depend on atmosphere thickness, it becomes necessary to perform all calculations taking into account troposphere’s thickest layer ($T_trop$), which has 20 km.\\
+It is also mandatory to refer that this graph represents the absorption for a satellite in the zenith, in other words, for an elevation angle of 90º ($\theta$ = 90º). For lower angles, the atmospheric absorption ($L_{abs}$) is given by \cite{Jorge2012}:
+\begin{equation}
+	L_{abs}(dB)=L_{abs|90º} (dB/km)\ cosec(\theta)\ T_{trop}(km)
+	\label{Labs}
+\end{equation}
+
+\underline{Polarization}: Satellite communications use linear and circular polarization, but undesirable effects may transform it into an elliptical polarization. Depolarization may occur when an orthogonal component is created due to the passing of the signal through the ionosphere. There are two ways to measure its effect, cross polarization discrimination (XPD) and polarization isolation (I)\cite{Jorge2012}. To overcome this attenuation problems a circular polarization is the best option.\\
+
+\underline{Sky noise}: Sky noise is a combination of galactic and atmospheric effects, according as both these factors influence the quality of the signal in the reception. Galactic effects decrease with the increase of frequency. They are due to the addition of the cosmic background radiation and the noise temperature of radio stars, galaxies and nebulae. This value is quite low and a good approximation is 3 K.
+\begin{figure}[h]
+	\includegraphics[scale=0.5]{./sections/SatelliteDesign/images/NoiseTemperature}
+	\centering
+	\caption{Galaxy noise influence in noise temperature \cite{Jorge2012}}
+	\label{NoiseTemperature}
+\end{figure}
+\begin{figure}[h]
+	\includegraphics[scale=0.55]{./sections/SatelliteDesign/images/NoiseTemperature2}
+	\centering
+	\caption{Noise temperature variation with frequency \cite{Jorge2012}}
+	\label{NoiseTemperature2}
 \end{figure}
 
 \paragraph{Local Effects}
+These effects refer to the proximity of the local ground stations, possible sources that may interfere with the received signal and buildings that may block the signal. If the ground station is on a free external interferences zone, for satellite communications this factor may be negligible.
 \subsubsubsection{Pointing Losses}
+
+
 \subsubsubsection{Multipath and Fade Margin}
 \paragraph
 \
@@ -158,7 +183,7 @@ specified level of reliability in terms of BER.\\
 \begin{figure}[h]
 	\includegraphics[scale=0.3]{./sections/SatelliteDesign/images/BEvsSNR}
 	\centering
-	\caption{Probability of bit error for common modulation methods\cite{cubesatdimensions}}
+	\caption{Probability of bit error for common modulation methods \cite{Note1998}}
 	\label{BEvsSNR}
 \end{figure}
 A graph of Eb/No
@@ -183,7 +208,7 @@ where:
 \subsubsection{System Noise}
 \paragraph{Channel Noise}
 \
-All objects which have heat emit RF energy in the form of random (Gaussian) noise. The amount of radiation emitted can be calculated by \cite{linkBudget}:
+All objects which have heat emit RF energy in the form of random (Gaussian) noise. The amount of radiation emitted can be calculated by \cite{Note1998}:
 \begin{equation}
 N=kTB
 \label{noise}
@@ -196,7 +221,7 @@ where:
 	B&= \text{channel bandwidth (Hz)}
 \end{align*}
 
-This is the lowest possible noise level for a system with a given physical temperature. For most applications, temperature is typically assumed to be room temperature (290K). Equations \ref{channelCapacity} and \ref{noise} demonstrate that RF power and bandwidth can be traded off to achieve a given performance level (as defined by BER).
+This is the lowest possible noise level for a system with a given physical temperature. For most applications, temperature is typically assumed to be room temperature (290K). Equations \ref{channelCapacity} and \ref{noise} demonstrate that RF power and bandwidth can be traded off to achieve a given performance level (as defined by BER). \cite{Note1998}
 
 \subsubsection{Link Budget Calculation}
 \paragraph{Methodology} \ From the expected requirements fixed on the Project Charter, general radio systems parameters will computed, in order to have a reference to look for the best communications system on board the Astrea satellites.

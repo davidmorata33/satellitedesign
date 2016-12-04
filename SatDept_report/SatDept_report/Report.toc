@@ -82,18 +82,18 @@
 \contentsline {subsubsubsection}{\numberline {3.7.2.2}Atmospheric Losses}{17}{subsubsubsection.3.7.2.2}
 \contentsline {paragraph}{\ }{17}{section*.51}
 \contentsline {paragraph}{Ionospheric Effects}{17}{section*.52}
-\contentsline {paragraph}{Tropospheric Effects \cite {link Budget}}{18}{section*.53}
-\contentsline {paragraph}{Local Effects}{18}{section*.55}
-\contentsline {subsubsubsection}{\numberline {3.7.2.3}Pointing Losses}{19}{subsubsubsection.3.7.2.3}
-\contentsline {subsubsubsection}{\numberline {3.7.2.4}Multipath and Fade Margin}{19}{subsubsubsection.3.7.2.4}
-\contentsline {paragraph}{\ }{19}{section*.56}
-\contentsline {subsubsection}{\numberline {3.7.3}Local Losses}{19}{subsubsection.3.7.3}
-\contentsline {subsubsubsection}{\numberline {3.7.3.1}Equipament Losses}{19}{subsubsubsection.3.7.3.1}
-\contentsline {subsubsubsection}{\numberline {3.7.3.2}Environment Losses}{19}{subsubsubsection.3.7.3.2}
-\contentsline {subsubsection}{\numberline {3.7.4}Modulation Technique}{19}{subsubsection.3.7.4}
-\contentsline {paragraph}{\ }{19}{section*.57}
-\contentsline {subsubsection}{\numberline {3.7.5}System Noise}{20}{subsubsection.3.7.5}
-\contentsline {paragraph}{Channel Noise}{20}{section*.59}
-\contentsline {subsubsection}{\numberline {3.7.6}Link Budget Calculation}{21}{subsubsection.3.7.6}
-\contentsline {paragraph}{Methodology}{21}{section*.60}
-\contentsline {section}{\numberline {4}References}{22}{section.4}
+\contentsline {paragraph}{Tropospheric Effects \cite {Jorge2012}}{18}{section*.53}
+\contentsline {paragraph}{Local Effects}{19}{section*.57}
+\contentsline {subsubsubsection}{\numberline {3.7.2.3}Pointing Losses}{20}{subsubsubsection.3.7.2.3}
+\contentsline {subsubsubsection}{\numberline {3.7.2.4}Multipath and Fade Margin}{20}{subsubsubsection.3.7.2.4}
+\contentsline {paragraph}{\ }{20}{section*.58}
+\contentsline {subsubsection}{\numberline {3.7.3}Local Losses}{20}{subsubsection.3.7.3}
+\contentsline {subsubsubsection}{\numberline {3.7.3.1}Equipament Losses}{20}{subsubsubsection.3.7.3.1}
+\contentsline {subsubsubsection}{\numberline {3.7.3.2}Environment Losses}{20}{subsubsubsection.3.7.3.2}
+\contentsline {subsubsection}{\numberline {3.7.4}Modulation Technique}{20}{subsubsection.3.7.4}
+\contentsline {paragraph}{\ }{20}{section*.59}
+\contentsline {subsubsection}{\numberline {3.7.5}System Noise}{22}{subsubsection.3.7.5}
+\contentsline {paragraph}{Channel Noise}{22}{section*.61}
+\contentsline {subsubsection}{\numberline {3.7.6}Link Budget Calculation}{22}{subsubsection.3.7.6}
+\contentsline {paragraph}{Methodology}{22}{section*.62}
+\contentsline {section}{\numberline {4}References}{23}{section.4}
