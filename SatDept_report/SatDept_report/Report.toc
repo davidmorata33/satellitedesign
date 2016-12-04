@@ -64,52 +64,47 @@
 \contentsline {subsubsection}{\numberline {3.4.1}Requirements}{14}{subsubsection.3.4.1}
 \contentsline {paragraph}{}{14}{section*.44}
 \contentsline {paragraph}{}{14}{section*.45}
-\contentsline {subsubsection}{\numberline {3.4.2}Orbit decay}{14}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2}Thrusters}{14}{subsubsection.3.4.2}
 \contentsline {paragraph}{}{14}{section*.46}
 \contentsline {paragraph}{}{15}{section*.47}
 \contentsline {paragraph}{}{15}{section*.48}
 \contentsline {paragraph}{}{15}{section*.49}
-\contentsline {subsubsection}{\numberline {3.4.3}Thrusters}{15}{subsubsection.3.4.3}
 \contentsline {paragraph}{}{15}{section*.50}
 \contentsline {paragraph}{}{15}{section*.51}
+\contentsline {subsubsection}{\numberline {3.4.3}Study of the commercial available options}{15}{subsubsection.3.4.3}
 \contentsline {paragraph}{}{15}{section*.52}
-\contentsline {paragraph}{}{15}{section*.53}
+\contentsline {paragraph}{}{16}{section*.53}
+\contentsline {subsection}{\numberline {3.5}Communication module}{16}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Attitude and Orbital Control Systems}{16}{subsection.3.6}
 \contentsline {paragraph}{}{16}{section*.54}
-\contentsline {paragraph}{}{16}{section*.55}
-\contentsline {subsubsection}{\numberline {3.4.4}Study of the commercial available options}{16}{subsubsection.3.4.4}
-\contentsline {paragraph}{}{16}{section*.56}
-\contentsline {paragraph}{}{16}{section*.57}
-\contentsline {subsection}{\numberline {3.5}Communication module}{17}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Attitude and Orbital Control Systems}{17}{subsection.3.6}
-\contentsline {paragraph}{}{17}{section*.58}
-\contentsline {subsubsection}{\numberline {3.6.1}Attitude Determination}{17}{subsubsection.3.6.1}
+\contentsline {subsubsection}{\numberline {3.6.1}Attitude Determination}{16}{subsubsection.3.6.1}
 \contentsline {subsubsection}{\numberline {3.6.2}Attitude Control}{17}{subsubsection.3.6.2}
 \contentsline {subsubsection}{\numberline {3.6.3}Orbital Control}{17}{subsubsection.3.6.3}
 \contentsline {subsubsection}{\numberline {3.6.4}Study of the commercial available options}{17}{subsubsection.3.6.4}
-\contentsline {subsection}{\numberline {3.7}Link Budget}{18}{subsection.3.7}
-\contentsline {paragraph}{\ }{18}{section*.59}
-\contentsline {paragraph}{\ }{18}{section*.60}
-\contentsline {subsubsection}{\numberline {3.7.1}Communications Basics}{18}{subsubsection.3.7.1}
-\contentsline {paragraph}{\ }{18}{section*.61}
-\contentsline {paragraph}{Transmission Losses}{18}{section*.62}
-\contentsline {subsubsection}{\numberline {3.7.2}Propagation losses}{19}{subsubsection.3.7.2}
-\contentsline {subsubsubsection}{\numberline {3.7.2.1}Free Space Losses}{19}{subsubsubsection.3.7.2.1}
-\contentsline {paragraph}{Range and Path Loss}{19}{section*.64}
+\contentsline {subsection}{\numberline {3.7}Link Budget}{17}{subsection.3.7}
+\contentsline {paragraph}{\ }{17}{section*.55}
+\contentsline {paragraph}{\ }{17}{section*.56}
+\contentsline {subsubsection}{\numberline {3.7.1}Communications Basics}{17}{subsubsection.3.7.1}
+\contentsline {paragraph}{\ }{17}{section*.57}
+\contentsline {paragraph}{Transmission Losses}{18}{section*.58}
+\contentsline {subsubsection}{\numberline {3.7.2}Propagation losses}{18}{subsubsection.3.7.2}
+\contentsline {subsubsubsection}{\numberline {3.7.2.1}Free Space Losses}{18}{subsubsubsection.3.7.2.1}
+\contentsline {paragraph}{Range and Path Loss}{18}{section*.60}
 \contentsline {subsubsubsection}{\numberline {3.7.2.2}Atmospheric Losses}{20}{subsubsubsection.3.7.2.2}
-\contentsline {paragraph}{\ }{20}{section*.65}
-\contentsline {paragraph}{Ionospheric Effects}{20}{section*.66}
-\contentsline {paragraph}{Tropospheric Effects \cite {link Budget}}{21}{section*.67}
-\contentsline {paragraph}{Local Effects}{21}{section*.69}
+\contentsline {paragraph}{\ }{20}{section*.61}
+\contentsline {paragraph}{Ionospheric Effects}{20}{section*.62}
+\contentsline {paragraph}{Tropospheric Effects \cite {link Budget}}{21}{section*.63}
+\contentsline {paragraph}{Local Effects}{21}{section*.65}
 \contentsline {subsubsubsection}{\numberline {3.7.2.3}Pointing Losses}{22}{subsubsubsection.3.7.2.3}
 \contentsline {subsubsubsection}{\numberline {3.7.2.4}Multipath and Fade Margin}{22}{subsubsubsection.3.7.2.4}
-\contentsline {paragraph}{\ }{22}{section*.70}
+\contentsline {paragraph}{\ }{22}{section*.66}
 \contentsline {subsubsection}{\numberline {3.7.3}Local Losses}{22}{subsubsection.3.7.3}
 \contentsline {subsubsubsection}{\numberline {3.7.3.1}Equipament Losses}{22}{subsubsubsection.3.7.3.1}
 \contentsline {subsubsubsection}{\numberline {3.7.3.2}Environment Losses}{22}{subsubsubsection.3.7.3.2}
 \contentsline {subsubsection}{\numberline {3.7.4}Modulation Technique}{22}{subsubsection.3.7.4}
-\contentsline {paragraph}{\ }{22}{section*.71}
+\contentsline {paragraph}{\ }{22}{section*.67}
 \contentsline {subsubsection}{\numberline {3.7.5}System Noise}{23}{subsubsection.3.7.5}
-\contentsline {paragraph}{Channel Noise}{23}{section*.73}
+\contentsline {paragraph}{Channel Noise}{23}{section*.69}
 \contentsline {subsubsection}{\numberline {3.7.6}Link Budget Calculation}{24}{subsubsection.3.7.6}
-\contentsline {paragraph}{Methodology}{24}{section*.74}
+\contentsline {paragraph}{Methodology}{24}{section*.70}
 \contentsline {subsection}{\numberline {3.8}Budget}{24}{subsection.3.8}
