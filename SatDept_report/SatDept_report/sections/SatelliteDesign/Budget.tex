@@ -1,52 +1,48 @@
 
 \subsection{Budget}
 
-\begin{table}
-\centering
-\resizebox{1.3\textwidth}{!}{
-\begin{tabular}{| l| r| r| r| r| r| }
-  	\hline
-\rowcolor[gray]{0.65}	\textbf{SUBSYSTEM} & \textbf{Nº Units} & \textbf{Weight (g)} & 
-\textbf{Cost (\euro)} &\textbf{Total weight (g)} & \textbf{Total cost (\euro)}  \\
-    
+\begin{longtable}{| l | r | r | r |}
+\rowcolor[gray]{0.80}	\textbf{System} & \textbf{Weight (g)} & \textbf{Cost (\euro)} & \textbf{N. of units}\\
     \hline
+    \endfirsthead
 
-\rowcolor[gray]{0.85} \textbf{STRUCTURE AND MECHANICS} & & & & & \\
 
-   \textbf{Structure} & 1 & 304.3 & 3900 & 304.3 & 3900 \\
-   \textbf{Thermal protection} & 1 & & & & \\
+\rowcolor[gray]{0.85} \textbf{STRUCTURE AND MECHANICS} & & & \\
+
+   ~Structure & 304.3 & 3900 & 1 \\
+   ~Thermal protection & 1 & X & X\\
+   \hline
+   \rowcolor[gray]{0.95} \textbf{Total} & 304.3 & 3900 &  \\
    \hline
    
-\rowcolor[gray]{0.85} \textbf{EPS} & & & & & \\
+\rowcolor[gray]{0.85} \textbf{ELECTRIC POWER SYSTEM} & & & \\
 
-   \textbf{Solar arrays} & & & 17000 & & \\
-   \textbf{Batteries} & 2 & 270 & & 504 & \\
-   \textbf{Power management} & & 176 & & 176 & \\
+   ~Solar arrays & 270 & 17000 & 4 \\
+   ~Batteries & 155 & 6300 & 2 \\
+   ~Power management & 176 & XXX & 1 \\
+   \hline
+   \rowcolor[gray]{0.95} \textbf{Total} & 1390 & 80600 &  \\
    \hline
 
-\rowcolor[gray]{0.85} \textbf{PAYLOAD} & & & & & \\
+\rowcolor[gray]{0.85} \textbf{PAYLOAD} & & & \\
 
-   \textbf{Patch antenna} & & & & & \\
-   \textbf{Turnstile antenna} & & 30 & & & \\
-   \textbf{Transceiver} & & & & & \\
-   \textbf{Data handling system} & & & & & \\
+   ~Patch antenna & & & 4 \\
+   ~Turnstile antenna & & & 2 \\
+   ~Transceiver & & & \\
+   ~Data handling system & & &\\
+   \hline
+   \rowcolor[gray]{0.95} \textbf{Total} & X & X & \\
    \hline
    
-\rowcolor[gray]{0.85} \textbf{PROPULSION} & & & & & \\
+\rowcolor[gray]{0.85} \textbf{AOCDS} & & &\\
 
-   \textbf{Thruster} & 1 & 1500 & & 1500 & \\
+   ~Thruster & 1500 & X & 1 \\
+   ~CubeSpace ACDS & X & X & 1 \\
+   \hline
+   \rowcolor[gray]{0.95} \textbf{Total} & X & X & \\
    \hline
    
-\rowcolor[gray]{0.85} \textbf{ADCS} & & & & & \\
+\rowcolor[gray]{0.9} \textbf{TOTAL ESTIMATION} & Mucho& money & papasito\\
 
-   \textbf{CubeSpace ADCS} & & & & & \\
-   \hline
 
-\rowcolor[gray]{0.65} \multicolumn{4}{|l|}{\textbf{TOTAL}} & \textbf{18000} & \textbf{1400}\\
-\hline
-
-\end{tabular}
-
-}
-
-\end{table} 
+\end{longtable} 
