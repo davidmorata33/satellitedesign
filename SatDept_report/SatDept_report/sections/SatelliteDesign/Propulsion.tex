@@ -1,67 +1,104 @@
 \subsection{Propulsion Systems}
 
 \subsubsection{Requirements}
-\paragraph{}There is a big risk of a collision with space debris while a spacecraft is operating in Low Earth Orbits. The Inter-Agency Space Debris Coordination Committee recommended to the United Nations (section 5.3.2 ‘Objects Passing Through the LEO Region’): “Whenever possible space systems that are terminating their operational phases in orbits that pass through the LEO region, or have the potential to interfere with the LEO region, should be de-orbited (direct re-entry is preferred) or where appropriate manoeuvred into an orbit with a reduced lifetime. Retrieval is also a disposal option.” and “A space system should be left in an orbit in which, using an accepted nominal projection for solar activity, atmospheric drag will limit the orbital lifetime after completion of operations. A study on the effect of post- mission orbital lifetime limitation on collision rate and debris population growth has been performed by the IADC. This IADC and some other studies and a number of existing national guidelines have found 25 years to be a reasonable and appropriate lifetime limit.”
+
+\paragraph{}
+There is a big risk of a collision with space debris while a spacecraft is operating in Low Earth Orbits. The Inter-Agency Space Debris Coordination Committee recommended to the United Nations (section 5.3.2 ‘Objects Passing Through the LEO Region’): “Whenever possible space systems that are terminating their operational phases in orbits that pass through the LEO region, or have the potential to interfere with the LEO region, should be de-orbited (direct re-entry is preferred) or where appropriate manoeuvred into an orbit with a reduced lifetime. Retrieval is also a disposal option.” and “A space system should be left in an orbit in which, using an accepted nominal projection for solar activity, atmospheric drag will limit the orbital lifetime after completion of operations. A study on the effect of post- mission orbital lifetime limitation on collision rate and debris population growth has been performed by the IADC. This IADC and some other studies and a number of existing national guidelines have found 25 years to be a reasonable and appropriate lifetime limit.”
 
 Thus, a proper propulsion system is needed both for maintaining the satellite's orbit and for de-orbiting after the mission's lifetime.
 
-\paragraph{}Given the size of the CubeSat, not many effective options are available and a committed solution has to be found in order to follow the recommendations by the IADC.
+\paragraph{}
+Given the size of the CubeSat, not many effective options are available and a committed solution has to be found in order to follow the recommendations by the IADC.
 
-\subsubsection{Orbit decay}
-
-\paragraph{}Orbit decay prediction powered by the Bureau of Meteorology by the Australian Government.
-
-To calculate the orbit decay the following parameters are used:
-\paragraph{}Solar Radio Flux at 10.7cm (F10.7). It is a clear indicator of solar activity and has proven very valuable in forecasting space weather. The extreme UV that impact the ionosphere also modify the upper atmosphere, thus F10.7 data is needed to account for these variations. The value used in this calculation is: 79.54.
-REF: http://www.spaceweather.gc.ca/solarflux/sx-5-mavg-en.php
-
-\paragraph{}Cubesat mass of up to 4kg.
-
-\paragraph{}The K-index, and by extension the Planetary K-index, are used to characterize the magnitude of geomagnetic storms. Kp is an excellent indicator of disturbances in the Earth's magnetic field and is used by SWPC to decide whether geomagnetic alerts and warnings need to be issued for users who are affected by these disturbances.
-
-The principal users affected by geomagnetic storms are the electrical power grid, spacecraft operations, users of radio signals that reflect off of or pass through the ionosphere, and observers of the aurora.
-
-The geomagnetic index used in this calculation is: 12.
-
-RE-ENTRY EVERY 106.25 DAYS!
-
-Calculations based on day 100, with an altitude of 400Km. Already lost 100Km:
 
 \subsubsection{Thrusters}
 
+\paragraph{}
 Thruster is a main part of the structure because it is needed to allow the satellite to realise different maneuvers how incorporate it adequatly to the orbit after the deployment of the rocket, can obtain the optimal orientation or to mantain the satellite in the orbital and avoid its fallen. 
 
+\paragraph{}
 The main parameters that must consider are thrust, total specific impulse,power required, weight of the  propulsion subsystem and its volume.
 
 \paragraph{}
-At the moment, the most used and more modern thrusters for satellites are: ionic, pulsed plasma, electrothermal and green monoprop thrusters. An important aspect to consider is that we are interested in is reducing the mass required although this will cause minor accelerations than conventional engines but it will be suitable for small satellites.
+At the moment, the most used and more modern thrusters for satellites are: ionic, pulsed plasma, electrothermal and green monopropellant thrusters. An important aspect to consider is that we are interested in is reducing the mass required although this will cause minor accelerations than conventional engines but it will be suitable for small satellites.
 
 \paragraph{}
-After a market study, an ionic thruster has been elected how the best option. The causes of this election are that the volume of the all propulsion subsystem and its weight are very small, specifict impulse is very high,thrust is acceptable and power requiered can be supplied by the solar panels.
+After a market study,the best two options to consider are the green monopropellant thruster BGT-X5 and the ion thruster BIT-1, both from Busek company. These two thruster are among the most used in the aerospace industry for small satellites. The main difference between both are the thrust and the specific impulse. On the one hand, the BIT-1 thruster provides a lower thrust but with a high specific impulse. On the other hand, BGT-X5 thruster provides a high thrust, around 0.5 N but with a lowe specific impulse.
 
-The following table shows the main parameters of this thruster.
+\paragraph{}
+Finally, BGT-X5 has been chosen how the CubeSat thruster. With the high thrust and delta V that BGT-X5 provides, the CubeSat will be able to carry out the necessary actions to keep the satellite in orbit, to relocate the satellite or to change its orbit.
+
+
+\paragraph{}
+The following table \ref{thrusterfinal} shows the main parameters of this thruster.
 
 \begin{longtable}{| l | r |}
 
 \hline
-\rowcolor[gray]{0.60}	\textbf{BIT-1 ION THRUSTER} \\
+
+\rowcolor[gray]{0.60} \multicolumn{2}{|c|}{\textbf{BGT-X5}} \\
+
 \hline
 
 \hline
 \rowcolor[gray]{0.75}	\textbf{PARAMETERS} &  \textbf{VALUE}   \\
 \hline
 
-\cellcolor[gray]{0.85} \textbf{Total thruster power} & 10 W  \\
-\cellcolor[gray]{0.85} \textbf{Thrust} & 100 uN \\
-\cellcolor[gray]{0.85} \textbf{Specific impulse} & 2150 s \\
-\cellcolor[gray]{0.85} \textbf{Thruster Mass} & 53 g \\
-\cellcolor[gray]{0.85} \textbf{Propellant mass flow} & 4.9 ug/s \\
-\cellcolor[gray]{0.85} \textbf{Grid input voltage} & 2 kV \\
-\cellcolor[gray]{0.85} \textbf{Ion beam current} & 1.5 mA \\
-\cellcolor[gray]{0.85} \textbf{Propellant utilization} & 41 percent \\
-\cellcolor[gray]{0.85} \textbf{Energy Efficiency} & 27 percent \\
+\cellcolor[gray]{0.85} \textbf{Total thruster power} & 20 W  \\
+\cellcolor[gray]{0.85} \textbf{Thrust} & 0.5 N \\
+\cellcolor[gray]{0.85} \textbf{Specific impulse} & 225 s \\
+\cellcolor[gray]{0.85} \textbf{Thruster Mass} & 1500 g \\
+\cellcolor[gray]{0.85} \textbf{Input voltage} & 12 V \\
+\cellcolor[gray]{0.85} \textbf{Delta V} & 146 m/s \\
 \hline
-
+\caption{Thruster chosen}
+\label{thrusterfinal}
 \end{longtable}
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+\subsubsection{Study of the commercial available options}
+\paragraph{}A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{propulsionoptions} is presented below.
+
+
+\begin{longtable}{| l | c | c | }
+\hline
+\rowcolor[gray]{0.80}	\textbf{Brand and model} &  \textbf{Features}     & \textbf{Total price (\euro)}   \\
+\hline
+\endfirsthead
+
+\rowcolor[gray]{0.85} \textbf{Propulsion} &  &  \\
+	   ~Busek ion thruster BIT-1 & \makecell{Volume 1/2 U \\ High Isp (2150 s) \\ Low thrust (100 uN)} & TO REQUEST \\
+	   \hline
+	   ~Busek BGT-X5 & \makecell{Volume 1 U  \\ High thrust (0.5 N) \\ High delta V (146 m/s)} & \textbf{TO REQUEST!} \\
+	   \hline
+
+\caption{Options studied}
+\label{propulsionoptions}
+\end{longtable}
+
+\paragraph{}Finally, the option chosen is presented in the table \ref{propulsionfinal}.
+
+\begin{longtable}{| l | r | r | }
+\hline
+\rowcolor[gray]{0.80}	\textbf{System} &  \textbf{Brand and model}     & \textbf{Price per unit (\euro)}   \\
+\hline
+\endfirsthead
+
+	   ~Propulsion & Busek BGT-X5 & TO REQUEST) \\
+	\hline
+
+\caption{Options chosen}
+\label{propulsionfinal}
+\end{longtable}

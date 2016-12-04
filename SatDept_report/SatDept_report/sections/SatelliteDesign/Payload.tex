@@ -1,12 +1,24 @@
 \subsection{Payload}
 
 \subsubsection{Antennas}
- 
-\paragraph{}The antennas are an essential part of the communication subsytem and their principal rike is ti transmit and receive the data. In order to provide fast and reliable communication, several options have been studied and the solution is presented on the lines below.
+\paragraph{}The antennas are essential in this mission, since their role is to transmit and receive the data from other satellites as well as the ground stations. In order to provide fast and reliable communication, several options have been studied and information about their main parameters is presented below.\\
+It has to be kept in mind that the mass of the antennas should be as low as possible given that there are already a lot of subsystems in the CubeSat and the mass limitation is about 4kg.
+Additionally, the power consumption has to be kept as low as possible given the limitations regarding the power supply that the CubeSat has and the antennas must be certified to work under space conditions (high temperature range and radiation protection shield).
+
+\subsubsubsection{Basic parameters}
+\paragraph{}The frequency range is one of the most important parameters, since it is related to an effective satellite-satellite and satellite-ground station communication. The frequency range should be between 1GHz and 10GHz, which is a very demanding condition given that the CubeSat has a limited space and power supply. \\
+For an effective communication, the signal has to be able to trespass the atmosphere without a high number of losses and interference. The high frequency range allows the signal to go through this barrier and reach the ground stations.
+
+\paragraph{}The bandwidth is the frequency range in which the highest power of the signal is found. It is really important to have a high bandwidth to have a great performance and avoid extremely high signal losses.
+
+\paragraph{}The gain of an antenna is the ratio between the power density radiated in one direction and the power density that would radiate an isotropic antenna. The best option is to have a high gain. 
+
+\paragraph{}The polarization of an antenna is the orientation of the electromagnetic waves when they are leaving it. There are three types of polarization: linear, circular and elliptical. For a high performance, the receiver antenna and the transmitter antenna should have the same polarization. It has been derived that the best option for the project is an antenna with circular polarization; these types of antennas are able to keep the signal constant regardless of the appearance of different adverse situations such as the relative movement of the satellites with respect to the ground station. 
 
 \subsubsubsection{Patch antenna}
 
-\paragraph{} \textbf{FALTA DESCRIPCIÓ}
+\paragraph{}\textbf{FALTA DESCRIPCIÓ}
+\textbf{Nando, ¿Esto se puede arreglar un poco?}
 
 \begin{longtable}{| l | r |}
 
@@ -28,45 +40,14 @@
 \cellcolor[gray]{0.85} \textbf{Operational temperature range} & -65ºC to +100ºC \\
 \cellcolor[gray]{0.85} \textbf{Mass} & <250 grams \\
 \hline
-
+\caption{Main features of the patch antenna}
+\label{patchantenna}
 \end{longtable}
-
 
 \subsubsubsection{Turnstile antenna}
 
-\paragraph{} \textbf{FALTA DESCRIPCIÓ}
-
+\paragraph{}\textbf{FALTA DESCRIPCIÓ}
 \textbf{Nando, ¿esto se puede arreglar un poco?}
-
-
-\paragraph{}
-The frequency range is one of the most important parameters, because it must take into account satellite-satellite and satellite-earth communication. The initial requirement of the antenna frequency range is that it should be between 1-10 GHz. This is due to limitations in satellite-ground communication due to atmospheric conditions. Finding an antenna that meets this stringent requirement is very complicated, and a margin must be given to find an optimal market option.
-
-\paragraph{}
-The bandwidth is the frequency range where the highest power of the signal is found. The higher this bandwidth the better performance we will have.
-
-\paragraph{}
-The gain of an antenna is the ratio between the power density radiated in one direction and the power density that would radiate an isotropic antenna. The best option is to have a high gain. 
-
-\paragraph{}
-Polarization is the orientation of the electromagnetic waves when leaving the antenna. There are three types of polarization: linear, circular and elliptical.For better perfomance, an antenna that receives and an antenna that transmits must have the same polarization. In project case, the best option is circular polarization because it is able to keep the signal constant regardless of the appearance of different problems such as movement with respect to the ground station.
-
-\paragraph{} 
-The weight of the antennas should be as small as possible because the total weight of the cubesat should not exceed 4 kg. Most of the antennas of the market have a similar weight and does not cause us an extra problem when choosing the antenna of the project.
-
-\paragraph{} 
-The power consumption parameter is an important requierement because most of the power is consumed by the different subsystems. The stage of greater power consumption due to the antenna corresponds to its deployment, while once it is deployed, consumption is greatly reduced. In most cases, the power required for deployment ranges from 2-10 W. 
-
-\paragraph{}
-The operational temperature range is important to the correct work of the antenna, because if the antenna was in a temperature outside this range, it would not be able to perform the communication of optimal form. An habitual temperature range use to be between XXXX
-
-\paragraph{}
-After a market study, the antennas chosen to perform the communication have been a Microstrip Patch Antenna developed by Antenna Development Corporation and a turnstile antenna ANT430.On the back and lower face of the cubesat will be implemented turnstile antennas, while on the lateral sides will be implemented the antennas patch. 
-
-On the lower face of the cubesat is necessary to use an antenna turnstile because a thruster must be incorporated. 
-
-The following table shows the main parameters of those antennas.
-
 
 \begin{longtable}{| l | r |}
 
@@ -88,36 +69,54 @@ The following table shows the main parameters of those antennas.
 \cellcolor[gray]{0.85} \textbf{Mass} & 30 grams \\
 \hline
 
-	\caption{Main features of the turnstile antenna}
-	\label{turnstileantenna}
+\caption{Main features of the turnstile antenna}
+\label{turnstileantenna}
 
 \end{longtable}
 
 
 \subsubsection{Data Handling Systems}
+\textbf{FALTA!}
 
-The communication system allows us to realize the reception and trasmission of data, voice signals, etc. It consists of a group of transponders, that are the combination of a transmitter and a receiver and whose functions are receiving, separating, amplify, process, reamplify and retransmit signals.
-	\paragraph{} 
-	The telemetry subsytem analyses the information about the ground station and other sensors of the satellite in 	order to monitor conditions on board. It allows report to ground station about the conditions of the on board 			systems.
-	\paragraph{} 
-	The command and control subsystem allows the ground station to control the satellite.
+\paragraph{}The communication system allows the satellite to receive and transmit the data. It consists of a group of transponders, that are the combination of a transmitter and a receiver and whose functions are receiving, separating, amplifying, processing, reamplifying and retransmitting the signals.
+\paragraph{} The telemetry subsytem analyses the information of the ground station and other sensors of the satellite in 	order to monitor the onboard conditions. With this system, the CubeSat is able to transmit the status of the onboad systems to the ground station.
+\paragraph{}The command and control subsystem allows the ground station to control the satellite.
 
-\subsubsection{Study of the commercial available options}
+\subsubsection{Study of the commercial available options and options chosen}
+\paragraph{}A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{payloadoptions} is presented below.
 
+\begin{longtable}{| l | c | c | }
+\hline
+\rowcolor[gray]{0.80}	\textbf{Brand and model} &  \textbf{Features}     & \textbf{Total price (\euro)}   \\
+\hline
+\endfirsthead
 
-\begin{longtable}{| l | r | r | }
+\rowcolor[gray]{0.85} \textbf{Transceiver} &  &  \\
+	   ~	\textbf{POSAR!!!} & \makecell{\textbf{POSAR!!}\\ \textbf{POSAR!!}} & 17000 \\
+	   \hline
+	   ~	\textbf{POSAR!!!} & \makecell{\textbf{POSAR!!}\\ \textbf{POSAR!!}} & 17000 \\
+	   \hline
 	\hline
-	\rowcolor[gray]{0.80}	\textbf{System} &  \textbf{Brand and model}     & \textbf{Price per unit (\euro)}   \\
+	
+\caption{Options studied}
+\label{payloadoptions}
+\end{longtable}
+
+Finally, with the aim to clarify all the information of this section, the chosen systems and components are presented in the table \ref{payloadchosen}.
+
+\begin{longtable}{| l | r | r | r |}
+	\hline
+	\rowcolor[gray]{0.80}	\textbf{System} &  \textbf{Brand and model}     & \textbf{Price per unit (\euro)} & \textbf{N. of units}  \\
 	\hline
 	\endfirsthead
 	
-	~Patch antenna & ADC, Microstrip & TO REQUEST! \\
-	~Turnstile antenna 1 & Gomspace, ANT430 & TO REQUEST \\
-	~TRANSCEIVER & EMPTY & TO REQUEST \\
-	~DHS & EMPTY & 20000 \\
+	~Patch antenna & ADC, Microstrip & TO REQUEST! & 4 \\
+	~Turnstile antenna 1 & Gomspace, ANT430 & TO REQUEST & 2 \\
+	~TRANSCEIVER & EMPTY & TO REQUEST & 1 \\
+	~DHS & EMPTY & 20000 & 1 \\
 	\hline
 	
-	\caption{Options studied}
-	\label{payloadoptionstable}
+\caption{Options chosen}
+\label{payloadchosen}
 \end{longtable}
 
