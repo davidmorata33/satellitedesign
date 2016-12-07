@@ -87,46 +87,49 @@
 \BOOKMARK [4][-]{section*.58}{}{subsubsection.3.5.3}% 87
 \BOOKMARK [4][-]{subsubsubsection.3.5.3.1}{Transceivers}{subsubsection.3.5.3}% 88
 \BOOKMARK [4][-]{section*.59}{}{subsubsection.3.5.3}% 89
-\BOOKMARK [4][-]{subsubsubsection.3.5.3.2}{PDHS computers}{subsubsection.3.5.3}% 90
-\BOOKMARK [4][-]{subsubsubsection.3.5.3.3}{Commercial options}{subsubsection.3.5.3}% 91
-\BOOKMARK [3][-]{subsubsection.3.5.4}{Study of the commercial available options and options chosen}{subsection.3.5}% 92
-\BOOKMARK [4][-]{section*.60}{}{subsubsection.3.5.4}% 93
-\BOOKMARK [2][-]{subsection.3.6}{Communication module}{section.3}% 94
-\BOOKMARK [3][-]{section*.61}{}{subsection.3.6}% 95
-\BOOKMARK [4][-]{section*.62}{}{section*.61}% 96
-\BOOKMARK [4][-]{section*.63}{}{section*.61}% 97
-\BOOKMARK [4][-]{section*.64}{}{section*.61}% 98
-\BOOKMARK [2][-]{subsection.3.7}{Link Budget}{section.3}% 99
-\BOOKMARK [3][-]{section*.65}{ }{subsection.3.7}% 100
-\BOOKMARK [4][-]{section*.66}{ }{section*.65}% 101
-\BOOKMARK [3][-]{subsubsection.3.7.1}{Communications Basics}{subsection.3.7}% 102
-\BOOKMARK [4][-]{section*.67}{ }{subsubsection.3.7.1}% 103
-\BOOKMARK [4][-]{section*.68}{Transmission Losses}{subsubsection.3.7.1}% 104
-\BOOKMARK [3][-]{subsubsection.3.7.2}{Propagation losses}{subsection.3.7}% 105
-\BOOKMARK [4][-]{subsubsubsection.3.7.2.1}{Free Space Losses}{subsubsection.3.7.2}% 106
-\BOOKMARK [4][-]{section*.70}{Range and Path Loss}{subsubsection.3.7.2}% 107
-\BOOKMARK [4][-]{subsubsubsection.3.7.2.2}{Atmospheric Losses}{subsubsection.3.7.2}% 108
-\BOOKMARK [4][-]{section*.71}{ }{subsubsection.3.7.2}% 109
-\BOOKMARK [4][-]{section*.72}{Ionospheric Effects}{subsubsection.3.7.2}% 110
-\BOOKMARK [4][-]{section*.73}{Tropospheric Effects Jorge2012}{subsubsection.3.7.2}% 111
-\BOOKMARK [4][-]{section*.77}{Local Effects}{subsubsection.3.7.2}% 112
-\BOOKMARK [4][-]{subsubsubsection.3.7.2.3}{Pointing Losses}{subsubsection.3.7.2}% 113
-\BOOKMARK [4][-]{section*.78}{ }{subsubsection.3.7.2}% 114
-\BOOKMARK [4][-]{section*.79}{}{subsubsection.3.7.2}% 115
-\BOOKMARK [4][-]{subsubsubsection.3.7.2.4}{Multipath and Fade Margin}{subsubsection.3.7.2}% 116
-\BOOKMARK [4][-]{section*.80}{ }{subsubsection.3.7.2}% 117
-\BOOKMARK [3][-]{subsubsection.3.7.3}{Local Losses}{subsection.3.7}% 118
-\BOOKMARK [4][-]{subsubsubsection.3.7.3.1}{Equipament Losses}{subsubsection.3.7.3}% 119
-\BOOKMARK [4][-]{section*.81}{}{subsubsection.3.7.3}% 120
-\BOOKMARK [4][-]{subsubsubsection.3.7.3.2}{Environment Losses}{subsubsection.3.7.3}% 121
-\BOOKMARK [4][-]{section*.82}{}{subsubsection.3.7.3}% 122
-\BOOKMARK [3][-]{subsubsection.3.7.4}{Modulation Technique}{subsection.3.7}% 123
-\BOOKMARK [4][-]{section*.83}{ }{subsubsection.3.7.4}% 124
-\BOOKMARK [3][-]{subsubsection.3.7.5}{System Noise}{subsection.3.7}% 125
-\BOOKMARK [4][-]{section*.85}{}{subsubsection.3.7.5}% 126
-\BOOKMARK [4][-]{section*.86}{Channel Noise}{subsubsection.3.7.5}% 127
-\BOOKMARK [3][-]{subsubsection.3.7.6}{Link Budget Calculation}{subsection.3.7}% 128
-\BOOKMARK [4][-]{section*.87}{Methodology}{subsubsection.3.7.6}% 129
-\BOOKMARK [2][-]{subsection.3.8}{Budget}{section.3}% 130
-\BOOKMARK [2][-]{subsection.3.9}{Astrea satellite Final Configuration}{section.3}% 131
-\BOOKMARK [1][-]{section.4}{References}{}% 132
+\BOOKMARK [4][-]{section*.60}{}{subsubsection.3.5.3}% 90
+\BOOKMARK [4][-]{section*.61}{}{subsubsection.3.5.3}% 91
+\BOOKMARK [4][-]{subsubsubsection.3.5.3.2}{PDHS computers}{subsubsection.3.5.3}% 92
+\BOOKMARK [4][-]{section*.62}{}{subsubsection.3.5.3}% 93
+\BOOKMARK [4][-]{subsubsubsection.3.5.3.3}{Commercial options}{subsubsection.3.5.3}% 94
+\BOOKMARK [3][-]{subsubsection.3.5.4}{Study of the commercial available options and options chosen}{subsection.3.5}% 95
+\BOOKMARK [4][-]{section*.63}{}{subsubsection.3.5.4}% 96
+\BOOKMARK [2][-]{subsection.3.6}{Communication module}{section.3}% 97
+\BOOKMARK [3][-]{section*.64}{}{subsection.3.6}% 98
+\BOOKMARK [4][-]{section*.65}{}{section*.64}% 99
+\BOOKMARK [4][-]{section*.66}{}{section*.64}% 100
+\BOOKMARK [4][-]{section*.67}{}{section*.64}% 101
+\BOOKMARK [2][-]{subsection.3.7}{Link Budget}{section.3}% 102
+\BOOKMARK [3][-]{section*.68}{ }{subsection.3.7}% 103
+\BOOKMARK [4][-]{section*.69}{ }{section*.68}% 104
+\BOOKMARK [3][-]{subsubsection.3.7.1}{Communications Basics}{subsection.3.7}% 105
+\BOOKMARK [4][-]{section*.70}{ }{subsubsection.3.7.1}% 106
+\BOOKMARK [4][-]{section*.71}{Transmission Losses}{subsubsection.3.7.1}% 107
+\BOOKMARK [3][-]{subsubsection.3.7.2}{Propagation losses}{subsection.3.7}% 108
+\BOOKMARK [4][-]{subsubsubsection.3.7.2.1}{Free Space Losses}{subsubsection.3.7.2}% 109
+\BOOKMARK [4][-]{section*.73}{Range and Path Loss}{subsubsection.3.7.2}% 110
+\BOOKMARK [4][-]{subsubsubsection.3.7.2.2}{Atmospheric Losses}{subsubsection.3.7.2}% 111
+\BOOKMARK [4][-]{section*.74}{ }{subsubsection.3.7.2}% 112
+\BOOKMARK [4][-]{section*.75}{Ionospheric Effects}{subsubsection.3.7.2}% 113
+\BOOKMARK [4][-]{section*.76}{Tropospheric Effects Jorge2012}{subsubsection.3.7.2}% 114
+\BOOKMARK [4][-]{section*.80}{Local Effects}{subsubsection.3.7.2}% 115
+\BOOKMARK [4][-]{subsubsubsection.3.7.2.3}{Pointing Losses}{subsubsection.3.7.2}% 116
+\BOOKMARK [4][-]{section*.81}{ }{subsubsection.3.7.2}% 117
+\BOOKMARK [4][-]{section*.82}{}{subsubsection.3.7.2}% 118
+\BOOKMARK [4][-]{subsubsubsection.3.7.2.4}{Multipath and Fade Margin}{subsubsection.3.7.2}% 119
+\BOOKMARK [4][-]{section*.83}{ }{subsubsection.3.7.2}% 120
+\BOOKMARK [3][-]{subsubsection.3.7.3}{Local Losses}{subsection.3.7}% 121
+\BOOKMARK [4][-]{subsubsubsection.3.7.3.1}{Equipament Losses}{subsubsection.3.7.3}% 122
+\BOOKMARK [4][-]{section*.84}{}{subsubsection.3.7.3}% 123
+\BOOKMARK [4][-]{subsubsubsection.3.7.3.2}{Environment Losses}{subsubsection.3.7.3}% 124
+\BOOKMARK [4][-]{section*.85}{}{subsubsection.3.7.3}% 125
+\BOOKMARK [3][-]{subsubsection.3.7.4}{Modulation Technique}{subsection.3.7}% 126
+\BOOKMARK [4][-]{section*.86}{ }{subsubsection.3.7.4}% 127
+\BOOKMARK [3][-]{subsubsection.3.7.5}{System Noise}{subsection.3.7}% 128
+\BOOKMARK [4][-]{section*.88}{}{subsubsection.3.7.5}% 129
+\BOOKMARK [4][-]{section*.89}{Channel Noise}{subsubsection.3.7.5}% 130
+\BOOKMARK [3][-]{subsubsection.3.7.6}{Link Budget Calculation}{subsection.3.7}% 131
+\BOOKMARK [4][-]{section*.90}{Methodology}{subsubsection.3.7.6}% 132
+\BOOKMARK [2][-]{subsection.3.8}{Budget}{section.3}% 133
+\BOOKMARK [2][-]{subsection.3.9}{Astrea satellite Final Configuration}{section.3}% 134
+\BOOKMARK [1][-]{section.4}{References}{}% 135
