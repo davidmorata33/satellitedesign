@@ -177,11 +177,7 @@ For an effective communication, the signal has to be able to trespass the atmosp
 		\label{computers}
 		
 	\end{longtable}
-	
-
-\subsubsubsection{Commercial options}
-
-
+	\paragraph{}The main advantage of NanoMind Z7000 over ISIS iOBC is the computing availability, because of its two 667MHz processor Z7000 can handle higher data payloads and processit at higher velocities, reducing in last term delay between communications. Also, Z7000 presents a lower mass, critical think in our mass limitation of 4kg. But the turning point is, as stated before, Z7000 comes integrated on a single board with a maximum of three NanoMind TR-600 transceivers, fact that makes it a perfect option to build a data relay module payload.
 \subsubsection{Study of the commercial available options and options chosen}
 \paragraph{}A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{payloadoptions} is presented below.
 
@@ -200,12 +196,24 @@ For an effective communication, the signal has to be able to trespass the atmosp
 	   \hline
 	\hline
 
-\rowcolor[gray]{0.85} \textbf{Transceiver} &  &  \\
-	   ~	\textbf{POSAR!!!} & \makecell{\textbf{POSAR!!}\\ \textbf{POSAR!!}} & 17000 \\
+\rowcolor[gray]{0.85} \textbf{Transceiver inter-satellite} &  &  \\
+	   ~	NanoCom TR-600 & \makecell{SDR including S band\\ High Bandwith \\ Low mass and dimensions\\Integrated with other PDHS} & 8545 \\
 	   \hline
-	   ~	\textbf{POSAR!!!} & \makecell{\textbf{POSAR!!}\\ \textbf{POSAR!!}} & 17000 \\
+	   ~	SWIFT-SLX & \makecell{Low power consumption\\ High mass and dimensions\\ Narrow bandwidth} & 7800 \\
 	   \hline
 	\hline
+\rowcolor[gray]{0.85} \textbf{Transceiver space to ground} &  &  \\
+~	SWIFT-XTS & \makecell{High bandwith\\ High mass \\ Standard dimensions} & TO BE REQUEST \\
+	   \hline
+~	ENDUROSAT & \makecell{Narrow bandwidth\\ Lower mass\\ Standard size} & 22500 \\
+\hline
+\hline
+\rowcolor[gray]{0.85} \textbf{PDHS Computers} &  &  \\
+~	NanoMind Z7000 & \makecell{LinuxOS\\ High processing velocity\\ High power consumption\\ Low mass and dimensions} & TO BE REQUEST \\
+\hline
+~	ISIS iOBC& \makecell{FreeRTOS OS\\ Less computing velocity \\ High dimensions and mass} & 9400 \\
+\hline
+\hline
 	
 \caption{Options studied}
 \label{payloadoptions}
@@ -221,8 +229,9 @@ Finally, with the aim to clarify all the information of this section, the chosen
 	
 	~Antenna & Patch antenna AntDevCo & TO REQUEST! & 4 \\
 	~Antenna & Turnstile antenna ANT430 Gomspace & 9500 & 2 \\
-	~TRANSCEIVER & EMPTY & TO REQUEST & 1 \\
-	~DHS & EMPTY & 20000 & 1 \\
+	~Transceiver & NanoCom TR-600 & TO REQUEST! & 3 \\
+	~Transceiver& SWIFT-XTS &TO REQUEST!&1\\
+	~PDHS & NanoMind Z7000 & TO REQUEST! & 1 \\
 	\hline
 	
 \caption{Options chosen}
