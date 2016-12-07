@@ -39,24 +39,25 @@
 	\hline
 	
 \rowcolor[gray]{0.85} \textbf{Data Handling Systems} &  \\
-	   ~Transceiver (4) & 6 \\
+	   ~Transceiver (4) & 4 \\
 	   \rowcolor[gray]{0.95} \textbf{DHS power consumption} & X \\
 	   \hline
 	\hline
 	
 \rowcolor[gray]{0.85} \textbf{Propulsion and ACDS} &  \\
 	   ~Thruster (1) & 20 \\
-	   ~Turnstile antenna (2) & 6 \\
+	   ~ACDS (1) & 1 \\
 	   \rowcolor[gray]{0.95} \textbf{OACDS power consumption} & X \\
 	   \hline
 	\hline
 
 \rowcolor[gray]{0.65} \textbf{Estimated total power consumption} & 45 \\
 
-
 \caption{Estimation of the power consumption under typical working conditions}
 \label{powerestimation}
 \end{longtable}
+
+Additionally, it is worth mentioning that the thrusters are not included in the final estimated power. The thruster will only be active for shorts periods of time to maintain the orbit and when it ignites, the other subsystems will not perform in typical conditions. The CubeSat will manage to send only the essential information to the other satellites and, since they will not be with the thruster ignited, the communication is ensured during this maneuver.
 
 \subsubsection{Solar arrays}
 
@@ -66,7 +67,8 @@
 
 \paragraph{}The option selected for the mission is a set of deployable solar panels provided by EXA (Agencia Espacial Civil Ecuatoriana). These solar arrays fulfill all the requirements mentioned above: they are low mass (135g per unit), they have a protective radiation shield (NEMEA Anti Radiation Shield protects the solar panels of EM, High Gamma, X-Ray, Alfa, Beta and low neutron radiation) they can withstand a very high temperature range (from -80 to 130ºC) ensuring that they can operate in space, they have a gentle release and deployment system with artificial muscles (developed by EXA) and they provide a power of 16.8W each (19.2V@0.5A).
 
-\paragraph{}Every cubesat will come with 4 deployable solar panels providing it with 67.2W of power, approximately, to supply peak demands during the lifetime of the mission. Additionally, it is worth mentioning that these solar arrays are compatible with the hardward used (the structure and the power management system).
+\paragraph{}Every cubesat will come with at least 4 deployable solar panels providing it with 67.2W of power, approximately, to supply peak demands during the lifetime of the mission. Additionally, it is worth mentioning that these solar arrays are compatible with the hardward used (the structure and the power management system).\\
+Note that these 4 deployable solar panels are a basic requirement. If more space is available on the faces of the satellite, additional 1U non-deployable solar arrays will be placed (giving an extra power of 2.3W per array, approximately). They are also low mass equipment (50g per array) as the deployable solar arrays and highly compatible with the CubeSat. Their current and voltage are different but given that the CubeSat will be equipped with the NanoPower P60, that should not be a problem. The only drawback of these arrays is that they will be fully operational only for 2 years in LEO. However, that does not mean they will not work anymore after these 2 years; it means that they will start losing efficiency.
 
 \subsubsection{Power management system}
 
@@ -80,7 +82,8 @@
 
 \paragraph{}The PDU module has 9 different outputs per unit that are highly configurable. Each module has 3 configurable output voltages (3.3V, 5V, 8V, 12V, 18V, 24V) and each of the outputs can withstand a maximum current of 1A or 2A (programmable). Additionally, like the ACU module, current and voltage outputs are measured on each output channel and can be effectively communicated to the onboard computer.
 
-\paragraph{}All these features make the \textit{NanoPower P60} a very efficient and configurable power management unit that fulfills the mission requirements. Furthermore, given this capacity to configure each input and output channel and the high number of channels that it has, the compatibility between all the systems used in the satellite is ensured.
+\paragraph{}All these features make the \textit{NanoPower P60} a very efficient and configurable power management unit that fulfills the mission requirements. Furthermore, given this capacity to configure each input and output channel and the high number of channels that it has, the compatibility between all the systems used in the satellite is ensured. Additionally, the communication between this system and the onboard computer in order to detect potential failures is a really adequate feature.\\
+With the NanoPower P60 we aim to distribute the energy to all of the subsystems of the CubeSat.
 
 \subsubsection{Batteries}
 
@@ -95,17 +98,17 @@
 
 \begin{longtable}{| l | c | c | }
 \hline
-\rowcolor[gray]{0.80}	\textbf{Brand and model} &  \textbf{Features}     & \textbf{Total price (\euro)}   \\
+\rowcolor[gray]{0.80}	\textbf{Brand and model} &  \textbf{Features}     & \textbf{Total price (\euro) per unit}   \\
 \hline
 \endfirsthead
 
 \rowcolor[gray]{0.85} \textbf{Solar arrays} &  &  \\
 	   ~EXA-Agencia Espacial Ecuatoriana & \makecell{Total power of 67.2W (4units)\\ Mass of 270g (p.unit) \\ Included thermal protection \\At least 4 years lifetime} & 17000 \\
 	   \hline
-	   ~ISIS & \makecell{Total ower of ~30W (4units) \\ Mass of 150g (p.unit) \\ No thermal protection \\At least 2 years lifetime} & \textbf{TO REQUEST!} \\
+	   ~ISIS & \makecell{Total ower of ~30W (4units) \\ Mass of 150g (p.unit) \\ No thermal protection \\At least 2 years lifetime} & 9000 \\
 	   \hline
 \rowcolor[gray]{0.85} \textbf{Power management} &  &  \\
-	   ~Crystalspace P1 Vasik & \makecell{Mass of 80g \\ Full redundancy \\ Low volume \\ 6x outputs \\ Up to 10W input \\ High temperature range} & \textbf{TO REQUEST!} \\
+	   ~Crystalspace P1 Vasik & \makecell{Mass of 80g \\ Full redundancy \\ Low volume \\ 6x outputs \\ Up to 10W input \\ High temperature range} & 5400 \\
 	\hline
 	   ~Gomspace NanoPower P60 & \makecell{Mass of 176g \\ 9x configurable outputs \\ 6x inputs per module \\ EMI shielding \\ High temperature range} & 16000 \\
 	\hline
