@@ -1,0 +1,135 @@
+\BOOKMARK [1][-]{Doc-Start}{List of Tables}{}% 1
+\BOOKMARK [1][-]{Doc-Start}{List of Figures}{}% 2
+\BOOKMARK [1][-]{section.1}{Satellite design planning}{}% 3
+\BOOKMARK [1][-]{section.2}{Gantt of the section}{}% 4
+\BOOKMARK [1][-]{section.3}{Satellite design}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Structure and mechanics}{section.3}% 6
+\BOOKMARK [3][-]{section*.1}{}{subsection.3.1}% 7
+\BOOKMARK [4][-]{section*.2}{}{section*.1}% 8
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Structure}{subsection.3.1}% 9
+\BOOKMARK [4][-]{section*.3}{}{subsubsection.3.1.1}% 10
+\BOOKMARK [4][-]{section*.4}{}{subsubsection.3.1.1}% 11
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Thermal protection}{subsection.3.1}% 12
+\BOOKMARK [4][-]{section*.6}{}{subsubsection.3.1.2}% 13
+\BOOKMARK [4][-]{section*.7}{}{subsubsection.3.1.2}% 14
+\BOOKMARK [4][-]{section*.8}{}{subsubsection.3.1.2}% 15
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Study of the commercial available options and options chosen}{subsection.3.1}% 16
+\BOOKMARK [4][-]{section*.9}{}{subsubsection.3.1.3}% 17
+\BOOKMARK [4][-]{section*.10}{}{subsubsection.3.1.3}% 18
+\BOOKMARK [2][-]{subsection.3.2}{Electrical Power System}{section.3}% 19
+\BOOKMARK [3][-]{section*.11}{}{subsection.3.2}% 20
+\BOOKMARK [4][-]{section*.12}{}{section*.11}% 21
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Estimation of the power required}{subsection.3.2}% 22
+\BOOKMARK [4][-]{section*.14}{}{subsubsection.3.2.1}% 23
+\BOOKMARK [4][-]{section*.15}{}{subsubsection.3.2.1}% 24
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Solar arrays}{subsection.3.2}% 25
+\BOOKMARK [4][-]{section*.16}{}{subsubsection.3.2.2}% 26
+\BOOKMARK [4][-]{section*.17}{}{subsubsection.3.2.2}% 27
+\BOOKMARK [4][-]{section*.18}{}{subsubsection.3.2.2}% 28
+\BOOKMARK [4][-]{section*.19}{}{subsubsection.3.2.2}% 29
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Power management system}{subsection.3.2}% 30
+\BOOKMARK [4][-]{section*.20}{}{subsubsection.3.2.3}% 31
+\BOOKMARK [4][-]{section*.21}{}{subsubsection.3.2.3}% 32
+\BOOKMARK [4][-]{section*.22}{}{subsubsection.3.2.3}% 33
+\BOOKMARK [4][-]{section*.23}{}{subsubsection.3.2.3}% 34
+\BOOKMARK [4][-]{section*.24}{}{subsubsection.3.2.3}% 35
+\BOOKMARK [4][-]{section*.25}{}{subsubsection.3.2.3}% 36
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Batteries}{subsection.3.2}% 37
+\BOOKMARK [4][-]{section*.26}{}{subsubsection.3.2.4}% 38
+\BOOKMARK [4][-]{section*.27}{}{subsubsection.3.2.4}% 39
+\BOOKMARK [4][-]{section*.28}{}{subsubsection.3.2.4}% 40
+\BOOKMARK [3][-]{subsubsection.3.2.5}{Study of the commercial available options and options chosen}{subsection.3.2}% 41
+\BOOKMARK [4][-]{section*.29}{}{subsubsection.3.2.5}% 42
+\BOOKMARK [4][-]{section*.30}{}{subsubsection.3.2.5}% 43
+\BOOKMARK [2][-]{subsection.3.3}{Propulsion Systems}{section.3}% 44
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Requirements}{subsection.3.3}% 45
+\BOOKMARK [4][-]{section*.31}{}{subsubsection.3.3.1}% 46
+\BOOKMARK [4][-]{section*.32}{}{subsubsection.3.3.1}% 47
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Thrusters}{subsection.3.3}% 48
+\BOOKMARK [4][-]{section*.33}{}{subsubsection.3.3.2}% 49
+\BOOKMARK [4][-]{section*.34}{}{subsubsection.3.3.2}% 50
+\BOOKMARK [4][-]{section*.35}{}{subsubsection.3.3.2}% 51
+\BOOKMARK [4][-]{section*.36}{}{subsubsection.3.3.2}% 52
+\BOOKMARK [4][-]{section*.37}{}{subsubsection.3.3.2}% 53
+\BOOKMARK [4][-]{section*.38}{}{subsubsection.3.3.2}% 54
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Study of the commercial available options}{subsection.3.3}% 55
+\BOOKMARK [4][-]{section*.39}{}{subsubsection.3.3.3}% 56
+\BOOKMARK [4][-]{section*.40}{}{subsubsection.3.3.3}% 57
+\BOOKMARK [2][-]{subsection.3.4}{Attitude and Orbital Control Systems}{section.3}% 58
+\BOOKMARK [3][-]{section*.41}{}{subsection.3.4}% 59
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Attitude Determination}{subsection.3.4}% 60
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Attitude Control}{subsection.3.4}% 61
+\BOOKMARK [3][-]{subsubsection.3.4.3}{Orbital Control}{subsection.3.4}% 62
+\BOOKMARK [3][-]{subsubsection.3.4.4}{Study of the commercial available options}{subsection.3.4}% 63
+\BOOKMARK [2][-]{subsection.3.5}{Payload}{section.3}% 64
+\BOOKMARK [3][-]{section*.42}{Aim}{subsection.3.5}% 65
+\BOOKMARK [4][-]{section*.43}{}{section*.42}% 66
+\BOOKMARK [4][-]{section*.44}{}{section*.42}% 67
+\BOOKMARK [4][-]{section*.45}{}{section*.42}% 68
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Antennas}{subsection.3.5}% 69
+\BOOKMARK [4][-]{section*.46}{}{subsubsection.3.5.1}% 70
+\BOOKMARK [4][-]{subsubsubsection.3.5.1.1}{Basic parameters}{subsubsection.3.5.1}% 71
+\BOOKMARK [4][-]{section*.47}{}{subsubsection.3.5.1}% 72
+\BOOKMARK [4][-]{section*.48}{}{subsubsection.3.5.1}% 73
+\BOOKMARK [4][-]{section*.49}{}{subsubsection.3.5.1}% 74
+\BOOKMARK [4][-]{section*.50}{}{subsubsection.3.5.1}% 75
+\BOOKMARK [4][-]{subsubsubsection.3.5.1.2}{Patch antenna}{subsubsection.3.5.1}% 76
+\BOOKMARK [4][-]{section*.51}{}{subsubsection.3.5.1}% 77
+\BOOKMARK [4][-]{subsubsubsection.3.5.1.3}{Turnstile antenna}{subsubsection.3.5.1}% 78
+\BOOKMARK [4][-]{section*.52}{}{subsubsection.3.5.1}% 79
+\BOOKMARK [3][-]{subsubsection.3.5.2}{Antenna selection}{subsection.3.5}% 80
+\BOOKMARK [4][-]{section*.53}{}{subsubsection.3.5.2}% 81
+\BOOKMARK [4][-]{section*.54}{}{subsubsection.3.5.2}% 82
+\BOOKMARK [4][-]{section*.55}{}{subsubsection.3.5.2}% 83
+\BOOKMARK [3][-]{subsubsection.3.5.3}{Payload Data Handling Systems}{subsection.3.5}% 84
+\BOOKMARK [4][-]{section*.56}{}{subsubsection.3.5.3}% 85
+\BOOKMARK [4][-]{section*.57}{}{subsubsection.3.5.3}% 86
+\BOOKMARK [4][-]{section*.58}{}{subsubsection.3.5.3}% 87
+\BOOKMARK [4][-]{subsubsubsection.3.5.3.1}{Transceivers}{subsubsection.3.5.3}% 88
+\BOOKMARK [4][-]{section*.59}{}{subsubsection.3.5.3}% 89
+\BOOKMARK [4][-]{section*.60}{}{subsubsection.3.5.3}% 90
+\BOOKMARK [4][-]{section*.61}{}{subsubsection.3.5.3}% 91
+\BOOKMARK [4][-]{subsubsubsection.3.5.3.2}{PDHS computers}{subsubsection.3.5.3}% 92
+\BOOKMARK [4][-]{section*.62}{}{subsubsection.3.5.3}% 93
+\BOOKMARK [4][-]{section*.63}{}{subsubsection.3.5.3}% 94
+\BOOKMARK [3][-]{subsubsection.3.5.4}{Study of the commercial available options and options chosen}{subsection.3.5}% 95
+\BOOKMARK [4][-]{section*.64}{}{subsubsection.3.5.4}% 96
+\BOOKMARK [2][-]{subsection.3.6}{Communication module}{section.3}% 97
+\BOOKMARK [3][-]{section*.65}{}{subsection.3.6}% 98
+\BOOKMARK [4][-]{section*.66}{}{section*.65}% 99
+\BOOKMARK [4][-]{section*.67}{}{section*.65}% 100
+\BOOKMARK [4][-]{section*.68}{}{section*.65}% 101
+\BOOKMARK [2][-]{subsection.3.7}{Link Budget}{section.3}% 102
+\BOOKMARK [3][-]{section*.69}{ }{subsection.3.7}% 103
+\BOOKMARK [4][-]{section*.70}{ }{section*.69}% 104
+\BOOKMARK [3][-]{subsubsection.3.7.1}{Communications Basics}{subsection.3.7}% 105
+\BOOKMARK [4][-]{section*.71}{ }{subsubsection.3.7.1}% 106
+\BOOKMARK [4][-]{section*.72}{Transmission Losses}{subsubsection.3.7.1}% 107
+\BOOKMARK [3][-]{subsubsection.3.7.2}{Propagation losses}{subsection.3.7}% 108
+\BOOKMARK [4][-]{subsubsubsection.3.7.2.1}{Free Space Losses}{subsubsection.3.7.2}% 109
+\BOOKMARK [4][-]{section*.74}{Range and Path Loss}{subsubsection.3.7.2}% 110
+\BOOKMARK [4][-]{subsubsubsection.3.7.2.2}{Atmospheric Losses}{subsubsection.3.7.2}% 111
+\BOOKMARK [4][-]{section*.75}{ }{subsubsection.3.7.2}% 112
+\BOOKMARK [4][-]{section*.76}{Ionospheric Effects}{subsubsection.3.7.2}% 113
+\BOOKMARK [4][-]{section*.77}{Tropospheric Effects Jorge2012}{subsubsection.3.7.2}% 114
+\BOOKMARK [4][-]{section*.81}{Local Effects}{subsubsection.3.7.2}% 115
+\BOOKMARK [4][-]{subsubsubsection.3.7.2.3}{Pointing Losses}{subsubsection.3.7.2}% 116
+\BOOKMARK [4][-]{section*.82}{ }{subsubsection.3.7.2}% 117
+\BOOKMARK [4][-]{section*.83}{}{subsubsection.3.7.2}% 118
+\BOOKMARK [4][-]{subsubsubsection.3.7.2.4}{Multipath and Fade Margin}{subsubsection.3.7.2}% 119
+\BOOKMARK [4][-]{section*.84}{ }{subsubsection.3.7.2}% 120
+\BOOKMARK [3][-]{subsubsection.3.7.3}{Local Losses}{subsection.3.7}% 121
+\BOOKMARK [4][-]{subsubsubsection.3.7.3.1}{Equipament Losses}{subsubsection.3.7.3}% 122
+\BOOKMARK [4][-]{section*.85}{}{subsubsection.3.7.3}% 123
+\BOOKMARK [4][-]{subsubsubsection.3.7.3.2}{Environment Losses}{subsubsection.3.7.3}% 124
+\BOOKMARK [4][-]{section*.86}{}{subsubsection.3.7.3}% 125
+\BOOKMARK [3][-]{subsubsection.3.7.4}{Modulation Technique}{subsection.3.7}% 126
+\BOOKMARK [4][-]{section*.87}{ }{subsubsection.3.7.4}% 127
+\BOOKMARK [3][-]{subsubsection.3.7.5}{System Noise}{subsection.3.7}% 128
+\BOOKMARK [4][-]{section*.89}{}{subsubsection.3.7.5}% 129
+\BOOKMARK [4][-]{section*.90}{Channel Noise}{subsubsection.3.7.5}% 130
+\BOOKMARK [3][-]{subsubsection.3.7.6}{Link Budget Calculation}{subsection.3.7}% 131
+\BOOKMARK [4][-]{section*.91}{Methodology}{subsubsection.3.7.6}% 132
+\BOOKMARK [2][-]{subsection.3.8}{Budget}{section.3}% 133
+\BOOKMARK [2][-]{subsection.3.9}{Astrea satellite Final Configuration}{section.3}% 134
+\BOOKMARK [1][-]{section.4}{References}{}% 135
