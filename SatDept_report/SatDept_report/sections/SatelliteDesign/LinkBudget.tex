@@ -6,19 +6,18 @@
 	\item Space to Space link between Astrea satellites.
 	\item Space to Space link between client and Astrea satellites.
 \end{itemize} 
-
-\paragraph
-\ The link budget calculations are mostly calculated using the following fonts: \cite{Jorge2012}.
-
 \subsubsection{Communications Basics}
 \paragraph
 \
-\cite{Note1998}
-When evaluating a wireless link, the three most important questions to be answered are:\\
+
+When evaluating a wireless link, the three most important questions to be answered are: \cite{Note1998}\\
 \begin{enumerate}
-	\item How much radio frequency (RF) power is available?
-	\item How much bandwidth is available?
-	\item What is the required reliability (as defined by Bit Error Rate, or BER)?
+	\item \underline{How much radio frequency (RF) power is available?}
+	Up to 2W for S band or up to 12W for Xband.
+	\item \underline{How much bandwidth is available?}\\
+	Available 400MHz with 28 channels of 14MHz or 228 channels of 1.75MHz for inter-satellite communication at S band. For X band, there's more than 4GHz available \cite{SecretariadeEstadodetelecomunicacionesyparalasociedaddelainformacion.2015}. In fact is limited by the TR-600 transceiver at 56MHz for S band and to 100MHz by SWIFT - XTS at X band.
+	\item \underline{What is the required reliability (as defined by Bit Error Rate, or BER)?}\\
+	Required reliability for space systems$E_b/N_o \geq 10$, so $BER=5.5x10^{-6}$ for a MSK, PSK (worst case) modulation as shown in Fig.\ref{BEvsSNR}.
 \end{enumerate}
 The upper limit in terms of data rate is given by Shannon's Channel Capacity Theorem:
 \begin{equation}
@@ -32,6 +31,8 @@ where:
 	S&= \text{signal strength (watts)}\\
 	N&= \text{noise power (watts)}
 \end{align*}
+
+\paragraph{} With all data known, the minimum required sensitivity of a receiver using the Eq. \ref{channelCapacity} will be stated in the Link Budget calculation.
 
 \paragraph{Transmission Losses}
 \ In any satellite transmission, there are always losses from various sources. Some of
@@ -201,7 +202,8 @@ specified level of reliability in terms of BER.\\
 	\caption{Probability of bit error for common modulation methods \cite{Note1998}}
 	\label{BEvsSNR}
 \end{figure}
-A graph of Eb/No
+\pagebreak
+A graph of $E_b/N_o$
 vs BER is shown in Figure \ref{BEvsSNR}. $E_b/N_o$ is a measure of the
 required energy per bit relative to the noise power. Note that
 $E_b/N_o$ is independent of the system data rate. In order to

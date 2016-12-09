@@ -104,35 +104,35 @@
 \contentsline {paragraph}{}{24}{section*.73}
 \contentsline {subsection}{\numberline {3.7}Link Budget}{24}{subsection.3.7}
 \contentsline {paragraph}{\ }{24}{section*.74}
-\contentsline {paragraph}{\ }{24}{section*.75}
 \contentsline {subsubsection}{\numberline {3.7.1}Communications Basics}{24}{subsubsection.3.7.1}
-\contentsline {paragraph}{\ }{24}{section*.76}
-\contentsline {paragraph}{Transmission Losses}{24}{section*.77}
+\contentsline {paragraph}{\ }{24}{section*.75}
+\contentsline {paragraph}{}{25}{section*.76}
+\contentsline {paragraph}{Transmission Losses}{25}{section*.77}
 \contentsline {subsubsection}{\numberline {3.7.2}Propagation losses}{25}{subsubsection.3.7.2}
 \contentsline {subsubsubsection}{\numberline {3.7.2.1}Free Space Losses}{25}{subsubsubsection.3.7.2.1}
 \contentsline {paragraph}{Range and Path Loss}{25}{section*.79}
-\contentsline {subsubsubsection}{\numberline {3.7.2.2}Atmospheric Losses}{26}{subsubsubsection.3.7.2.2}
-\contentsline {paragraph}{\ }{26}{section*.80}
-\contentsline {paragraph}{Ionospheric Effects}{26}{section*.81}
-\contentsline {paragraph}{Tropospheric Effects \cite {Jorge2012}}{27}{section*.82}
-\contentsline {paragraph}{Local Effects}{28}{section*.86}
-\contentsline {subsubsubsection}{\numberline {3.7.2.3}Pointing Losses}{29}{subsubsubsection.3.7.2.3}
-\contentsline {paragraph}{\ }{29}{section*.87}
-\contentsline {paragraph}{}{29}{section*.88}
-\contentsline {subsubsubsection}{\numberline {3.7.2.4}Multipath and Fade Margin}{29}{subsubsubsection.3.7.2.4}
-\contentsline {paragraph}{\ }{29}{section*.89}
-\contentsline {subsubsection}{\numberline {3.7.3}Local Losses}{30}{subsubsection.3.7.3}
-\contentsline {subsubsubsection}{\numberline {3.7.3.1}Equipament Losses}{30}{subsubsubsection.3.7.3.1}
-\contentsline {paragraph}{}{30}{section*.90}
-\contentsline {subsubsubsection}{\numberline {3.7.3.2}Environment Losses}{30}{subsubsubsection.3.7.3.2}
-\contentsline {paragraph}{}{30}{section*.91}
-\contentsline {subsubsection}{\numberline {3.7.4}Modulation Technique}{30}{subsubsection.3.7.4}
-\contentsline {paragraph}{\ }{30}{section*.92}
-\contentsline {subsubsection}{\numberline {3.7.5}System Noise}{31}{subsubsection.3.7.5}
-\contentsline {paragraph}{}{31}{section*.94}
-\contentsline {paragraph}{Channel Noise}{32}{section*.95}
-\contentsline {subsubsection}{\numberline {3.7.6}Link Budget Calculation}{32}{subsubsection.3.7.6}
-\contentsline {paragraph}{Methodology}{32}{section*.96}
-\contentsline {subsection}{\numberline {3.8}Budget}{32}{subsection.3.8}
-\contentsline {subsection}{\numberline {3.9}Astrea satellite Final Configuration}{33}{subsection.3.9}
-\contentsline {section}{\numberline {4}References}{34}{section.4}
+\contentsline {subsubsubsection}{\numberline {3.7.2.2}Atmospheric Losses}{27}{subsubsubsection.3.7.2.2}
+\contentsline {paragraph}{\ }{27}{section*.80}
+\contentsline {paragraph}{Ionospheric Effects}{27}{section*.81}
+\contentsline {paragraph}{Tropospheric Effects \cite {Jorge2012}}{28}{section*.82}
+\contentsline {paragraph}{Local Effects}{29}{section*.86}
+\contentsline {subsubsubsection}{\numberline {3.7.2.3}Pointing Losses}{30}{subsubsubsection.3.7.2.3}
+\contentsline {paragraph}{\ }{30}{section*.87}
+\contentsline {paragraph}{}{30}{section*.88}
+\contentsline {subsubsubsection}{\numberline {3.7.2.4}Multipath and Fade Margin}{30}{subsubsubsection.3.7.2.4}
+\contentsline {paragraph}{\ }{30}{section*.89}
+\contentsline {subsubsection}{\numberline {3.7.3}Local Losses}{31}{subsubsection.3.7.3}
+\contentsline {subsubsubsection}{\numberline {3.7.3.1}Equipament Losses}{31}{subsubsubsection.3.7.3.1}
+\contentsline {paragraph}{}{31}{section*.90}
+\contentsline {subsubsubsection}{\numberline {3.7.3.2}Environment Losses}{31}{subsubsubsection.3.7.3.2}
+\contentsline {paragraph}{}{31}{section*.91}
+\contentsline {subsubsection}{\numberline {3.7.4}Modulation Technique}{31}{subsubsection.3.7.4}
+\contentsline {paragraph}{\ }{31}{section*.92}
+\contentsline {subsubsection}{\numberline {3.7.5}System Noise}{32}{subsubsection.3.7.5}
+\contentsline {paragraph}{}{33}{section*.94}
+\contentsline {paragraph}{Channel Noise}{33}{section*.95}
+\contentsline {subsubsection}{\numberline {3.7.6}Link Budget Calculation}{33}{subsubsection.3.7.6}
+\contentsline {paragraph}{Methodology}{33}{section*.96}
+\contentsline {subsection}{\numberline {3.8}Budget}{33}{subsection.3.8}
+\contentsline {subsection}{\numberline {3.9}Astrea satellite Final Configuration}{34}{subsection.3.9}
+\contentsline {section}{\numberline {4}References}{36}{section.4}
