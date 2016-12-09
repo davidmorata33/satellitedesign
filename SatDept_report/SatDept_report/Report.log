@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  9 DEC 2016 12:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.25)  9 DEC 2016 13:13
 entering extended mode
 **./Report.tex
 (Report.tex
@@ -2004,18 +2004,16 @@ spe-cific stars.
 Underfull \vbox (badness 10000) detected at line 34
  []
 
-) (sections/SatelliteDesign/Payload.tex
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 34.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [15]) (sections/SatelliteDesign/Payload.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 2.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 6.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [15]
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 6.
-
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -2024,49 +2022,53 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 24.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 20.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [16]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 30.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
-LaTeX Warning: Citation `patch' on page 17 undefined on input line 32.
+[17]
+
+LaTeX Warning: Citation `patch' on page 18 undefined on input line 32.
 
 
 Underfull \vbox (badness 10000) detected at line 57
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [17]
+
 Underfull \vbox (badness 10000) detected at line 86
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 92.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 86.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [18]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 103.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+
+[19]
 Underfull \vbox (badness 10000) detected at line 125
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 125.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [19]
+
 Underfull \vbox (badness 10000) detected at line 150
  []
 
-
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 152.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [20]
 Underfull \vbox (badness 10000) detected at line 179
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 179.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [20]
+
 Overfull \hbox (53.51926pt too wide) in alignment at lines 184--188
  [] [] [] 
  []
@@ -2080,18 +2082,18 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 220.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [21])
-(sections/SatelliteDesign/Communicationmodule.tex
+ [21]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 239.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+
+[22]) (sections/SatelliteDesign/Communicationmodule.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 14.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 16.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [22])
-(sections/SatelliteDesign/LinkBudget.tex
+) (sections/SatelliteDesign/LinkBudget.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
@@ -2102,17 +2104,17 @@ Underfull \hbox (badness 6559) in paragraph at lines 3--5
 o sta-b-lish three dif-fer-ent
  []
 
-
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 13.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [23]
 Underfull \hbox (badness 10000) in paragraph at lines 16--19
 
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 34.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [23]
-<./sections/SatelliteDesign/images/principal_losses.png, id=906, 624.83438pt x 
+
+<./sections/SatelliteDesign/images/principal_losses.png, id=900, 624.83438pt x 
 326.72063pt>
 File: ./sections/SatelliteDesign/images/principal_losses.png Graphic file (type
  png)
@@ -2125,16 +2127,20 @@ Overfull \hbox (16.17131pt too wide) in paragraph at lines 42--44
  [][] 
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 63.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [24 <./sections/SatelliteDesign/images/principal_losses.png>]
+ [24]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 64.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [25]
+
+[25 <./sections/SatelliteDesign/images/principal_losses.png>]
 Underfull \hbox (badness 1803) in paragraph at lines 72--74
 []\T1/lmr/m/n/12 The ma-jor dis-tin-guish-ing fac-tor be-tween them is their or
 i-gin. At-ten-u-a-tion is
@@ -2300,7 +2306,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
 Here is how much of TeX's memory you used:
  29387 strings out of 493334
  548189 string characters out of 3139246
- 638533 words of memory out of 3000000
+ 639533 words of memory out of 3000000
  32231 multiletter control sequences out of 15000+200000
  63422 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2316,7 +2322,7 @@ fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
 lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Report.pdf (40 pages, 1903173 bytes).
+Output written on Report.pdf (40 pages, 1903200 bytes).
 PDF statistics:
  1080 PDF objects out of 1200 (max. 8388607)
  215 named destinations out of 1000 (max. 500000)
