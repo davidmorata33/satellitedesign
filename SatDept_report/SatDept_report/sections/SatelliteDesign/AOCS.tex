@@ -24,7 +24,7 @@
 	\cellcolor[gray]{0.85} \textbf{Size} & 90 x 90 x 58 mm&10 x 10 x 5.59 cm \\ \hline
 	\cellcolor[gray]{0.85} \textbf{Sensors} & \makecell{3-Axis Gyro\\Fine Sun \& Earth sensor \\ Magnetometer\\10x Coarse Sun Sensors \\Star tracker(optional)}& \makecell{3-axis magnetometer \\Coarse sun sensor\\EHS Camera}\\ 	\hline
 	\cellcolor[gray]{0.85} \textbf{Actuators} &  \makecell{3 reactions wheels\\2 torque rods} & \makecell{3 reactions wheels\\3 torque rods}\\ 	\hline
-	\cellcolor[gray]{0.85} \textbf{Computer} & -40ºC to +85ºC & \makecell{4Hz\\Provides telemetry}\\ \hline
+	\cellcolor[gray]{0.85} \textbf{Computer} &\makecell{4-48 MHz\\ full ADCS + OBC}  & \makecell{4Hz\\Provides telemetry}\\ \hline
 	\cellcolor[gray]{0.85} \textbf{Control Board} & \makecell{Works as OBC\\included}& \makecell{MAI-400\\ not included}\\
 	\hline
 	
@@ -32,3 +32,6 @@
 	\label{ADACS}
 	
 \end{longtable}
+\paragraph{Decision}  After the study of commercial options available, the previous two where the unique that fitted in AstreaSAT requirements, so a decision between these two must be done. Since all the features tabulated on \ref{ADACS} are critical, the same weights are given. Therefore, we will compare directly the two alternatives for choosing the best alternatives.\\
+Taking into account that we need: low power consumption, low, weight and size, high pointing accuracy and really versatile systems that can integrate multiple subsystems; \textbf{CUBE ADCS} is chosen. It has the lowest mass and power consumption, it also offers a higher attitude determination systems, redundancy is a  key fact because we can not loose precision during the life time of each satellite. Finally, the fact that CUBE ADCS integrates also and On-Board Computer (OBC) is the turning point, because we have size and weight limitations, having and integrated, high performance OBC in this system will make able TT\&C with the ground stations and the control af every system on board.
+http://www.cubespace.co.za/cubecomputer
