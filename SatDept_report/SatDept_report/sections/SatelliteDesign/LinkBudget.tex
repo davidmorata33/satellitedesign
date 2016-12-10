@@ -83,10 +83,10 @@ statistical data. The effects are:
 	\item \textbf{Polarization rotation}: When a radio wave passes through the ionosphere, it contacts the layers of ionized 	electrons that move according to the Earth’s magnetic field. The direction these 	electrons move will no longer be parallel to the electric field of the wave and therefore	the polarization is shifted, in what is called Faraday rotation ($\theta_F$). ;
 	\item \textbf{Scintillation effects}: Differences in the atmospheric refractive index may cause scattering and multipath 	effect, due to the different directions rays may take through the atmosphere. They are detected as variations in amplitude, phase, polarization and angle of arrival of	the radio waves.	It is often recommended the introduction of a fade margin so atmospheric scintillation
 	can be a tolerated phenomenon.; 
-	\item Absorption;
-	\item Variation in the direction of arrival;
-	\item Propagation delay;
-	\item Dispersion;
+	\item Absorption
+	\item Variation in the direction of arrival
+	\item Propagation delay
+	\item Dispersion
 	\item Frequency change
 \end{itemize}
 These effects decrease usually with the increase of the square of the frequency and most serious ones in satellite communications are the polarization rotation and the
@@ -106,16 +106,24 @@ collection of data already received allows the elaboration of the graphic that f
 	\caption{Specific attenuation for different frequencies \cite{Jorge2012}}
 	\label{specificAtenuattion}
 \end{figure}
-Once these values depend on atmosphere thickness, it becomes necessary to perform all calculations taking into account troposphere’s thickest layer ($T_trop$), which has 20 km.\\
+\\
+
+Once these values depend on atmosphere thickness, it becomes necessary to perform all calculations taking into account troposphere’s thickest layer ($T_{trop}$), which has 20 km.\\
 It is also mandatory to refer that this graph represents the absorption for a satellite in the zenith, in other words, for an elevation angle of 90º ($\theta$ = 90º). For lower angles, the atmospheric absorption ($L_{abs}$) is given by \cite{Jorge2012}:
 \begin{equation}
 	L_{abs}(dB)=L_{abs|90º} (dB/km)\ cosec(\theta)\ T_{trop}(km)
 	\label{Labs}
 \end{equation}
+\paragraph{} For AstreaSAT, $5\mathrm{x}10^{-3}dB/km$ attenuation factor is considered for S band due to the $O_2$ specific attenuation. On the other hand, $4\mathrm{x}10^{-3}dB/km$ attenuation factor is considered for X band due to the $H_2O$ and to the $O_2$ specific attenuations. An study of the critical elevation angle will lately be performed. 
+\paragraph{} For AstreaSAT ground station, communication starts at an elevation angle of $\theta=10^o$ (worst case scenario). Consequently, $cosesc(\theta)$ will go from 5.76 to 1 (best reception case). In that case, we assume:
+\begin{align*}
+	L_{abs}=2\cdot4\mathrm{x}10^{-3}\cdot5.76\cdot20 =\textbf{0.92dB} \quad \text{X band}\\
+	L_{abs}=5\mathrm{x}10^{-3}\cdot5.76\cdot20 =\textbf{0.58dB} \quad \text{S band}
+\end{align*}
 
-\underline{Polarization}: Satellite communications use linear and circular polarization, but undesirable effects may transform it into an elliptical polarization. Depolarization may occur when an orthogonal component is created due to the passing of the signal through the ionosphere. There are two ways to measure its effect, cross polarization discrimination (XPD) and polarization isolation (I)\cite{Jorge2012}. To overcome this attenuation problems a circular polarization is the best option.\\
+\underline{Polarization}: Satellite communications use linear and circular polarization, but undesirable effects may transform it into an elliptical polarization. Depolarization may occur when an orthogonal component is created due to the passing of the signal through the ionosphere. There are two ways to measure its effect, cross polarization discrimination (XPD) and polarization isolation (I)\cite{Jorge2012}. To overcome this attenuation problems a circular polarization is the best option. AstreaSAT patch antennas will mitigate this problem, therefore this loses are considered negligible.\\
 
-\underline{Sky noise}: Sky noise is a combination of galactic and atmospheric effects, according as both these factors influence the quality of the signal in the reception. Galactic effects decrease with the increase of frequency. They are due to the addition of the cosmic background radiation and the noise temperature of radio stars, galaxies and nebulae. This value is quite low and a good approximation is 3 K.
+\underline{Sky noise}: Sky noise is a combination of galactic and atmospheric effects, according as both these factors influence the quality of the signal in the reception. Galactic effects decrease with the increase of frequency. They are due to the addition of the cosmic background radiation and the noise temperature of radio stars, galaxies and nebulae. This value is quite low and a good approximation is \textbf{3 K}.
 \begin{figure}[h]
 	\includegraphics[scale=0.5]{./sections/SatelliteDesign/images/NoiseTemperature}
 	\centering
@@ -128,7 +136,8 @@ It is also mandatory to refer that this graph represents the absorption for a sa
 	\caption{Noise temperature variation with frequency \cite{Jorge2012}}
 	\label{NoiseTemperature2}
 \end{figure}
-
+\paragraph{AstreaSAT noise temperature} A good approximation based on Fig.\ref{NoiseTemperature} is that Galaxy noise is 3K for S band and almost 1K for X band. Furthermore, for the previous worst case scenario stated before $\theta=10$, noise temperature due to atmospheric absorption is 19K for both bands (S and X).
+\clearpage
 \paragraph{Local Effects}
 These effects refer to the proximity of the local ground stations, possible sources that may interfere with the received signal and buildings that may block the signal. If the ground station is on a free external interferences zone, for satellite communications this factor may be negligible.
 \subsubsubsection{Pointing Losses}
@@ -143,7 +152,7 @@ especially in the case of CubeSats, due to their fast movement of nearly $8000\ 
 Antenna misalignment losses ($L_{aml}$) are calculated using statistical data, so these values
 are an approximation based on real data observed in several GS. Ergo, these values are
 not calculated, but estimated.\cite{Jorge2012}
-
+ \paragraph{} Based on a estimation from \cite{Macdonald2014} a $L_{aml}=1dB$ is a good approximation.
 \subsubsubsection{Multipath and Fade Margin}
 \paragraph
 \
@@ -176,7 +185,7 @@ This item is related to the specific region of the globe where the ground statio
 (equatorial, tropical, polar…). Depending on its latitude, each region has its own
 characteristics (e.g. temperature, moisture, thickness of atmospheric ice layer…), which
 may provoke variation in signal reception. \cite{Jorge2012}
-
+\paragraph{} Communications department, had chosen the best locations over the globe, with stable good weather conditions to neglect this fact.
 \subsubsection{Modulation Technique}
 \paragraph
 \ Modulation technique is a key consideration. This is the
@@ -221,6 +230,7 @@ where:
 	B_T&= \text{system bandwidth}
 \end{align*}
 
+\paragraph{} AstreaSAT is equipped with Software Defined Radios, it has the ability to change the modulation methods when its flying, for calculus MSK and PSK modulations will be considered, because of their more restrictive conditions.
 
 \subsubsection{System Noise}
 The system noise temperature ($T_S$) is the sum of the antenna noise temperature ($T_A$) and
@@ -236,11 +246,17 @@ known. Then, the following expression may be applied:
 	T_A=T_m\ (1-10^{-A/10})+T_C\ 10^{-A/10}
 \end{equation}
 
-Usually, for clouds it is considered $T_m=280K$ and for the rain $T_m=260K$. The sky noise tends to be $T_C=10K$.
+Usually, for clouds it is considered $T_m=280K$ and for the rain $T_m=260K$. The sky noise tends to be $T_C=10K$. Taking into account the values from Fig.\ref{NoiseTemperature} and Fig.\ref{specificAtenuattion} the following estimation can be made:
+\begin{align*}
+	T_A=280\cdot (1-10^{-(5\mathrm{x}10^{-3})/10})+22\cdot 10^{-(5\mathrm{x}10^{-3})/10}&=\textbf{22.29K} \quad \text{S band} \\
+	T_A=280\cdot (1-10^{-2\cdot(4\mathrm{x}10^{-3})/10})+20\cdot 10^{-2\cdot(4\mathrm{x}10^{-3})/10}&=\textbf{20.48K} \quad \text{X band} 
+\end{align*}
+
 \paragraph{} According to \cite{Jorge2012} a good components temperature approximation for a typical ground station is $T_{comp}=65.5K$.
 
-\paragraph{Channel Noise}
-\
+\paragraph{} AstreaSAT system temperature will be considered as $T_S=22.29+65.5=\textbf{87.79K}$ for S band and $T_S=20.48+65.5=\textbf{85.98K}$ for X band. Since both frequencies are part of the microwave spectrum, we see that system temperatures are pretty much the same.
+
+\paragraph{Channel Noise}\
 All objects which have heat emit RF energy in the form of random (Gaussian) noise. The amount of radiation emitted can be calculated by \cite{Note1998}:
 \begin{equation}
 N=kTB
@@ -257,6 +273,10 @@ where:
 This is the lowest possible noise level for a system with a given physical temperature. For most applications, temperature is typically assumed to be room temperature (290K). Equations \ref{channelCapacity} and \ref{noise} demonstrate that RF power and bandwidth can be traded off to achieve a given performance level (as defined by BER). \cite{Note1998}
 
 \subsubsection{Link Budget Calculation}
-\paragraph{Methodology} \ From the expected requirements fixed on the Project Charter, general radio systems parameters will computed, in order to have a reference to look for the best communications system on board the Astrea satellites.
+\paragraph{Methodology} \ From the expected requirements fixed on the Project Charter, general radio systems parameters will computed, in order to have a reference to look for the best communications system on board the Astrea satellites. As background, general losses parameters had been calculated on previous sections. 
 
-$EIRP=P_T-L_T-G_T$
+\paragraph{} The most important concern on AstreaSAT link Budget is how far every satellite can emit on the desired frequencies. This is a key factor to know the utility of the modules selected. At least, Project Charter communication requirements must be accomplish.
+ 
+$EIRP=P_T-L_T-G_T$\\
+FRIIS EQUATION + GRAPH RANGE\\
+SENSITIVITY CALCULUS A PARTIR DE LA DE CAPACITAT + NOISE ADJUDICANT BANDWITH
