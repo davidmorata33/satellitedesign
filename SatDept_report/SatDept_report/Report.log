@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  11 DEC 2016 23:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  12 DEC 2016 00:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1715,14 +1715,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 16.
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (./doc_config/cover.tex
-<./doc_config/images/logo.png, id=597, 3862.43pt x 1275.76625pt>
+<./doc_config/images/logo.png, id=601, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 169.29684pt x 55.90807pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=598, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=602, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1758,7 +1758,7 @@ map/pdftex.map} <./doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT
 .jpg>] [2] (./Report.toc
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 100.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 101.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [1
 
@@ -1837,7 +1837,7 @@ l.7 \begin{landscape}
                       [2
 
 ]
-<./sections/0_Example/GANTT_satellite_design.pdf, id=730, 1195.46625pt x 845.15
+<./sections/0_Example/GANTT_satellite_design.pdf, id=734, 1195.46625pt x 845.15
 75pt>
 File: ./sections/0_Example/GANTT_satellite_design.pdf Graphic file (type pdf)
  <use ./sections/0_Example/GANTT_satellite_design.pdf>
@@ -1851,7 +1851,7 @@ Package pdftex.def Info: ./sections/0_Example/GANTT_satellite_design.pdf used o
 n input line 8.
 (pdftex.def)             Requested size: 1195.46333pt x 845.15544pt.
 
-<./sections/0_Example/GANTT_satellite_design.pdf, id=733, page=1, 1195.46625pt 
+<./sections/0_Example/GANTT_satellite_design.pdf, id=737, page=1, 1195.46625pt 
 x 845.1575pt>
 File: ./sections/0_Example/GANTT_satellite_design.pdf Graphic file (type pdf)
  <use ./sections/0_Example/GANTT_satellite_design.pdf, page 1>
@@ -1893,7 +1893,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 3.
 
 
-<./sections/SatelliteDesign/images/CubeSatDesign.png, id=824, 614.295pt x 397.4
+<./sections/SatelliteDesign/images/CubeSatDesign.png, id=828, 614.295pt x 397.4
 85pt>
 File: ./sections/SatelliteDesign/images/CubeSatDesign.png Graphic file (type pn
 g)
@@ -1926,23 +1926,24 @@ Overfull \hbox (17.84225pt too wide) in alignment at lines 36--51
  [] [] [] 
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 51.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [5 <./sections/SatelliteDesign/images/CubeSatDesign.png>]pdfTeX warning (ext4)
-: destination with the same identifier (name{table.1}) has been already used, d
-uplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
+ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.51 \end{longtable}
-                    ) (./sections/SatelliteDesign/EPS.tex
+                    
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 51.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [5 <./sections/SatelliteDesign/images/CubeSatDesign.png>]) (./sections/Satelli
+teDesign/EPS.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
 
-<./sections/SatelliteDesign/images/epsbasics.png, id=837, 585.18625pt x 272.016
+<./sections/SatelliteDesign/images/epsbasics.png, id=843, 585.18625pt x 272.016
 25pt>
 File: ./sections/SatelliteDesign/images/epsbasics.png Graphic file (type png)
  <use ./sections/SatelliteDesign/images/epsbasics.png>
@@ -1963,48 +1964,48 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 16.
  [6]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 58.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 59.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
 [7 <./sections/SatelliteDesign/images/epsbasics.png>]
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 72.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 73.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [8]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 87.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 86.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
 [9]
-Overfull \hbox (42.51947pt too wide) in alignment at lines 99--103
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 98.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [10]
+Overfull \hbox (42.51947pt too wide) in alignment at lines 102--106
  [] [] [] 
  []
 
 
-Overfull \hbox (42.51947pt too wide) in alignment at lines 103--123
+Overfull \hbox (42.51947pt too wide) in alignment at lines 106--126
  [] [] [] 
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 123.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 126.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [10]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 140.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[11]) (./sections/SatelliteDesign/Propulsion.tex
+ [11])
+(./sections/SatelliteDesign/Propulsion.tex
 
 LaTeX Warning: Citation `collisionLEO' on page 12 undefined on input line 6.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 25.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 14.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [12]
 Underfull \vbox (badness 10000) detected at line 56
@@ -2012,7 +2013,7 @@ Underfull \vbox (badness 10000) detected at line 56
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 89.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 56.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [13]) (./sections/SatelliteDesign/AOCS.tex
 
@@ -2062,22 +2063,21 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 6.
+File: ./doc_config/images/logo.png Graphic file (type png)
 
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 7.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [16]
 
 LaTeX Warning: Citation `SecretariadeEstadodetelecomunicacionesyparalasociedadd
-elainformacion.2015' on page 16 undefined on input line 11.
+elainformacion.2015' on page 17 undefined on input line 11.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 12.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 24.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [16]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 27.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[17]
+ [17]
 
 LaTeX Warning: Citation `patch' on page 18 undefined on input line 32.
 
@@ -2087,7 +2087,7 @@ Underfull \vbox (badness 10000) detected at line 57
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 86.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [18]
 Underfull \vbox (badness 10000) detected at line 86
@@ -2095,27 +2095,27 @@ Underfull \vbox (badness 10000) detected at line 86
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 98.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 92.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [19]
 Underfull \vbox (badness 10000) detected at line 125
  []
 
-
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 125.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [20]
 Underfull \vbox (badness 10000) detected at line 150
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 150.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [20]
+
 Underfull \vbox (badness 10000) detected at line 179
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 183.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 179.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [21]
 Overfull \hbox (53.51926pt too wide) in alignment at lines 184--188
@@ -2137,13 +2137,12 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 220.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 14.
 
-) (./sections/SatelliteDesign/LinkBudget.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
-
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 16.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [23]
+ [23])
+(./sections/SatelliteDesign/LinkBudget.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
@@ -2174,10 +2173,10 @@ Underfull \hbox (badness 1194) in paragraph at lines 17--19
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 37.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 26.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [24]
-<./sections/SatelliteDesign/images/principal_losses.png, id=944, 624.83438pt x 
+<./sections/SatelliteDesign/images/principal_losses.png, id=943, 624.83438pt x 
 326.72063pt>
 File: ./sections/SatelliteDesign/images/principal_losses.png Graphic file (type
  png)
@@ -2201,7 +2200,7 @@ LaTeX Warning: Citation `Note1998' on page 25 undefined on input line 53.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 64.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 54.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [25 <./sections/SatelliteDesign/images/principal_losses.png>]
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -2229,7 +2228,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\@ifnextchar' on input line 95.
 
 
-<./sections/SatelliteDesign/images/specificAttenuation.png, id=956, 563.85657pt
+<./sections/SatelliteDesign/images/specificAttenuation.png, id=960, 563.85657pt
  x 430.60875pt>
 File: ./sections/SatelliteDesign/images/specificAttenuation.png Graphic file (t
 ype png)
@@ -2284,7 +2283,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--125
  []
 
 
-<./sections/SatelliteDesign/images/NoiseTemperature.png, id=965, 614.295pt x 53
+<./sections/SatelliteDesign/images/NoiseTemperature.png, id=969, 614.295pt x 53
 4.49687pt>
 File: ./sections/SatelliteDesign/images/NoiseTemperature.png Graphic file (type
  png)
@@ -2300,7 +2299,7 @@ LaTeX Warning: Citation `Jorge2012' on page 29 undefined on input line 130.
 LaTeX Warning: Citation `Jorge2012' on page 29 undefined on input line 130.
 
 
-<./sections/SatelliteDesign/images/NoiseTemperature2.png, id=966, 673.01437pt x
+<./sections/SatelliteDesign/images/NoiseTemperature2.png, id=970, 673.01437pt x
  398.23781pt>
 File: ./sections/SatelliteDesign/images/NoiseTemperature2.png Graphic file (typ
 e png)
@@ -2372,7 +2371,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--207
  []
 
 
-<./sections/SatelliteDesign/images/BEvsSNR.png, id=984, 826.58812pt x 592.46344
+<./sections/SatelliteDesign/images/BEvsSNR.png, id=988, 826.58812pt x 592.46344
 pt>
 File: ./sections/SatelliteDesign/images/BEvsSNR.png Graphic file (type png)
  <use ./sections/SatelliteDesign/images/BEvsSNR.png>
@@ -2473,7 +2472,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 91219EB460C42FCA6F36C531E9BE2DF6;9571.
+(rerunfilecheck)             Checksum: 4BCA94EE1E4ABDE9F4883D360B673F64;9630.
 
 
 LaTeX Warning: There were undefined references.
@@ -2481,10 +2480,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
  ) 
 Here is how much of TeX's memory you used:
- 29390 strings out of 493014
- 550061 string characters out of 6133351
- 635129 words of memory out of 5000000
- 32238 multiletter control sequences out of 15000+600000
+ 29392 strings out of 493014
+ 550087 string characters out of 6133351
+ 635127 words of memory out of 5000000
+ 32239 multiletter control sequences out of 15000+600000
  72520 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,18n,87p,10484b,941s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2504,10 +2503,10 @@ blic/lm/lmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri
 12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Report.pdf (43 pages, 1869140 bytes).
+Output written on Report.pdf (43 pages, 1867905 bytes).
 PDF statistics:
- 1131 PDF objects out of 1200 (max. 8388607)
- 968 compressed objects within 10 object streams
- 223 named destinations out of 1000 (max. 500000)
- 1250 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1135 PDF objects out of 1200 (max. 8388607)
+ 972 compressed objects within 10 object streams
+ 224 named destinations out of 1000 (max. 500000)
+ 1258 words of extra memory for PDF output out of 10000 (max. 10000000)
 
