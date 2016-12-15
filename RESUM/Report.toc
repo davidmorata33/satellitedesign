@@ -43,11 +43,37 @@
 \contentsline {paragraph}{}{5}{section*.27}
 \contentsline {subsubsection}{\numberline {1.4.2}Option chosen for the Attitude and Orbital Control System}{5}{subsubsection.1.4.2}
 \contentsline {paragraph}{Decision}{5}{section*.28}
-\contentsline {section}{\numberline {2}ANNEXES}{7}{section.2}
-\contentsline {subsection}{\numberline {2.1}Structure and mechanics}{7}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Structure}{7}{subsubsection.2.1.1}
+\contentsline {section}{\numberline {A}Appendices}{7}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Satellite design}{7}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Structure}{7}{subsection.A.2}
 \contentsline {paragraph}{}{7}{section*.29}
 \contentsline {paragraph}{}{7}{section*.31}
-\contentsline {subsubsection}{\numberline {2.1.2}Thermal protection}{8}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {A.3}Thermal protection}{8}{subsection.A.3}
 \contentsline {paragraph}{}{8}{section*.32}
 \contentsline {paragraph}{}{8}{section*.33}
+\contentsline {subsection}{\numberline {A.4}Electrical Power System}{8}{subsection.A.4}
+\contentsline {paragraph}{}{8}{section*.34}
+\contentsline {paragraph}{}{8}{section*.35}
+\contentsline {subsubsection}{\numberline {A.4.1}Estimation of the power required}{9}{subsubsection.A.4.1}
+\contentsline {paragraph}{}{9}{section*.36}
+\contentsline {paragraph}{}{9}{section*.37}
+\contentsline {subsubsection}{\numberline {A.4.2}Solar arrays}{10}{subsubsection.A.4.2}
+\contentsline {paragraph}{}{10}{section*.38}
+\contentsline {paragraph}{}{10}{section*.39}
+\contentsline {paragraph}{}{10}{section*.40}
+\contentsline {paragraph}{}{10}{section*.41}
+\contentsline {subsubsection}{\numberline {A.4.3}Power management system}{11}{subsubsection.A.4.3}
+\contentsline {paragraph}{}{11}{section*.42}
+\contentsline {paragraph}{}{11}{section*.43}
+\contentsline {paragraph}{}{11}{section*.44}
+\contentsline {paragraph}{}{11}{section*.45}
+\contentsline {paragraph}{}{11}{section*.46}
+\contentsline {paragraph}{}{11}{section*.47}
+\contentsline {subsubsection}{\numberline {A.4.4}Batteries}{12}{subsubsection.A.4.4}
+\contentsline {paragraph}{}{12}{section*.48}
+\contentsline {paragraph}{}{12}{section*.49}
+\contentsline {paragraph}{}{12}{section*.50}
+\contentsline {paragraph}{}{12}{section*.51}
+\contentsline {subsubsection}{\numberline {A.4.5}Study of the commercial available options and options chosen}{12}{subsubsection.A.4.5}
+\contentsline {paragraph}{}{12}{section*.52}
+\contentsline {paragraph}{}{13}{section*.53}

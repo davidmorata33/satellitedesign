@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 DEC 2016 00:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 DEC 2016 00:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1411,13 +1411,19 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen298
 \c@nlinenum=\count338
 \TeXr@lab=\toks47
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count339
+\c@@ppsavesec=\count340
+\c@@ppsaveapp=\count341
 ))
 (./doc_config/doc_info.tex) (./doc_config/headers_and_footers.tex
 (/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count339
-\Gm@cntv=\count340
-\c@Gm@tempcnt=\count341
+\Gm@cnth=\count342
+\Gm@cntv=\count343
+\c@Gm@tempcnt=\count344
 \Gm@bindingoffset=\dimen299
 \Gm@wd@mp=\dimen300
 \Gm@odd@mp=\dimen301
@@ -1455,7 +1461,11 @@ less on input line 43.
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 44.
 
-) (./doc_config/defined_stuff.tex) (./Report.aux)
+) (./doc_config/defined_stuff.tex) (./Report.aux
+
+LaTeX Warning: Label `epsfinal' multiply defined.
+
+)
 \openout1 = `Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -1473,8 +1483,7 @@ LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 16.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmr.fd
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package lastpage Info: Please have a look at the pageslts package at
@@ -1488,16 +1497,16 @@ Package lastpage Info: Please have a look at the pageslts package at
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count342
+\scratchcounter=\count345
 \scratchdimen=\dimen307
 \scratchbox=\box66
-\nofMPsegments=\count343
-\nofMParguments=\count344
+\nofMPsegments=\count346
+\nofMParguments=\count347
 \everyMPshowfont=\toks49
-\MPscratchCnt=\count345
+\MPscratchCnt=\count348
 \MPscratchDim=\dimen308
-\MPnumerator=\count346
-\makeMPintoPDFobject=\count347
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
 \everyMPtoPDFconversion=\toks50
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1618,7 +1627,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count348
+\c@section@level=\count351
 )
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
@@ -1663,7 +1672,7 @@ LaTeX Info: Redefining \nameref on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c__siunitx_mathsf_int=\count349
+\c__siunitx_mathsf_int=\count352
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 16.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1707,7 +1716,7 @@ LaTeX Font Info:    Try loading font information for OT1+lmss on input line 16.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\c__siunitx_mathtt_int=\count350
+\c__siunitx_mathtt_int=\count353
 LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 16.
 
 
@@ -1715,14 +1724,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 16.
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (./doc_config/cover.tex
-<./doc_config/images/logo.png, id=216, 3862.43pt x 1275.76625pt>
+<./doc_config/images/logo.png, id=320, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 169.29684pt x 55.90807pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=217, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=321, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1882,40 +1891,100 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 40.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
 [6] (./ANNEXES.tex (./ANNEXES/StructureANNEX.tex
-<./ANNEXES/images/CubeSatDesign.png, id=304, 614.295pt x 397.485pt>
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
+
+<./ANNEXES/images/CubeSatDesign.png, id=419, 614.295pt x 397.485pt>
 File: ./ANNEXES/images/CubeSatDesign.png Graphic file (type png)
 
 <use ./ANNEXES/images/CubeSatDesign.png>
 Package pdftex.def Info: ./ANNEXES/images/CubeSatDesign.png used on input line 
-9.
+7.
 (pdftex.def)             Requested size: 368.57983pt x 238.49283pt.
 
 
-LaTeX Warning: Citation `cubesatdimensions' on page 7 undefined on input line 1
-1.
+LaTeX Warning: Citation `cubesatdimensions' on page 7 undefined on input line 9
+.
 
 
-LaTeX Warning: Citation `cubesatdimensions' on page 7 undefined on input line 1
-1.
+LaTeX Warning: Citation `cubesatdimensions' on page 7 undefined on input line 9
+.
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 \end{longtable}
+l.28 \end{longtable}
                     
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 30.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 28.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [7
 
- <./ANNEXES/images/CubeSatDesign.png>]pdfTeX warning (ext4): destination with t
-he same identifier (name{table.2}) has been already used, duplicate ignored
+ <./ANNEXES/images/CubeSatDesign.png>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 31.
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
+ been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51 \end{longtable}
-                    ))
+l.49 \end{longtable}
+                    ) (./ANNEXES/EPSANNEX.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 6.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [8]pdfTeX warning (ext4): destination with the same identifier (name{table.3})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.59 \end{longtable}
+                    
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 63.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [9]
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 77.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [10]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 92.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+
+[11]
+Overfull \hbox (42.51947pt too wide) in alignment at lines 102--106
+ [] [] [] 
+ []
+
+
+Overfull \hbox (42.51947pt too wide) in alignment at lines 106--126
+ [] [] [] 
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 126.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [12]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 144.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+
+[13]))
 No file Report.bbl.
 
 AED: lastpage setting LastPage
@@ -1923,25 +1992,28 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 59.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [8]
+ [14]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
  (./Report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 4D6BA6913124983A932B8607D52366A2;3309.
+(rerunfilecheck)             Checksum: 0C30CEFAD3BFF32E6B5B53D42C0EFFC6;4900.
 
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
- 29002 strings out of 493014
- 542817 string characters out of 6133351
- 619070 words of memory out of 5000000
- 32036 multiletter control sequences out of 15000+600000
+ 29162 strings out of 493014
+ 545026 string characters out of 6133351
+ 628861 words of memory out of 5000000
+ 32156 multiletter control sequences out of 15000+600000
  63429 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,15n,87p,10484b,852s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1952,10 +2024,10 @@ exmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/
 fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /public/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
 lmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on Report.pdf (13 pages, 582535 bytes).
+Output written on Report.pdf (19 pages, 601777 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
- 330 compressed objects within 4 object streams
- 67 named destinations out of 1000 (max. 500000)
- 440 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 511 PDF objects out of 1000 (max. 8388607)
+ 473 compressed objects within 5 object streams
+ 101 named destinations out of 1000 (max. 500000)
+ 648 words of extra memory for PDF output out of 10000 (max. 10000000)
 
