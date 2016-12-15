@@ -142,8 +142,16 @@
 \contentsline {subsubsection}{\numberline {3.7.6}Link Budget Calculation}{34}{subsubsection.3.7.6}
 \contentsline {paragraph}{Methodology}{34}{section*.104}
 \contentsline {paragraph}{}{35}{section*.105}
-\contentsline {subsection}{\numberline {3.8}Budget}{35}{subsection.3.8}
-\contentsline {paragraph}{}{36}{section*.106}
-\contentsline {paragraph}{}{36}{section*.107}
-\contentsline {paragraph}{}{36}{section*.108}
-\contentsline {subsection}{\numberline {3.9}Astrea satellite Final Configuration}{36}{subsection.3.9}
+\contentsline {paragraph}{}{35}{section*.106}
+\contentsline {paragraph}{}{35}{section*.107}
+\contentsline {paragraph}{}{35}{section*.109}
+\contentsline {paragraph}{Range calculation:}{35}{section*.110}
+\contentsline {paragraph}{S band range:}{36}{section*.112}
+\contentsline {paragraph}{X band range:}{36}{section*.113}
+\contentsline {paragraph}{}{37}{section*.114}
+\contentsline {subsection}{\numberline {3.8}Budget}{37}{subsection.3.8}
+\contentsline {paragraph}{}{37}{section*.115}
+\contentsline {paragraph}{}{38}{section*.116}
+\contentsline {paragraph}{}{38}{section*.117}
+\contentsline {subsection}{\numberline {3.9}Astrea satellite Final Configuration}{38}{subsection.3.9}
+\contentsline {section}{\numberline {4}References}{40}{section.4}
