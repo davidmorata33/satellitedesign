@@ -35,11 +35,19 @@
 \contentsline {paragraph}{}{4}{section*.21}
 \contentsline {paragraph}{}{4}{section*.22}
 \contentsline {paragraph}{}{4}{section*.23}
-\contentsline {section}{\numberline {2}ANNEXES}{5}{section.2}
-\contentsline {subsection}{\numberline {2.1}Structure and mechanics}{5}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Structure}{5}{subsubsection.2.1.1}
+\contentsline {subsection}{\numberline {1.4}Attitude and Orbital Control Systems}{5}{subsection.1.4}
 \contentsline {paragraph}{}{5}{section*.24}
+\contentsline {paragraph}{}{5}{section*.25}
 \contentsline {paragraph}{}{5}{section*.26}
-\contentsline {subsubsection}{\numberline {2.1.2}Thermal protection}{6}{subsubsection.2.1.2}
-\contentsline {paragraph}{}{6}{section*.27}
-\contentsline {paragraph}{}{6}{section*.28}
+\contentsline {subsubsection}{\numberline {1.4.1}Orbital Control}{5}{subsubsection.1.4.1}
+\contentsline {paragraph}{}{5}{section*.27}
+\contentsline {subsubsection}{\numberline {1.4.2}Option chosen for the Attitude and Orbital Control System}{5}{subsubsection.1.4.2}
+\contentsline {paragraph}{Decision}{5}{section*.28}
+\contentsline {section}{\numberline {2}ANNEXES}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Structure and mechanics}{7}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Structure}{7}{subsubsection.2.1.1}
+\contentsline {paragraph}{}{7}{section*.29}
+\contentsline {paragraph}{}{7}{section*.31}
+\contentsline {subsubsection}{\numberline {2.1.2}Thermal protection}{8}{subsubsection.2.1.2}
+\contentsline {paragraph}{}{8}{section*.32}
+\contentsline {paragraph}{}{8}{section*.33}
