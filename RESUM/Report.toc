@@ -43,7 +43,3 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Thermal protection}{6}{subsubsection.2.1.2}
 \contentsline {paragraph}{}{6}{section*.27}
 \contentsline {paragraph}{}{6}{section*.28}
-\contentsline {paragraph}{}{6}{section*.29}
-\contentsline {subsubsection}{\numberline {2.1.3}Study of the commercial available options and options chosen}{6}{subsubsection.2.1.3}
-\contentsline {paragraph}{}{6}{section*.30}
-\contentsline {paragraph}{}{7}{section*.31}
