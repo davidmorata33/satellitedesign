@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 DEC 2016 00:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 DEC 2016 00:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1895,7 +1895,7 @@ Package pdftex.def Info: ./doc_config/images/logo.png used on input line 40.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
-<./ANNEXES/images/CubeSatDesign.png, id=419, 614.295pt x 397.485pt>
+<./ANNEXES/images/CubeSatDesign.png, id=420, 614.295pt x 397.485pt>
 File: ./ANNEXES/images/CubeSatDesign.png Graphic file (type png)
 
 <use ./ANNEXES/images/CubeSatDesign.png>
@@ -2010,10 +2010,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
- 29162 strings out of 493014
- 545026 string characters out of 6133351
- 628861 words of memory out of 5000000
- 32156 multiletter control sequences out of 15000+600000
+ 29163 strings out of 493014
+ 545046 string characters out of 6133351
+ 628900 words of memory out of 5000000
+ 32157 multiletter control sequences out of 15000+600000
  63429 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,15n,87p,10484b,852s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2024,10 +2024,10 @@ exmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/
 fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /public/lm/lmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
 lmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-Output written on Report.pdf (19 pages, 601777 bytes).
+Output written on Report.pdf (19 pages, 601828 bytes).
 PDF statistics:
- 511 PDF objects out of 1000 (max. 8388607)
- 473 compressed objects within 5 object streams
+ 512 PDF objects out of 1000 (max. 8388607)
+ 474 compressed objects within 5 object streams
  101 named destinations out of 1000 (max. 500000)
  648 words of extra memory for PDF output out of 10000 (max. 10000000)
 
