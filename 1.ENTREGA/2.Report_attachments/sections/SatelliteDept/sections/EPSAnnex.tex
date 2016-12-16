@@ -1,6 +1,6 @@
-\subsubsection{EPS Scheme}
+\section{EPS Scheme}
 
-\paragraph{}How all the different electric systems are related is presented in the figure.
+\paragraph{}How all the different electric systems are related is presented in the figure \ref{epsbasics}.
 
 \begin{figure}[h]
 \includegraphics[scale=0.6]{./sections/SatelliteDept/sections/images/epsbasics}
@@ -9,11 +9,11 @@
 \label{epsbasics}
 \end{figure}
 
-\subsubsection{Estimation of the power required}
+\paragraph{}The need for a system that regulates, manages and distributes the energy to all of the other subsystems is clear. Every system has its energy requirements and several buses are needed in order to maintain all the systems working.
 
-\paragraph{}To select the adequate electrical power systems it is essential that the power consumed by the CubeSat is known \textit{a priori}. Thus, to select the solar arrays and the batteries, as well as the power management system, an estimation of the power consumed has to be made.
+\section{Estimation of the power required}
 
-\paragraph{}The vast majority of the time the satellite will work under typical operation conditions. However, the estimation of the power consumption provided in the table \ref{powerestimation} has been made for typical-high conditions in order to have a power margin and a more reliable estimation.
+\paragraph{}The vast majority of the time, the subsystems of the satellite will work under typical operation conditions. However, the estimation of the power consumption provided in the table \ref{powerestimation} has been made for typical-high conditions in order to have a power margin and a more reliable estimation.
 
 \begin{longtable}{| l | r | }
 \hline
@@ -56,9 +56,9 @@
 \label{powerestimation}
 \end{longtable}
 
-Additionally, it is worth mentioning that the thrusters are not included in the final estimated power. The thruster will only be active for shorts periods of time to maintain the orbit, and when it ignites, the other subsystems will not perform in typical conditions. The CubeSat will manage to send only the essential information to the other satellites and, since it is unlikely that their thruster is ignited, the communication is ensured during the maneuver.
+\paragraph{}Additionally, it is worth mentioning that the thrusters are not included in the final estimated power. The thruster will only be active for shorts periods of time to maintain the orbit, and when it ignites, the other subsystems will not perform in typical conditions. The CubeSat will manage to send only the essential information to the other satellites and, since it is unlikely that their thruster is ignited, the communication is ensured during the maneuver.
 
-\subsubsection{Solar arrays}
+\section{Solar arrays}
 
 \paragraph{}Given that the space of a 3U CubeSat is very limited, the primary source of electrical power has to be photovoltaic cells. The photovoltaic cells will collect and convert the energy of the sun into electrical energy and they have to be correctly selected to prevent failure given their importance. 
 
@@ -84,7 +84,7 @@ Note that these 4 deployable solar panels are a basic requirement. If more space
 \paragraph{}All these features make the \textbf{NanoPower P60} a very efficient and configurable power management unit that fulfills the mission requirements. Furthermore, given this capacity to configure each input and output channel and the high number of channels that it has, the compatibility between all the systems used in the satellite is ensured. Additionally, the communication between this system and the onboard computer in order to detect potential failures is a really adequate feature.\\
 With the NanoPower P60 we aim to distribute the energy to all of the subsystems of the CubeSat.
 
-\subsubsection{Batteries}
+\section{Batteries}
 
 \paragraph{}	Batteries are essential for a proper mission operation. They will provide the spacecraft subsystems with the power needed when the solar arrays are working less efficiently or not properly. Astrea is looking for decent capacity batteries that provide a slightly high typical energy and power supply, since all the systems will not usually operate under peak conditions. Additionally, through the lifetime of the mission, the solar arrays will face an important unfavorable condition; in the worst case scenario, the satellite will be in the dark during half of the period of the orbit. So, it is clear that the batteries are a critical system of the CubeSat
 
@@ -94,7 +94,7 @@ With the NanoPower P60 we aim to distribute the energy to all of the subsystems 
 
 \paragraph{}As mentioned above, if the satellite was in the dark during half of the period of the orbit, the estimated energy that it would need would be ~50W. Thereby, the capacity of the batteries is more than enough to supply the required energy in the worst case scenario. In fact, they will supply energy when the energy demand of the CubeSat is higher than the energy collected by the solar cells. And logically, they will store the energy collected by the solar arrays when the energy demand of the systems is lower than the energy collected.
 
-\subsubsection{Study of the commercial available options and options chosen}
+\section{Study of the commercial available options and options chosen}
 \paragraph{}A broad marked study is needed since all the options have to be considered. For this reason, and with the aim to show all the information and features of each system that has been considered in this section, the table \ref{epsoptions} is presented below.
 
 \begin{longtable}{| l | c | c | }
