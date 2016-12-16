@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 DEC 2016 01:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 DEC 2016 19:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1533,23 +1533,7 @@ Package tocloft Info: The document has chapter divisions on input line 44.
 \cfttabindent=\skip125
 \cfttabnumwidth=\skip126
 )
-(./Report.aux
-
-LaTeX Warning: Label `fig:graph120' multiply defined.
-
-
-LaTeX Warning: Label `fig:graph120' multiply defined.
-
-
-LaTeX Warning: Label `fig:graph120' multiply defined.
-
-
-LaTeX Warning: Label `fig:COE' multiply defined.
-
-
-LaTeX Warning: Label `fig:osi' multiply defined.
-
-)
+(./Report.aux)
 \openout1 = `Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -1814,14 +1798,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 22.
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (./doc_config/cover.tex
-<./doc_config/images/logo.png, id=1085, 3862.43pt x 1275.76625pt>
+<./doc_config/images/logo.png, id=16, 3862.43pt x 1275.76625pt>
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
 (pdftex.def)             Requested size: 149.37958pt x 49.32835pt.
 
-<./doc_config/images/UPC_ESEIAAT.jpg, id=1086, 782.925pt x 145.54375pt>
+<./doc_config/images/UPC_ESEIAAT.jpg, id=17, 782.925pt x 145.54375pt>
 File: ./doc_config/images/UPC_ESEIAAT.jpg Graphic file (type jpg)
 
 <use ./doc_config/images/UPC_ESEIAAT.jpg>
@@ -1854,3668 +1838,339 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/upd
 map/pdftex.map} <./doc_config/images/logo.png> <./doc_config/images/UPC_ESEIAAT
-.jpg>] [2] (./Report.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 3.
- [1]
-
-LaTeX Warning: Citation `DavidA.Vallado1998' on page ii undefined on input line
- 66.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 100.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [2]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 153.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[3]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 234.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [4]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 284.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[5]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 382.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [6]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 450.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[7])
+.jpg>] [2] (./Report.toc)
 \tf@toc=\write4
 \openout4 = `Report.toc'.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 34.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [8] (./Report.lot
-
-LaTeX Warning: Reference `fig{figure4}' on page ix undefined on input line 11.
-
-[9])
+ [1] (./Report.lot)
 \tf@lot=\write5
 \openout5 = `Report.lot'.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 39.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [10] (./Report.lof
-Underfull \hbox (badness 2326) in paragraph at lines 3--3
- [][] [][]\T1/lmr/m/n/10.95 Geocentric-equatorial frame and the Clas-si-cal Or-
-bital El-e-ments. 
- []
-
-
-LaTeX Warning: Citation `GPS' on page xi undefined on input line 11.
-
-
-LaTeX Warning: Citation `SaVi' on page xi undefined on input line 12.
-
-
-LaTeX Warning: Citation `ccar' on page xi undefined on input line 14.
-
-
-LaTeX Warning: Citation `ccar' on page xi undefined on input line 15.
-
-[11]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 54.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [12]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 95.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [13])
+ [2] (./Report.lof)
 \tf@lof=\write6
 \openout6 = `Report.lof'.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 47.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[14]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) 
+ [3]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) 
 has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.79 \part{Orbit Design}
-                         [1
+l.96 \part{Satellite design}
+                             [1
 
-] (./sections/OrbitDesign/Ch1-Geometry.tex
+] (./sections/SatelliteDept/SatDesign.tex
 Chapter 1.
+(./sections/SatelliteDept/sections/Structureandmechanical.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1.
+
+
+LaTeX Warning: Reference `Appendix:Structure' on page 2 undefined on input line
+ 3.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 7.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.6 \section
-            *{} [2
+l.12 
+      [2
 
 ]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 10.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 10.
 
-<sections/OrbitDesign/./Geometry/fig-Ch1-Geometry/eqframe.png, id=1736, 696.201
-pt x 413.1435pt>
-File: sections/OrbitDesign/./Geometry/fig-Ch1-Geometry/eqframe.png Graphic file
- (type png)
+LaTeX Warning: Reference `structurefinal' on page 3 undefined on input line 20.
 
-<use sections/OrbitDesign/./Geometry/fig-Ch1-Geometry/eqframe.png>
-Package pdftex.def Info: sections/OrbitDesign/./Geometry/fig-Ch1-Geometry/eqfra
-me.png used on input line 14.
-(pdftex.def)             Requested size: 382.91173pt x 227.22961pt.
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1.0.1 on input line 35.
+
+) (./sections/SatelliteDept/sections/EPS.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 21.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 7.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [3
+ [3]
+File: ./doc_config/images/logo.png Graphic file (type png)
+ <use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 26.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
- <./sections/OrbitDesign/./Geometry/fig-Ch1-Geometry/eqframe.png>]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 25.
+[4]
+
+LaTeX Warning: Reference `epsfinal' on page 5 undefined on input line 33.
+
+
+Overfull \hbox (24.235pt too wide) in alignment at lines 39--49
+ [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1.0.2 on input line 49.
+
+) (./sections/SatelliteDept/sections/Propulsion.tex
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 6.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [5]
+
+LaTeX Warning: Reference `propulsionfinal' on page 6 undefined on input line 15
+.
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1.0.3 on input line 28.
+
+) (./sections/SatelliteDept/sections/AOCS.tex
+
+LaTeX Warning: Citation `Macdonald2014' on page 6 undefined on input line 5.
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 7.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [6]
+
+LaTeX Warning: Citation `Macdonald2014' on page 7 undefined on input line 7.
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 7--8
+\T1/lmr/m/n/10.95 can be achieved by sens-ing Earth and its hori-zon, the Sun, 
+or spe-cific stars.
+ []
+
+) (./sections/SatelliteDept/sections/Payload.tex
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 6.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 25.
-
-Underfull \hbox (badness 1052) in paragraph at lines 42--43
-[]\T1/lmr/bx/n/10.95 True Anomaly \T1/lmr/m/n/10.95 ($\OML/lmm/m/it/10.95 ^^^$\
-T1/lmr/m/n/10.95 ): This last quan-tity is used to de-scribe the satel-lite's
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 48.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [4
-
-]
-<sections/OrbitDesign/./Geometry/fig-Ch1-Geometry/COE.png, id=1757, 930.47626pt
- x 634.16925pt>
-File: sections/OrbitDesign/./Geometry/fig-Ch1-Geometry/COE.png Graphic file (ty
-pe png)
- <use sections/OrbitDesign/./Geometry/fig-Ch1-Geometry/COE.png>
-Package pdftex.def Info: sections/OrbitDesign/./Geometry/fig-Ch1-Geometry/COE.p
-ng used on input line 54.
-(pdftex.def)             Requested size: 279.14502pt x 190.25224pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 59.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [5 <./sections/OrbitDesign/./Geometry/fig-Ch1-Geometry/COE.png>]
-
-LaTeX Warning: Reference `ch:Pert' on page 6 undefined on input line 85.
-
-) (./sections/OrbitDesign/Ch2-OrbitalCoverage.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [6
-
-]
-Chapter 2.
-[7
-
-] (./sections/OrbitDesign/OrbitalCoverage/Footprint.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-
- []
-
-
-<sections/OrbitDesign/OrbitalCoverage/./fig-Ch2-OrbitalCoverage/AngleSSatFoot.p
-ng, id=1779, 354.926pt x 565.312pt>
-File: sections/OrbitDesign/OrbitalCoverage/./fig-Ch2-OrbitalCoverage/AngleSSatF
-oot.png Graphic file (type png)
-
-<use sections/OrbitDesign/OrbitalCoverage/./fig-Ch2-OrbitalCoverage/AngleSSatFo
-ot.png>
-Package pdftex.def Info: sections/OrbitDesign/OrbitalCoverage/./fig-Ch2-Orbital
-Coverage/AngleSSatFoot.png used on input line 24.
-(pdftex.def)             Requested size: 128.0387pt x 203.93483pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 33.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [8
-
- <./sections/OrbitDesign/OrbitalCoverage/./fig-Ch2-OrbitalCoverage/AngleSSatFoo
-t.png>])
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 6.
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 8.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [9]
-(./sections/OrbitDesign/OrbitalCoverage/Elevation.tex
-<sections/OrbitDesign/OrbitalCoverage/noaa.png, id=1800, 340.27126pt x 257.4618
-7pt>
-File: sections/OrbitDesign/OrbitalCoverage/noaa.png Graphic file (type png)
- <use sections/OrbitDesign/OrbitalCoverage/noaa.png>
-Package pdftex.def Info: sections/OrbitDesign/OrbitalCoverage/noaa.png used on 
-input line 6.
-(pdftex.def)             Requested size: 227.62204pt x 172.22748pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
+ [7]
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 21.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [10
-
- <./sections/OrbitDesign/OrbitalCoverage/noaa.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 42.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [11]
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [12]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 67.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [13]
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--82
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
-
- []
-
-
-<sections/OrbitDesign/OrbitalCoverage/latitudes.png, id=1822, 705.38531pt x 551
-.81157pt>
-File: sections/OrbitDesign/OrbitalCoverage/latitudes.png Graphic file (type png
-)
- <use sections/OrbitDesign/OrbitalCoverage/latitudes.png>
-Package pdftex.def Info: sections/OrbitDesign/OrbitalCoverage/latitudes.png use
-d on input line 93.
-(pdftex.def)             Requested size: 227.62204pt x 178.06522pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [14]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[15 <./sections/OrbitDesign/OrbitalCoverage/latitudes.png>]
-(./sections/OrbitDesign/OrbitalCoverage/MinInclination.tex
-Package epstopdf Info: Source file: <sections/OrbitDesign/OrbitalCoverage/Minim
-umInclinationPlot.eps>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 11760 bytes
-(epstopdf)             Output file: <sections/OrbitDesign/OrbitalCoverage/Minim
-umInclinationPlot-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 4491 bytes
-(epstopdf)             Command: <repstopdf --outfile=sections/OrbitDesign/Orbit
-alCoverage/MinimumInclinationPlot-eps-converted-to.pdf sections/OrbitDesign/Orb
-italCoverage/MinimumInclinationPlot.eps>
-(epstopdf)             \includegraphics on input line 4.
-Package epstopdf Info: Output file is already uptodate.
-
-<sections/OrbitDesign/OrbitalCoverage/MinimumInclinationPlot-eps-converted-to.p
-df, id=1835, 490.83376pt x 404.51125pt>
-File: sections/OrbitDesign/OrbitalCoverage/MinimumInclinationPlot-eps-converted
--to.pdf Graphic file (type pdf)
-
-<use sections/OrbitDesign/OrbitalCoverage/MinimumInclinationPlot-eps-converted-
-to.pdf>
-Package pdftex.def Info: sections/OrbitDesign/OrbitalCoverage/MinimumInclinatio
-nPlot-eps-converted-to.pdf used on input line 4.
-(pdftex.def)             Requested size: 392.66753pt x 323.60944pt.
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 14.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [16
-
- <./sections/OrbitDesign/OrbitalCoverage/MinimumInclinationPlot-eps-converted-t
-o.pdf>]
-(./sections/OrbitDesign/OrbitalCoverage/SattoSat.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 15.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [17
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 17.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [18]
-(./sections/OrbitDesign/OrbitalCoverage/SatsMarketStudy.tex
-Package epstopdf Info: Source file: <sections/OrbitDesign/OrbitalCoverage/Curre
-ntOrbitDistribution.eps>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 10184 bytes
-(epstopdf)             Output file: <sections/OrbitDesign/OrbitalCoverage/Curre
-ntOrbitDistribution-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 3998 bytes
-(epstopdf)             Command: <repstopdf --outfile=sections/OrbitDesign/Orbit
-alCoverage/CurrentOrbitDistribution-eps-converted-to.pdf sections/OrbitDesign/O
-rbitalCoverage/CurrentOrbitDistribution.eps>
-(epstopdf)             \includegraphics on input line 8.
-Package epstopdf Info: Output file is already uptodate.
-
-<sections/OrbitDesign/OrbitalCoverage/CurrentOrbitDistribution-eps-converted-to
-.pdf, id=1854, 498.86375pt x 404.51125pt>
-File: sections/OrbitDesign/OrbitalCoverage/CurrentOrbitDistribution-eps-convert
-ed-to.pdf Graphic file (type pdf)
-
-<use sections/OrbitDesign/OrbitalCoverage/CurrentOrbitDistribution-eps-converte
-d-to.pdf>
-Package pdftex.def Info: sections/OrbitDesign/OrbitalCoverage/CurrentOrbitDistr
-ibution-eps-converted-to.pdf used on input line 8.
-(pdftex.def)             Requested size: 399.09154pt x 323.60944pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 12.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [19
-
- <./sections/OrbitDesign/OrbitalCoverage/CurrentOrbitDistribution-eps-converted
--to.pdf>]))
-(./sections/OrbitDesign/Ch3-ConstConfig.tex
-Underfull \hbox (badness 10000) in paragraph at lines 18--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--1
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [20]
-Chapter 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 3.
-[21
-
-] (./sections/OrbitDesign/ConstellationConfiguration/IntroConstConfig.tex
-
-LaTeX Warning: Citation `GPS' on page 22 undefined on input line 4.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--7
-
- []
-
-
-<sections/OrbitDesign/GPSconstellation.jpg, id=1873, 1706.375pt x 1455.4375pt>
-File: sections/OrbitDesign/GPSconstellation.jpg Graphic file (type jpg)
-
-<use sections/OrbitDesign/GPSconstellation.jpg>
-Package pdftex.def Info: sections/OrbitDesign/GPSconstellation.jpg used on inpu
-t line 20.
-(pdftex.def)             Requested size: 273.02557pt x 232.87476pt.
-
-
-LaTeX Warning: Citation `GPS' on page 22 undefined on input line 21.
-
-
-LaTeX Warning: Citation `GPS' on page 22 undefined on input line 21.
-
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 8.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [22
-
- <./sections/OrbitDesign/GPSconstellation.jpg>] (./sections/OrbitDesign/Constel
-lationConfiguration/PolarOrbit.tex
-
-LaTeX Warning: Citation `Iridium' on page 23 undefined on input line 4.
-
-
-<sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/Iridium.jpg, id=18
-79, 765.6103pt x 383.18156pt>
-File: sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/Iridium.jpg G
-raphic file (type jpg)
-
-<use sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/Iridium.jpg>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/PolarO
-rbits/Iridium.jpg used on input line 19.
-(pdftex.def)             Requested size: 459.36972pt x 229.9107pt.
-
-Overfull \hbox (32.57837pt too wide) in paragraph at lines 19--20
- [] 
- []
-
-
-LaTeX Warning: Citation `SaVi' on page 23 undefined on input line 20.
-
-
-LaTeX Warning: Citation `SaVi' on page 23 undefined on input line 20.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 23.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [23
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 25--31
-
- []
-
-
-<sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planeconfig.png, i
-d=1884, 235.88126pt x 248.93pt>
-File: sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planeconfig.p
-ng Graphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planeconfig.pn
-g>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/PolarO
-rbits/planeconfig.png used on input line 34.
-(pdftex.def)             Requested size: 141.52983pt x 149.35915pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 44.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [24 <./sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/Iridium.jpg
-> <./sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planeconfig.pn
-g>]
-<sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planestreet.png, i
-d=1891, 484.81125pt x 219.82124pt>
-File: sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planestreet.p
-ng Graphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planestreet.pn
-g>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/PolarO
-rbits/planestreet.png used on input line 65.
-(pdftex.def)             Requested size: 339.36555pt x 153.87381pt.
-
-
-LaTeX Warning: Citation `ccar' on page 25 undefined on input line 66.
-
-
-LaTeX Warning: Citation `ccar' on page 25 undefined on input line 66.
-
-
-<sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planeseps.png, id=
-1892, 442.65375pt x 328.22626pt>
-File: sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planeseps.png
- Graphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planeseps.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/PolarO
-rbits/planeseps.png used on input line 77.
-(pdftex.def)             Requested size: 309.8555pt x 229.7568pt.
-
-LaTeX Warning: Citation `ccar' on page 25 undefined on input line 78.
-
-
-LaTeX Warning: Citation `ccar' on page 25 undefined on input line 78.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 81.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [25 <./sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planestreet
-.png>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 110.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[26 <./sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/planeseps.pn
-g>]
-<sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/GeneralResults.jpg
-, id=1904, 563.10374pt x 421.575pt>
-File: sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/GeneralResult
-s.jpg Graphic file (type jpg)
-
-<use sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/GeneralResults
-.jpg>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/PolarO
-rbits/GeneralResults.jpg used on input line 119.
-(pdftex.def)             Requested size: 394.16994pt x 295.10048pt.
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 125
-.
-
-
-<sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/Polar.jpg, id=1905
-, 563.10374pt x 421.575pt>
-File: sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/Polar.jpg Gra
-phic file (type jpg)
-
-<use sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/Polar.jpg>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/PolarO
-rbits/Polar.jpg used on input line 129.
-(pdftex.def)             Requested size: 394.16994pt x 295.10048pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 133.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [27 <./sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/GeneralResu
-lts.jpg>])
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [28 <./sections/OrbitDesign/ConstellationConfiguration/PolarOrbits/Polar.jpg>]
-
-(./sections/OrbitDesign/ConstellationConfiguration/3.2.WalkerDelta.tex
-(./sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full.tex
-<sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/Deltapattern.
-png, id=1916, 395.97937pt x 270.25969pt>
-File: sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/Deltapat
-tern.png Graphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/Deltapatt
-ern.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/Walker
-Delta/Full/Deltapattern.png used on input line 17.
-(pdftex.def)             Requested size: 197.9892pt x 135.1295pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 25.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [29
-
- <./sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/Deltapatte
-rn.png>]
-<sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/walkerdeltapl
-anta.png, id=1926, 225.84375pt x 228.855pt>
-File: sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/walkerde
-ltaplanta.png Graphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/walkerdel
-taplanta.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/Walker
-Delta/Full/walkerdeltaplanta.png used on input line 36.
-(pdftex.def)             Requested size: 169.38239pt x 171.64082pt.
-
-
-LaTeX Warning: Citation `Wood1940' on page 30 undefined on input line 41.
-
-Package epstopdf Info: Source file: <sections/OrbitDesign/ConstellationConfigur
-ation/WalkerDelta/Full/wdperspectiva.eps>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 10886439 bytes
-(epstopdf)             Output file: <sections/OrbitDesign/ConstellationConfigur
-ation/WalkerDelta/Full/wdperspectiva-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 1969461 bytes
-(epstopdf)             Command: <repstopdf --outfile=sections/OrbitDesign/Const
-ellationConfiguration/WalkerDelta/Full/wdperspectiva-eps-converted-to.pdf secti
-ons/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/wdperspectiva.eps>
-(epstopdf)             \includegraphics on input line 44.
-Package epstopdf Info: Output file is already uptodate.
-
-<sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/wdperspectiva
--eps-converted-to.pdf, id=1929, 354.32375pt x 369.38pt>
-File: sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/wdperspe
-ctiva-eps-converted-to.pdf Graphic file (type pdf)
-
-<use sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/wdperspec
-tiva-eps-converted-to.pdf>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/Walker
-Delta/Full/wdperspectiva-eps-converted-to.pdf used on input line 44.
-(pdftex.def)             Requested size: 265.74216pt x 277.03432pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-<sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/foldofcoverag
-e.png, id=1932, 433.62pt x 279.29344pt>
-File: sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/foldofco
-verage.png Graphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/foldofcov
-erage.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/Walker
-Delta/Full/foldofcoverage.png used on input line 59.
-(pdftex.def)             Requested size: 325.2142pt x 209.46956pt.
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 15.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [30 <./sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/walker
-deltaplanta.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-(./sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Custom.tex
-<sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker12vertic
-al.png, id=1942, 487.8225pt x 489.32813pt>
-File: sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker12v
-ertical.png Graphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker12ve
-rtical.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/Walker
-Delta/semiwalker12vertical.png used on input line 7.
-(pdftex.def)             Requested size: 341.43306pt x 342.49pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 10.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [31 <./sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/wdpers
-pectiva-eps-converted-to.pdf>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-
-<sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker12.png, 
-id=5344, 519.44063pt x 489.32813pt>
-File: sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker12.
-png Graphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker12.p
-ng>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/Walker
-Delta/semiwalker12.png used on input line 24.
-(pdftex.def)             Requested size: 341.43306pt x 321.63597pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 33.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [32 <./sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/Full/foldof
-coverage.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 44.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [33 <./sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker1
-2vertical.png>]
-<sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker11p1.png
-, id=5358, 436.63126pt x 445.665pt>
-File: sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker11p
-1.png Graphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker11p1
-.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/Walker
-Delta/semiwalker11p1.png used on input line 46.
-(pdftex.def)             Requested size: 284.52756pt x 290.41324pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/MWDC.png, id=5359,
- 643.6547pt x 625.58719pt>
-File: sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/MWDC.png Grap
-hic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/MWDC.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/Walker
-Delta/MWDC.png used on input line 56.
-(pdftex.def)             Requested size: 284.52756pt x 276.54788pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 64--23
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 23.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [34 <./sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker1
-2.png>])
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 14.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[35 <./sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/semiwalker11
-p1.png>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 14.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [36 <./sections/OrbitDesign/ConstellationConfiguration/WalkerDelta/MWDC.png>]
-(./sections/OrbitDesign/ConstellationConfiguration/Testing.tex
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 42.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [37
-
-]
-<sections/OrbitDesign/ConstellationConfiguration/./testing/ConditionGCoverage.p
-ng, id=5384, 2072.543pt x 829.499pt>
-File: sections/OrbitDesign/ConstellationConfiguration/./testing/ConditionGCover
-age.png Graphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/./testing/ConditionGCovera
-ge.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/./test
-ing/ConditionGCoverage.png used on input line 45.
-(pdftex.def)             Requested size: 341.43437pt x 136.64626pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--79
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 79.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [38 <./sections/OrbitDesign/ConstellationConfiguration/./testing/ConditionGCov
-erage.png>]
-<sections/OrbitDesign/ConstellationConfiguration/./testing/graph210.png, id=539
-1, 495.35063pt x 411.03563pt>
-File: sections/OrbitDesign/ConstellationConfiguration/./testing/graph210.png Gr
-aphic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/./testing/graph210.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/./test
-ing/graph210.png used on input line 82.
-(pdftex.def)             Requested size: 256.07741pt x 212.49164pt.
-
-<sections/OrbitDesign/ConstellationConfiguration/./testing/WB180.png, id=5392, 
-942.722pt x 370.183pt>
-File: sections/OrbitDesign/ConstellationConfiguration/./testing/WB180.png Graph
-ic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/./testing/WB180.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/./test
-ing/WB180.png used on input line 91.
-(pdftex.def)             Requested size: 426.79135pt x 167.58624pt.
-
-<sections/OrbitDesign/ConstellationConfiguration/./testing/WB210.png, id=5393, 
-925.859pt x 342.078pt>
-File: sections/OrbitDesign/ConstellationConfiguration/./testing/WB210.png Graph
-ic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/./testing/WB210.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/./test
-ing/WB210.png used on input line 98.
-(pdftex.def)             Requested size: 426.79135pt x 157.68661pt.
-
-<sections/OrbitDesign/ConstellationConfiguration/./testing/WB360.png, id=5394, 
-947.54pt x 349.305pt>
-File: sections/OrbitDesign/ConstellationConfiguration/./testing/WB360.png Graph
-ic file (type png)
-
-<use sections/OrbitDesign/ConstellationConfiguration/./testing/WB360.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationConfiguration/./test
-ing/WB360.png used on input line 105.
-(pdftex.def)             Requested size: 426.79135pt x 157.33502pt.
-))
-(./sections/OrbitDesign/Ch4-OrbitPerturbations.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [39 <./sections/OrbitDesign/ConstellationConfiguration/./testing/graph210.png 
-(PNG copy)> <./sections/OrbitDesign/ConstellationConfiguration/./testing/WB180.
-png>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[40 <./sections/OrbitDesign/ConstellationConfiguration/./testing/WB210.png> <./
-sections/OrbitDesign/ConstellationConfiguration/./testing/WB360.png>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [41]
-Chapter 4.
-[42
-
-] (./sections/OrbitDesign/OrbitPerturbations/TypesPerturb.tex
-
-LaTeX Warning: Citation `DavidA.Vallado1998' on page 43 undefined on input line
- 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 1.
-
-
-Underfull \hbox (badness 1286) in paragraph at lines 27--28
-[]\T1/lmr/m/n/10.95 General Per-tur-ba-tion: Through an-a-lyt-i-cal ex-pan-sion
- and in-te-gra-tion of the
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 28.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [43
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 65.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 116.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [45]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 141.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[46]
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 142
-.
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 146
-.
-
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 8.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [47]
-(./sections/OrbitDesign/OrbitPerturbations/SignifPerturb.tex
-Package epstopdf Info: Source file: <sections/OrbitDesign/OrbitPerturbations/Si
-gnificativePerturbations/ModulusAngulars.eps>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 152983 bytes
-(epstopdf)             Output file: <sections/OrbitDesign/OrbitPerturbations/Si
-gnificativePerturbations/ModulusAngulars-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 10844 bytes
-(epstopdf)             Command: <repstopdf --outfile=sections/OrbitDesign/Orbit
-Perturbations/SignificativePerturbations/ModulusAngulars-eps-converted-to.pdf s
-ections/OrbitDesign/OrbitPerturbations/SignificativePerturbations/ModulusAngula
-rs.eps>
-(epstopdf)             \includegraphics on input line 6.
-Package epstopdf Info: Output file is already uptodate.
-
-<sections/OrbitDesign/OrbitPerturbations/SignificativePerturbations/ModulusAngu
-lars-eps-converted-to.pdf, id=5450, 495.8525pt x 404.51125pt>
-File: sections/OrbitDesign/OrbitPerturbations/SignificativePerturbations/Modulu
-sAngulars-eps-converted-to.pdf Graphic file (type pdf)
-
-<use sections/OrbitDesign/OrbitPerturbations/SignificativePerturbations/Modulus
-Angulars-eps-converted-to.pdf>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/SignificativeP
-erturbations/ModulusAngulars-eps-converted-to.pdf used on input line 6.
-(pdftex.def)             Requested size: 396.68254pt x 323.60944pt.
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 10.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [48
-
- <./sections/OrbitDesign/OrbitPerturbations/SignificativePerturbations/ModulusA
-ngulars-eps-converted-to.pdf>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [49]
-(./sections/OrbitDesign/OrbitPerturbations/OrbitDecay.tex
-(./sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/Inclination.tex
-<sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/Inclination.png, 
-id=5465, 704.6325pt x 446.41782pt>
-File: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/Inclination.
-png Graphic file (type png)
-
-<use sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/Inclination.p
-ng>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/.
-/decay/Inclination.png used on input line 10.
-(pdftex.def)             Requested size: 341.43437pt x 216.31483pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 22.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [50
-
- <./sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/Inclination.pn
-g (PNG copy)>])
-(./sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/DragSolar.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 10.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [51]
-<sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/solarcycles.png, id=5477,
- 696.35156pt x 447.92343pt>
-File: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/solarcycles.png Grap
-hic file (type png)
-
-<use sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/solarcycles.png>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/s
-olarcycles.png used on input line 14.
-(pdftex.def)             Requested size: 398.33858pt x 256.22803pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 42.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [52 <./sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/solarcycles.png>]
-<sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/24solar.png, id=5482, 542
-.025pt x 414.04688pt>
-File: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/24solar.png Graphic 
-file (type png)
-
-<use sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/24solar.png>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/2
-4solar.png used on input line 44.
-(pdftex.def)             Requested size: 398.33858pt x 304.29868pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 53.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [53 <./sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/24solar.png>])
-(./sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/DragCalc.tex
-
-LaTeX Warning: Reference `TypesPerturb' on page 54 undefined on input line 9.
-
-
-LaTeX Warning: Reference `fig{figure4}' on page 54 undefined on input line 13.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 18.
-
-
-LaTeX Warning: Reference `fig{figure4}' on page 54 undefined on input line 20.
-
-
-LaTeX Warning: Reference `fig{figure4}' on page 54 undefined on input line 20.
-
-
-<sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/OrbitDecayComp.png, id=54
-90, 625.58719pt x 450.9347pt>
-File: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/OrbitDecayComp.png G
-raphic file (type png)
-
-<use sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/OrbitDecayComp.png>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/O
-rbitDecayComp.png used on input line 35.
-(pdftex.def)             Requested size: 341.43437pt x 246.11577pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 39.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [54])
-(./sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/DragDyn.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 10.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [55 <./sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/OrbitDecayComp.png
- (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-
-LaTeX Warning: Citation `DavidA.Vallado1998' on page 56 undefined on input line
- 18.
-
-
-LaTeX Warning: Citation `Versie' on page 56 undefined on input line 18.
-
-
-<sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/Diagram.png, id=5
-502, 641.39626pt x 186.09525pt>
-File: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/Diagram.png 
-Graphic file (type png)
-
-<use sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/Diagram.png>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/.
-/decay/Diagram.png used on input line 24.
-(pdftex.def)             Requested size: 448.97432pt x 130.26576pt.
-
-Overfull \hbox (22.18297pt too wide) in paragraph at lines 24--25
- [][] 
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 27.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [56]
-
-LaTeX Warning: Citation `Versie' on page 57 undefined on input line 39.
-
-
-LaTeX Warning: Reference `Junkins' on page 57 undefined on input line 41.
-
-
-LaTeX Warning: Citation `Kufa' on page 57 undefined on input line 43.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 50.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [57 <./sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/Diagram.pn
-g>]
-<sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/graph.png, id=551
-5, 421.575pt x 316.18124pt>
-File: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/graph.png Gr
-aphic file (type png)
-
-<use sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/graph.png>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/.
-/decay/graph.png used on input line 90.
-(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 94.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [58]))
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 14.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[59 <./sections/OrbitDesign/OrbitPerturbations/OrbitalDecay/./decay/graph.png (
-PNG copy)>] (./sections/OrbitDesign/OrbitPerturbations/OrbitSK.tex
-(./sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/IncHeight.tex
-Package epstopdf Info: Source file: <sections/OrbitDesign/OrbitPerturbations/Or
-bitalStationKeeping/ExtraLifetime/ExtraLifetime.eps>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 10107 bytes
-(epstopdf)             Output file: <sections/OrbitDesign/OrbitPerturbations/Or
-bitalStationKeeping/ExtraLifetime/ExtraLifetime-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 3881 bytes
-(epstopdf)             Command: <repstopdf --outfile=sections/OrbitDesign/Orbit
-Perturbations/OrbitalStationKeeping/ExtraLifetime/ExtraLifetime-eps-converted-t
-o.pdf sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ExtraLifeti
-me/ExtraLifetime.eps>
-(epstopdf)             \includegraphics on input line 7.
-Package epstopdf Info: Output file is already uptodate.
-
-<sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ExtraLifetime/Ex
-traLifetime-eps-converted-to.pdf, id=5526, 493.845pt x 404.51125pt>
-File: sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ExtraLifeti
-me/ExtraLifetime-eps-converted-to.pdf Graphic file (type pdf)
-
-<use sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ExtraLifetim
-e/ExtraLifetime-eps-converted-to.pdf>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/OrbitalStation
-Keeping/ExtraLifetime/ExtraLifetime-eps-converted-to.pdf used on input line 7.
-(pdftex.def)             Requested size: 345.68913pt x 283.15593pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 12.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[60
-
- <./sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ExtraLifetime
-/ExtraLifetime-eps-converted-to.pdf>]
-Underfull \hbox (badness 1242) in paragraph at lines 16--17
-[]\T1/lmr/bx/n/10.95 Constellation Re-con-fig-u-ra-tion:  \T1/lmr/m/n/10.95 The
- over-all time to re-con-fig-u-rate the
- []
-
-)
-(./sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDrag.
-tex
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [61]
-<sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDrag/Ho
-hmann.png, id=5540, 302.63063pt x 292.84406pt>
-File: sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDr
-ag/Hohmann.png Graphic file (type png)
-
-<use sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDra
-g/Hohmann.png>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/OrbitalStation
-Keeping/ThrustersDrag/Hohmann.png used on input line 20.
-(pdftex.def)             Requested size: 211.83998pt x 204.98944pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 30.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [62 <./sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/Thrusters
-Drag/Hohmann.png>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 72.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [63]
-
-LaTeX Warning: Reference `sec:thruster' on page 64 undefined on input line 74.
-
-Package epstopdf Info: Source file: <sections/OrbitDesign/OrbitPerturbations/Or
-bitalStationKeeping/ThrustersDrag/thrust3km.eps>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 73529 bytes
-(epstopdf)             Output file: <sections/OrbitDesign/OrbitPerturbations/Or
-bitalStationKeeping/ThrustersDrag/thrust3km-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 23389 bytes
-(epstopdf)             Command: <repstopdf --outfile=sections/OrbitDesign/Orbit
-Perturbations/OrbitalStationKeeping/ThrustersDrag/thrust3km-eps-converted-to.pd
-f sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDrag/t
-hrust3km.eps>
-(epstopdf)             \includegraphics on input line 93.
-Package epstopdf Info: Output file is already uptodate.
-
-<sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDrag/th
-rust3km-eps-converted-to.pdf, id=5565, 421.575pt x 316.18124pt>
-File: sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDr
-ag/thrust3km-eps-converted-to.pdf Graphic file (type pdf)
-
-<use sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDra
-g/thrust3km-eps-converted-to.pdf>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/OrbitalStation
-Keeping/ThrustersDrag/thrust3km-eps-converted-to.pdf used on input line 93.
-(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Package epstopdf Info: Source file: <sections/OrbitDesign/OrbitPerturbations/Or
-bitalStationKeeping/ThrustersDrag/thrust80m.eps>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 115444 bytes
-(epstopdf)             Output file: <sections/OrbitDesign/OrbitPerturbations/Or
-bitalStationKeeping/ThrustersDrag/thrust80m-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 30168 bytes
-(epstopdf)             Command: <repstopdf --outfile=sections/OrbitDesign/Orbit
-Perturbations/OrbitalStationKeeping/ThrustersDrag/thrust80m-eps-converted-to.pd
-f sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDrag/t
-hrust80m.eps>
-(epstopdf)             \includegraphics on input line 129.
-Package epstopdf Info: Output file is already uptodate.
-
-<sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDrag/th
-rust80m-eps-converted-to.pdf, id=5567, 421.575pt x 316.18124pt>
-File: sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDr
-ag/thrust80m-eps-converted-to.pdf Graphic file (type pdf)
-
-<use sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersDra
-g/thrust80m-eps-converted-to.pdf>
-Package pdftex.def Info: sections/OrbitDesign/OrbitPerturbations/OrbitalStation
-Keeping/ThrustersDrag/thrust80m-eps-converted-to.pdf used on input line 129.
-(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 132.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [64]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-))) (./sections/OrbitDesign/Ch5-Decision.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [65 <./sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/Thrusters
-Drag/thrust3km-eps-converted-to.pdf>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [66]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[67 <./sections/OrbitDesign/OrbitPerturbations/OrbitalStationKeeping/ThrustersD
-rag/thrust80m-eps-converted-to.pdf>]
-Chapter 5.
-[68
-
-] (./sections/OrbitDesign/ConstellationDecision/Contestants.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-
-LaTeX Warning: Reference `PolarOrbit' on page 69 undefined on input line 10.
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 14.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 18.
-
-
-
-LaTeX Warning: Reference `PolarOrbit' on page 69 undefined on input line 24.
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 28.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 32.
-
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 33.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [69
-
-]
-
-LaTeX Warning: Reference `Testing' on page 70 undefined on input line 39.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
-
- []
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 44.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 48.
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--53
-
- []
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 54.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 58.
-
-
-
-LaTeX Warning: Reference `PerformanceAnal' on page 70 undefined on input line 6
-3.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 67.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [70]
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 67.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 71.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 81.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 85.
-
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 91.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [71]
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 94.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 98.
-
-
-
-<sections/OrbitDesign/ConstellationDecision/Candidate1.png, id=5619, 1265.528pt
- x 408.727pt>
-File: sections/OrbitDesign/ConstellationDecision/Candidate1.png Graphic file (t
-ype png)
- <use sections/OrbitDesign/ConstellationDecision/Candidate1.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationDecision/Candidate1.
-png used on input line 103.
-(pdftex.def)             Requested size: 426.79135pt x 137.84274pt.
-
-<sections/OrbitDesign/ConstellationDecision/Candidate2.png, id=5620, 1282.391pt
- x 410.333pt>
-File: sections/OrbitDesign/ConstellationDecision/Candidate2.png Graphic file (t
-ype png)
- <use sections/OrbitDesign/ConstellationDecision/Candidate2.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationDecision/Candidate2.
-png used on input line 111.
-(pdftex.def)             Requested size: 426.79135pt x 136.56235pt.
-
-<sections/OrbitDesign/ConstellationDecision/Candidate3.png, id=5621, 1291.224pt
- x 414.348pt>
-File: sections/OrbitDesign/ConstellationDecision/Candidate3.png Graphic file (t
-ype png)
- <use sections/OrbitDesign/ConstellationDecision/Candidate3.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationDecision/Candidate3.
-png used on input line 119.
-(pdftex.def)             Requested size: 426.79135pt x 136.95023pt.
-
-<sections/OrbitDesign/ConstellationDecision/Candidate4.png, id=5622, 1287.209pt
- x 413.545pt>
-File: sections/OrbitDesign/ConstellationDecision/Candidate4.png Graphic file (t
-ype png)
- <use sections/OrbitDesign/ConstellationDecision/Candidate4.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationDecision/Candidate4.
-png used on input line 127.
-(pdftex.def)             Requested size: 426.79135pt x 137.1139pt.
-
-<sections/OrbitDesign/ConstellationDecision/Candidate5.png, id=5623, 1295.239pt
- x 411.136pt>
-File: sections/OrbitDesign/ConstellationDecision/Candidate5.png Graphic file (t
-ype png)
- <use sections/OrbitDesign/ConstellationDecision/Candidate5.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationDecision/Candidate5.
-png used on input line 135.
-(pdftex.def)             Requested size: 426.79135pt x 135.46828pt.
-
-<sections/OrbitDesign/ConstellationDecision/Candidate6.png, id=5624, 1271.952pt
- x 411.136pt>
-File: sections/OrbitDesign/ConstellationDecision/Candidate6.png Graphic file (t
-ype png)
- <use sections/OrbitDesign/ConstellationDecision/Candidate6.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationDecision/Candidate6.
-png used on input line 143.
-(pdftex.def)             Requested size: 426.79135pt x 137.95255pt.
-
-<sections/OrbitDesign/ConstellationDecision/Candidate7.png, id=5625, 1287.209pt
- x 411.136pt>
-File: sections/OrbitDesign/ConstellationDecision/Candidate7.png Graphic file (t
-ype png)
- <use sections/OrbitDesign/ConstellationDecision/Candidate7.png>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationDecision/Candidate7.
-png used on input line 151.
-(pdftex.def)             Requested size: 426.79135pt x 136.31519pt.
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 8.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [72 <./sections/OrbitDesign/ConstellationDecision/Candidate1.png> <./sections/
-OrbitDesign/ConstellationDecision/Candidate2.png>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 8.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [73 <./sections/OrbitDesign/ConstellationDecision/Candidate3.png> <./sections/
-OrbitDesign/ConstellationDecision/Candidate4.png> <./sections/OrbitDesign/Const
-ellationDecision/Candidate5.png>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 8.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [74 <./sections/OrbitDesign/ConstellationDecision/Candidate6.png> <./sections/
-OrbitDesign/ConstellationDecision/Candidate7.png>] (./sections/OrbitDesign/Cons
-tellationDecision/PerformanceAnal.tex
-Underfull \hbox (badness 10000) in paragraph at lines 10--14
-
- []
+LaTeX Warning: Citation `patch' on page 8 undefined on input line 23.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 24.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [75
-
-]
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 39.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 40.
-
-
-
-LaTeX Warning: Command \textordmasculine invalid in math mode on input line 41.
-
-
-Package epstopdf Info: Source file: <sections/OrbitDesign/ConstellationDecision
-/LengthPass.eps>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 14062 bytes
-(epstopdf)             Output file: <sections/OrbitDesign/ConstellationDecision
-/LengthPass-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 6366 bytes
-(epstopdf)             Command: <repstopdf --outfile=sections/OrbitDesign/Const
-ellationDecision/LengthPass-eps-converted-to.pdf sections/OrbitDesign/Constella
-tionDecision/LengthPass.eps>
-(epstopdf)             \includegraphics on input line 48.
-Package epstopdf Info: Output file is already uptodate.
-
-<sections/OrbitDesign/ConstellationDecision/LengthPass-eps-converted-to.pdf, id
-=5659, 478.78876pt x 405.515pt>
-File: sections/OrbitDesign/ConstellationDecision/LengthPass-eps-converted-to.pd
-f Graphic file (type pdf)
-
-<use sections/OrbitDesign/ConstellationDecision/LengthPass-eps-converted-to.pdf
->
-Package pdftex.def Info: sections/OrbitDesign/ConstellationDecision/LengthPass-
-eps-converted-to.pdf used on input line 48.
-(pdftex.def)             Requested size: 383.03152pt x 324.41243pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 52.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [76])
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[77 <./sections/OrbitDesign/ConstellationDecision/LengthPass-eps-converted-to.p
-df>] (./sections/OrbitDesign/ConstellationDecision/OrbitOWA.tex
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
-
- []
-
-Package epstopdf Info: Source file: <sections/OrbitDesign/ConstellationDecision
-/FinalConfig.eps>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 3169512 bytes
-(epstopdf)             Output file: <sections/OrbitDesign/ConstellationDecision
-/FinalConfig-eps-converted-to.pdf>
-(epstopdf)                    date: 2016-12-16 00:41:51
-(epstopdf)                    size: 237217 bytes
-(epstopdf)             Command: <repstopdf --outfile=sections/OrbitDesign/Const
-ellationDecision/FinalConfig-eps-converted-to.pdf sections/OrbitDesign/Constell
-ationDecision/FinalConfig.eps>
-(epstopdf)             \includegraphics on input line 28.
-Package epstopdf Info: Output file is already uptodate.
-
-<sections/OrbitDesign/ConstellationDecision/FinalConfig-eps-converted-to.pdf, i
-d=5672, 358.33875pt x 392.46625pt>
-File: sections/OrbitDesign/ConstellationDecision/FinalConfig-eps-converted-to.p
-df Graphic file (type pdf)
-
-<use sections/OrbitDesign/ConstellationDecision/FinalConfig-eps-converted-to.pd
-f>
-Package pdftex.def Info: sections/OrbitDesign/ConstellationDecision/FinalConfig
--eps-converted-to.pdf used on input line 28.
-(pdftex.def)             Requested size: 268.7534pt x 294.34895pt.
-))
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 85.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [78
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 86.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [79 <./sections/OrbitDesign/ConstellationDecision/FinalConfig-eps-converted-to
-.pdf>] [80
-
-]
-(./sections/Constellation_Deployment/CD_Report.tex
-Chapter 6.
-[81
-
-] (./sections/Constellation_Deployment/S1-Introduction/CD_Introduction.tex)
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 4.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [82
-
-]
-(./sections/Constellation_Deployment/S2-Launcher/CD_Launching_System.tex
-Underfull \hbox (badness 10000) in paragraph at lines 20--24
-
- []
-
-
-Overfull \hbox (25.17918pt too wide) in paragraph at lines 29--48
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--52
-
+ [8]
+Underfull \hbox (badness 1178) in paragraph at lines 39--40
+ [][] \T1/lmr/m/n/10.95 Fi-nally, is nec-es-sary to find the transceivers and P
+DHS com-put-ers com-pat-i-ble
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 52.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 43.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [83
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
-
+ [9]
+Underfull \vbox (badness 10000) detected at line 65
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 53--57
-\T1/lmr/m/n/10.95 In or-der to find the most suit-able op-tion achiev-ing the p
-roject ob-jec-tives, it is
+Underfull \vbox (badness 10000) detected at line 90
  []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [84]
-<./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_1_S2.pdf, id
-=5706, 570.04785pt x 83.81212pt>
-File: ./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_1_S2.pd
-f Graphic file (type pdf)
-
-<use ./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_1_S2.pdf
->
-Package pdftex.def Info: ./sections/Constellation_Deployment/S2-Launcher/Images
-_S2/Picture_1_S2.pdf used on input line 94.
-(pdftex.def)             Requested size: 399.03078pt x 58.66808pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--99
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--99
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 99.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [85]
-<./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_2_S2.pdf, id
-=5711, 346.36641pt x 107.42534pt>
-File: ./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_2_S2.pd
-f Graphic file (type pdf)
-
-<use ./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_2_S2.pdf
->
-Package pdftex.def Info: ./sections/Constellation_Deployment/S2-Launcher/Images
-_S2/Picture_2_S2.pdf used on input line 105.
-(pdftex.def)             Requested size: 207.82144pt x 64.45569pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--108
-
- []
-
-
-Underfull \hbox (badness 4229) in paragraph at lines 108--110
-\T1/lmr/m/n/10.95 stage light rocket con-structed
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 108--110
-\T1/lmr/m/n/10.95 is pow-ered by ten Ruther-ford
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--110
-\T1/lmr/m/n/10.95 oxy-gen (LOX) and rocket
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 113.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [86 <./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_1_S2.pd
-f> <./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_2_S2.pdf>
-]
-<./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_3_S2.pdf, id
-=5800, 231.45793pt x 181.9866pt>
-File: ./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_3_S2.pd
-f Graphic file (type pdf)
-
-<use ./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_3_S2.pdf
->
-Package pdftex.def Info: ./sections/Constellation_Deployment/S2-Launcher/Images
-_S2/Picture_3_S2.pdf used on input line 116.
-(pdftex.def)             Requested size: 162.01944pt x 127.38974pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--152
-
- []
-
-
-<./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_4_S2.pdf, id
-=5802, 757.40295pt x 414.29643pt>
-File: ./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_4_S2.pd
-f Graphic file (type pdf)
-
-<use ./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_4_S2.pdf
->
-Package pdftex.def Info: ./sections/Constellation_Deployment/S2-Launcher/Images
-_S2/Picture_4_S2.pdf used on input line 158.
-(pdftex.def)             Requested size: 378.70055pt x 207.1477pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--163
-
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 5.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [87 <./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_3_S2.pd
-f>]
-(./sections/Constellation_Deployment/S3-Deployer/CD_Deployer.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [88 <./sections/Constellation_Deployment/S2-Launcher/Images_S2/Picture_4_S2.pd
-f>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 27.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[89
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 30--32
-
- []
-
-
-<./sections/Constellation_Deployment/S3-Deployer/Images_S3/Picture_1_S3.png, id
-=5926, 426.8748pt x 284.7438pt>
-File: ./sections/Constellation_Deployment/S3-Deployer/Images_S3/Picture_1_S3.pn
-g Graphic file (type png)
-
-<use ./sections/Constellation_Deployment/S3-Deployer/Images_S3/Picture_1_S3.png
->
-Package pdftex.def Info: ./sections/Constellation_Deployment/S3-Deployer/Images
-_S3/Picture_1_S3.png used on input line 35.
-(pdftex.def)             Requested size: 298.81032pt x 199.31929pt.
-
-<./sections/Constellation_Deployment/S3-Deployer/Images_S3/Picture_2_S3.png, id
-=5927, 376.2858pt x 211.5102pt>
-File: ./sections/Constellation_Deployment/S3-Deployer/Images_S3/Picture_2_S3.pn
-g Graphic file (type png)
-
-<use ./sections/Constellation_Deployment/S3-Deployer/Images_S3/Picture_2_S3.png
->
-Package pdftex.def Info: ./sections/Constellation_Deployment/S3-Deployer/Images
-_S3/Picture_2_S3.png used on input line 42.
-(pdftex.def)             Requested size: 263.39825pt x 148.05612pt.
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 6.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [90 <./sections/Constellation_Deployment/S3-Deployer/Images_S3/Picture_1_S3.pn
-g> <./sections/Constellation_Deployment/S3-Deployer/Images_S3/Picture_2_S3.png>
-]
-(./sections/Constellation_Deployment/S4-First_Placement/CD_First_Placement.tex
-<./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_1_S4.
-png, id=5936, 383.5128pt x 248.127pt>
-File: ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-1_S4.png Graphic file (type png)
-
-<use ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_1
-_S4.png>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S4-First_Placement
-/Images_S4/Picture_1_S4.png used on input line 21.
-(pdftex.def)             Requested size: 268.45712pt x 173.6877pt.
-
-<./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_2_S4.
-png, id=5937, 386.4036pt x 291.9708pt>
-File: ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-2_S4.png Graphic file (type png)
-
-<use ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_2
-_S4.png>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S4-First_Placement
-/Images_S4/Picture_2_S4.png used on input line 28.
-(pdftex.def)             Requested size: 270.48067pt x 204.37816pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 55.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [91
-
- <./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_1_S4
-.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 66--69
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 69.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [92 <./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-2_S4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 70--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--78
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 78.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [93]
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
-
- []
-
-
-<./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_3_S4.
-jpg, id=5960, 562.1pt x 421.575pt>
-File: ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-3_S4.jpg Graphic file (type jpg)
-
-<use ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_3
-_S4.jpg>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S4-First_Placement
-/Images_S4/Picture_3_S4.jpg used on input line 87.
-(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
-
-<./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_4_S4.
-jpg, id=5961, 562.1pt x 421.575pt>
-File: ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-4_S4.jpg Graphic file (type jpg)
-
-<use ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_4
-_S4.jpg>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S4-First_Placement
-/Images_S4/Picture_4_S4.jpg used on input line 90.
-(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
-
-<./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_5_S4.
-jpg, id=5962, 562.1pt x 421.575pt>
-File: ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-5_S4.jpg Graphic file (type jpg)
-
-<use ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_5
-_S4.jpg>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S4-First_Placement
-/Images_S4/Picture_5_S4.jpg used on input line 95.
-(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
-
-<./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_6_S4.
-jpg, id=5963, 562.1pt x 421.575pt>
-File: ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-6_S4.jpg Graphic file (type jpg)
-
-<use ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_6
-_S4.jpg>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S4-First_Placement
-/Images_S4/Picture_6_S4.jpg used on input line 98.
-(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 101.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [94]
-<./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_7_S4.
-jpg, id=5974, 562.1pt x 421.575pt>
-File: ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-7_S4.jpg Graphic file (type jpg)
-
-<use ./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_7
-_S4.jpg>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S4-First_Placement
-/Images_S4/Picture_7_S4.jpg used on input line 103.
-(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 106.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [95 <./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-3_S4.jpg> <./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Pic
-ture_4_S4.jpg>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 107.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [96 <./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-5_S4.jpg> <./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Pic
-ture_6_S4.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 107--109
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 129.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [97 <./sections/Constellation_Deployment/S4-First_Placement/Images_S4/Picture_
-7_S4.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 132--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--141
-
- []
-
-
-Underfull \hbox (badness 1466) in paragraph at lines 132--141
-\T1/lmr/m/n/10.95 com-mu-ni-cate with the ones from their neigh-bour-hood. Ther
-e-fore the range of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--141
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 141.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [98])
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 7.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[99]
-(./sections/Constellation_Deployment/S5-1-Replacement_Strategy/CD_Replacement_S
-trategy.tex
-<./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-1/Pict
-ure_1_S5-1.jpg, id=5996, 562.1pt x 421.575pt>
-File: ./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-1
-/Picture_1_S5-1.jpg Graphic file (type jpg)
-
-<use ./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-1/
-Picture_1_S5-1.jpg>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S5-1-Replacement_S
-trategy/Images_S5-1/Picture_1_S5-1.jpg used on input line 13.
-(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-<./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-1/Pict
-ure_2_S5-1.jpg, id=5997, 562.1pt x 421.575pt>
-File: ./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-1
-/Picture_2_S5-1.jpg Graphic file (type jpg)
-
-<use ./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-1/
-Picture_2_S5-1.jpg>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S5-1-Replacement_S
-trategy/Images_S5-1/Picture_2_S5-1.jpg used on input line 20.
-(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-<./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-1/Pict
-ure_3_S5-1.jpg, id=5998, 562.1pt x 421.575pt>
-File: ./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-1
-/Picture_3_S5-1.jpg Graphic file (type jpg)
-
-<use ./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-1/
-Picture_3_S5-1.jpg>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S5-1-Replacement_S
-trategy/Images_S5-1/Picture_3_S5-1.jpg used on input line 27.
-(pdftex.def)             Requested size: 393.46732pt x 295.10048pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 8.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [100
-
-]
-(./sections/Constellation_Deployment/S5-Spare_Strategy/CD_Spare_Strategy.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [101 <./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-
-1/Picture_1_S5-1.jpg> <./sections/Constellation_Deployment/S5-1-Replacement_Str
-ategy/Images_S5-1/Picture_2_S5-1.jpg>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [102 <./sections/Constellation_Deployment/S5-1-Replacement_Strategy/Images_S5-
-1/Picture_3_S5-1.jpg>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 27.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [103
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 28--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--56
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 56.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [104]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 61.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[105]
-<./sections/Constellation_Deployment/S5-Spare_Strategy/critical1.png, id=6029, 
-355.3275pt x 356.0803pt>
-File: ./sections/Constellation_Deployment/S5-Spare_Strategy/critical1.png Graph
-ic file (type png)
-
-<use ./sections/Constellation_Deployment/S5-Spare_Strategy/critical1.png>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S5-Spare_Strategy/
-critical1.png used on input line 71.
-(pdftex.def)             Requested size: 177.6633pt x 178.03972pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 76.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [106]
-<./sections/Constellation_Deployment/S5-Spare_Strategy/critical2.png, id=6038, 
-355.3275pt x 356.0803pt>
-File: ./sections/Constellation_Deployment/S5-Spare_Strategy/critical2.png Graph
-ic file (type png)
-
-<use ./sections/Constellation_Deployment/S5-Spare_Strategy/critical2.png>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S5-Spare_Strategy/
-critical2.png used on input line 81.
-(pdftex.def)             Requested size: 177.6633pt x 178.03972pt.
-
-<./sections/Constellation_Deployment/S5-Spare_Strategy/critical3.png, id=6039, 
-355.3275pt x 356.0803pt>
-File: ./sections/Constellation_Deployment/S5-Spare_Strategy/critical3.png Graph
-ic file (type png)
-
-<use ./sections/Constellation_Deployment/S5-Spare_Strategy/critical3.png>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S5-Spare_Strategy/
-critical3.png used on input line 88.
-(pdftex.def)             Requested size: 177.6633pt x 178.03972pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 93.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [107 <./sections/Constellation_Deployment/S5-Spare_Strategy/critical1.png> <./
-sections/Constellation_Deployment/S5-Spare_Strategy/critical2.png>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 105.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [108 <./sections/Constellation_Deployment/S5-Spare_Strategy/critical3.png>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 122.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [109])
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 9.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[110] (./sections/Constellation_Deployment/S6-End_Of_Life/CD_End_Of_Life.tex
-<./sections/Constellation_Deployment/S6-End_Of_Life/Images_S6/Picture_1_S6.jpg,
- id=6070, 3130.94719pt x 2103.35812pt>
-File: ./sections/Constellation_Deployment/S6-End_Of_Life/Images_S6/Picture_1_S6
-.jpg Graphic file (type jpg)
-
-<use ./sections/Constellation_Deployment/S6-End_Of_Life/Images_S6/Picture_1_S6.
-jpg>
-Package pdftex.def Info: ./sections/Constellation_Deployment/S6-End_Of_Life/Ima
-ges_S6/Picture_1_S6.jpg used on input line 16.
-(pdftex.def)             Requested size: 313.11307pt x 210.34813pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--25
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 25.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [111
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 29--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--45
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 45.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [112 <./sections/Constellation_Deployment/S6-End_Of_Life/Images_S6/Picture_1_S
-6.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--73
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 76.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [113])
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 10.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[114] (./sections/Constellation_Deployment/S7-Conclusions/CD_Conclusions.tex))
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 89.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [115
-
-] [116
-
-]
-(./sections/CommunicationsDept/Ch1-SpaceSegment.tex
-Chapter 7.
-[117
-
-] (./sections/CommunicationsDept/introduction.tex
-<./sections/CommunicationsDept/OSI.png, id=6102, 420.97275pt x 284.262pt>
-File: ./sections/CommunicationsDept/OSI.png Graphic file (type png)
-
-<use ./sections/CommunicationsDept/OSI.png>
-Package pdftex.def Info: ./sections/CommunicationsDept/OSI.png used on input li
-ne 17.
-(pdftex.def)             Requested size: 336.77864pt x 227.4099pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 21.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[118
-
-])
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 13.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [119 <./sections/CommunicationsDept/OSI.png>] (./sections/CommunicationsDept/S
-paceSegment/Layer2/DLL.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 40.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [120
-
-]
-Underfull \hbox (badness 1082) in paragraph at lines 47--56
-\T1/lmr/m/n/10.95 from the re-ceiver and then sends the next frame. We still ha
-ve uni-di-rec-tional
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 47--56
-\T1/lmr/m/n/10.95 com-mu-ni-ca-tion for data frames, but aux-il-iary ACK frames
- (sim-ple to-kens of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--56
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 58.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [121]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 86.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[122]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 104.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [123]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 152.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [124]
-<sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG, id=6137, 532.991
-26pt x 129.48375pt>
-File: sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG Graphic file
- (type png)
-
-<use sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG>
-Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCS
-DS.PNG used on input line 165.
-(pdftex.def)             Requested size: 479.6877pt x 116.53427pt.
-
-Overfull \hbox (52.89635pt too wide) in paragraph at lines 165--166
- [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--168
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 188.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [125 <./sections/CommunicationsDept/SpaceSegment/Layer2/DLLCCSDS.PNG>]
-Overfull \hbox (65.7207pt too wide) in paragraph at lines 196--213
- [] 
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 216.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [126]
-Underfull \hbox (badness 3449) in paragraph at lines 222--223
-\T1/lmr/m/n/10.95 by the header, its con-fig-u-ra-tion and to-tal lenght can be
- found at An-nexes
- []
-
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 16.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [127]
-(./sections/CommunicationsDept/SpaceSegment/Layer3/NetworkLayer.tex
-Underfull \hbox (badness 1496) in paragraph at lines 34--36
- [][] \T1/lmr/m/n/10.95 Ac-cord-ing to [[]8[]], the Net-work layer is the third
- layer in the Open Sys-tems
- []
-
-
-<sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG, id=6159, 4
-05.01312pt x 426.84468pt>
-File: sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG Graphi
-c file (type png)
-
-<use sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG>
-Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSp
-rotocols.PNG used on input line 48.
-(pdftex.def)             Requested size: 405.01212pt x 426.84364pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 52.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [128
-
-]
-<sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG, id=6173
-, 398.99063pt x 401.24907pt>
-File: sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG Gra
-phic file (type png)
-
-<use sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG>
-Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSc
-ombinations.PNG used on input line 55.
-(pdftex.def)             Requested size: 398.98965pt x 401.24808pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 60.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [129 <./sections/CommunicationsDept/SpaceSegment/Layer3/CCSDSprotocols.PNG>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 63.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [130 <./sections/CommunicationsDept/SpaceSegment/Layer3/CCSDScombinations.PNG>
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 75.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 92.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [131]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 95.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 103.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [132]
-<sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG, id=6207, 813.
-79031pt x 184.43906pt>
-File: sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG Graphic f
-ile (type png)
-
-<use sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG>
-Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_h
-eader.PNG used on input line 109.
-(pdftex.def)             Requested size: 488.27795pt x 110.66428pt.
-
-Overfull \hbox (61.4866pt too wide) in paragraph at lines 109--110
- [] 
+ [10]
+Underfull \vbox (badness 10000) detected at line 119
  []
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 117.
+LaTeX Warning: Reference `payloadoptions' on page 11 undefined on input line 12
+2.
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 122.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [133 <./sections/CommunicationsDept/SpaceSegment/Layer3/IPv6_header.PNG>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 132.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [134]
-File: ./doc_config/images/logo.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 143.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [135]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 152.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[136]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 155.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [137]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 164.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [138])
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 19.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[139]
-(./sections/CommunicationsDept/SpaceSegment/Layer4_5/SessionTransportLayer.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 45.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [140
-
-]
-Underfull \hbox (badness 2951) in paragraph at lines 54--55
-\T1/lmr/m/n/10.95 The Trans-mis-sion Con-trol Pro-to-col is again a process-to-
-process pro-to-col.
+Overfull \hbox (76.53113pt too wide) in alignment at lines 128--160
+ [] [] [] 
  []
 
-
-Underfull \hbox (badness 2653) in paragraph at lines 59--60
-\T1/lmr/m/n/10.95 Process-to-process com-mu-ni-ca-tion: Like UDP, TCP pro-vides
- this type of
- []
-
-
-<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg, id=6296, 343.2825p
-t x 306.39468pt>
-File: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg Graphic file (
-type jpg)
-
-<use sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1
-.jpg used on input line 61.
-(pdftex.def)             Requested size: 343.28165pt x 306.39394pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 63.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [141]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 74.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[142 <./sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP1.jpg>]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 101.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [143]
-<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg, id=6314, 432.86719
-pt x 219.06844pt>
-File: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg Graphic file (
-type jpg)
-
-<use sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2
-.jpg used on input line 107.
-(pdftex.def)             Requested size: 432.86612pt x 219.06789pt.
-
-Overfull \hbox (33.44983pt too wide) in paragraph at lines 107--108
-[][] 
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 122.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [144 <./sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP2.jpg>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 143.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [145]
-<sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg, id=6323
-, 201.75375pt x 63.98906pt>
-File: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg Gra
-phic file (type jpg)
-
-<use sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg>
-Package pdftex.def Info: sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3
-(extension).jpg used on input line 151.
-(pdftex.def)             Requested size: 201.75325pt x 63.98889pt.
-)
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 22.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [146 <./sections/CommunicationsDept/SpaceSegment/Layer4_5/TCP3(extension).jpg>
-]
-(./sections/CommunicationsDept/globalOverview.tex
-<./sections/CommunicationsDept/results2.png, id=6328, 361.35pt x 301.125pt>
-File: ./sections/CommunicationsDept/results2.png Graphic file (type png)
-
-<use ./sections/CommunicationsDept/results2.png>
-Package pdftex.def Info: ./sections/CommunicationsDept/results2.png used on inp
-ut line 7.
-(pdftex.def)             Requested size: 289.0804pt x 240.90031pt.
-))
-(./sections/CommunicationsDept/Ch2-GroundSegment.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [147
-
- <./sections/CommunicationsDept/results2.png>]
-Chapter 8.
-[148
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 7.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [149
-
-]
-
-LaTeX Warning: Citation `FTP' on page 150 undefined on input line 15.
-
-
-LaTeX Warning: Citation `SSH' on page 150 undefined on input line 22.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 26.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [150
-
-]
-
-LaTeX Warning: Citation `SMTP' on page 151 undefined on input line 29.
-
-
-Underfull \hbox (badness 3965) in paragraph at lines 37--38
-\T1/lmr/m/n/10.95 Transport Layer Se-cu-rity (TLS)is a cryp-to-graphic pro-to-c
-ol that pro-vides
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 42.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [151]
-Underfull \hbox (badness 1406) in paragraph at lines 42--43
-[]\T1/lmr/m/n/10.95 The iden-tity of the com-mu-ni-cat-ing par-ties can be au-t
-hen-ti-cated us-ing
- []
-
-
-LaTeX Warning: Citation `HTTPS' on page 152 undefined on input line 49.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 51.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [152]
-Underfull \hbox (badness 1264) in paragraph at lines 63--64
-[]\T1/lmr/m/n/10.95 The in-for-ma-tion could be pro-tected with the ad-e-quate 
-se-cu-rity
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 85.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [153
-
-])
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 93.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[154] [155
-
-] (./sections/CommunicationsDept/Ch3-GroundStation.tex
-Chapter 9.
-[156
-
-] (./sections/CommunicationsDept/GroundStation/Introduccion/main.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
-
- []
-
-) (./sections/CommunicationsDept/GroundStation/build/build.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [157
-
-])
-(./sections/CommunicationsDept/GroundStation/rent/LeafSpace.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [158
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 62.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[159
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 84.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [160]
-<sections/CommunicationsDept/GroundStation/rent/LeafSpace.jpg, id=6400, 325.967
-82pt x 185.19188pt>
-File: sections/CommunicationsDept/GroundStation/rent/LeafSpace.jpg Graphic file
- (type jpg)
-
-<use sections/CommunicationsDept/GroundStation/rent/LeafSpace.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GroundStation/rent/LeafSpa
-ce.jpg used on input line 103.
-(pdftex.def)             Requested size: 325.96701pt x 185.1914pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 105.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [161])
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 6.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[162 <./sections/CommunicationsDept/GroundStation/rent/LeafSpace.jpg>]
-(./sections/CommunicationsDept/GroundStation/Decisiontaking/DT.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 10.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [163
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 26.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[164]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 31.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [165])
-(./sections/CommunicationsDept/GSlocalization/GSlocalization.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [166
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 15.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[167
-
-]
-<sections/CommunicationsDept/GSlocalization/0_30_90_lat.jpg, id=6445, 1538.7487
-5pt x 750.805pt>
-File: sections/CommunicationsDept/GSlocalization/0_30_90_lat.jpg Graphic file (
-type jpg)
-
-<use sections/CommunicationsDept/GSlocalization/0_30_90_lat.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/0_30_90_lat
-.jpg used on input line 18.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-Overfull \hbox (34.83684pt too wide) in paragraph at lines 18--19
- [] 
- []
-
-
-<sections/CommunicationsDept/GSlocalization/0_-30_-90_lat.jpg, id=6446, 1538.74
-875pt x 750.805pt>
-File: sections/CommunicationsDept/GSlocalization/0_-30_-90_lat.jpg Graphic file
- (type jpg)
-
-<use sections/CommunicationsDept/GSlocalization/0_-30_-90_lat.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/0_-30_-90_l
-at.jpg used on input line 26.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-Overfull \hbox (34.83684pt too wide) in paragraph at lines 26--27
- [] 
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 30.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [168 <./sections/CommunicationsDept/GSlocalization/0_30_90_lat.jpg>]
-<sections/CommunicationsDept/GSlocalization/70_5_90_lat.jpg, id=6451, 1538.7487
-5pt x 750.805pt>
-File: sections/CommunicationsDept/GSlocalization/70_5_90_lat.jpg Graphic file (
-type jpg)
-
-<use sections/CommunicationsDept/GSlocalization/70_5_90_lat.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/70_5_90_lat
-.jpg used on input line 34.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-Overfull \hbox (34.83684pt too wide) in paragraph at lines 34--35
- [] 
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 38.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [169 <./sections/CommunicationsDept/GSlocalization/0_-30_-90_lat.jpg>]
-<sections/CommunicationsDept/GSlocalization/45_10_75_lat.jpg, id=6456, 1538.748
-75pt x 750.805pt>
-File: sections/CommunicationsDept/GSlocalization/45_10_75_lat.jpg Graphic file 
-(type jpg)
-
-<use sections/CommunicationsDept/GSlocalization/45_10_75_lat.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/45_10_75_la
-t.jpg used on input line 42.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-Overfull \hbox (34.83684pt too wide) in paragraph at lines 42--43
- [] 
- []
-
-
-<sections/CommunicationsDept/GSlocalization/55_5_75_lat.jpg, id=6457, 1538.7487
-5pt x 750.805pt>
-File: sections/CommunicationsDept/GSlocalization/55_5_75_lat.jpg Graphic file (
-type jpg)
-
-<use sections/CommunicationsDept/GSlocalization/55_5_75_lat.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/55_5_75_lat
-.jpg used on input line 49.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-Overfull \hbox (34.83684pt too wide) in paragraph at lines 49--50
- [] 
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 53.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [170 <./sections/CommunicationsDept/GSlocalization/70_5_90_lat.jpg> <./section
-s/CommunicationsDept/GSlocalization/45_10_75_lat.jpg>]
-<sections/CommunicationsDept/GSlocalization/575_25_675_lat.jpg, id=6462, 1538.7
-4875pt x 750.805pt>
-File: sections/CommunicationsDept/GSlocalization/575_25_675_lat.jpg Graphic fil
-e (type jpg)
-
-<use sections/CommunicationsDept/GSlocalization/575_25_675_lat.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/575_25_675_
-lat.jpg used on input line 56.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-Overfull \hbox (34.83684pt too wide) in paragraph at lines 56--57
- [] 
- []
-
-
-<sections/CommunicationsDept/GSlocalization/575_25_675_(30s)_lat.jpg, id=6463, 
-1538.74875pt x 750.805pt>
-File: sections/CommunicationsDept/GSlocalization/575_25_675_(30s)_lat.jpg Graph
-ic file (type jpg)
-
-<use sections/CommunicationsDept/GSlocalization/575_25_675_(30s)_lat.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/575_25_675_
-(30s)_lat.jpg used on input line 63.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-Overfull \hbox (34.83684pt too wide) in paragraph at lines 63--64
- [] 
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 66.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [171 <./sections/CommunicationsDept/GSlocalization/55_5_75_lat.jpg> <./section
-s/CommunicationsDept/GSlocalization/575_25_675_lat.jpg>]
-<sections/CommunicationsDept/GSlocalization/-625_-25_575_(30s)_lat.jpg, id=6469
-, 1538.74875pt x 750.805pt>
-File: sections/CommunicationsDept/GSlocalization/-625_-25_575_(30s)_lat.jpg Gra
-phic file (type jpg)
-
-<use sections/CommunicationsDept/GSlocalization/-625_-25_575_(30s)_lat.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/-625_-25_57
-5_(30s)_lat.jpg used on input line 70.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-Overfull \hbox (34.83684pt too wide) in paragraph at lines 70--71
- [] 
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 76.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [172 <./sections/CommunicationsDept/GSlocalization/575_25_675_(30s)_lat.jpg> <
-./sections/CommunicationsDept/GSlocalization/-625_-25_575_(30s)_lat.jpg>]
-<sections/CommunicationsDept/GSlocalization/0_90_270_long.jpg, id=6474, 1538.74
-875pt x 750.805pt>
-File: sections/CommunicationsDept/GSlocalization/0_90_270_long.jpg Graphic file
- (type jpg)
-
-<use sections/CommunicationsDept/GSlocalization/0_90_270_long.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/0_90_270_lo
-ng.jpg used on input line 85.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-Overfull \hbox (34.83684pt too wide) in paragraph at lines 85--86
- [] 
- []
-
-
-<sections/CommunicationsDept/GSlocalization/0_120_240_long.jpg, id=6475, 1538.7
-4875pt x 750.805pt>
-File: sections/CommunicationsDept/GSlocalization/0_120_240_long.jpg Graphic fil
-e (type jpg)
-
-<use sections/CommunicationsDept/GSlocalization/0_120_240_long.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/0_120_240_l
-ong.jpg used on input line 95.
-(pdftex.def)             Requested size: 461.62819pt x 225.24323pt.
-
-Overfull \hbox (34.83684pt too wide) in paragraph at lines 95--96
- [] 
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 99.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [173 <./sections/CommunicationsDept/GSlocalization/0_90_270_long.jpg>]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 130.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [174 <./sections/CommunicationsDept/GSlocalization/0_120_240_long.jpg>]
-<sections/CommunicationsDept/GSlocalization/Options.jpg, id=6484, 697.4055pt x 
-448.074pt>
-File: sections/CommunicationsDept/GSlocalization/Options.jpg Graphic file (type
- jpg)
- <use sections/CommunicationsDept/GSlocalization/Options.jpg>
-Package pdftex.def Info: sections/CommunicationsDept/GSlocalization/Options.jpg
- used on input line 133.
-(pdftex.def)             Requested size: 453.3082pt x 291.24464pt.
-
-Overfull \hbox (26.51685pt too wide) in paragraph at lines 133--134
- [] 
- []
-
-) (./sections/CommunicationsDept/GroundLegislation/Legislation.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [175 <./sections/CommunicationsDept/GSlocalization/Options.jpg>]
-Underfull \hbox (badness 1389) in paragraph at lines 14--15
- [][] \T1/lmr/m/n/10.95 The Min-is-ter of In-dus-try, through the De-part-ment 
-of In-dus-try Act, the
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 20.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [176
-
-])
-(./sections/CommunicationsDept/GroundInvestment/InitialInvestment.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [177]
-<sections/CommunicationsDept/GroundInvestment/SbandEquip.PNG, id=6519, 450.1818
-7pt x 125.71968pt>
-File: sections/CommunicationsDept/GroundInvestment/SbandEquip.PNG Graphic file 
-(type png)
-
-<use sections/CommunicationsDept/GroundInvestment/SbandEquip.PNG>
-Package pdftex.def Info: sections/CommunicationsDept/GroundInvestment/SbandEqui
-p.PNG used on input line 8.
-(pdftex.def)             Requested size: 450.18077pt x 125.71936pt.
-
-Overfull \hbox (23.38942pt too wide) in paragraph at lines 8--9
- [] 
- []
-
-
-<sections/CommunicationsDept/GroundInvestment/XbandEquip.PNG, id=6521, 450.9347
-pt x 127.22531pt>
-File: sections/CommunicationsDept/GroundInvestment/XbandEquip.PNG Graphic file 
-(type png)
-
-<use sections/CommunicationsDept/GroundInvestment/XbandEquip.PNG>
-Package pdftex.def Info: sections/CommunicationsDept/GroundInvestment/XbandEqui
-p.PNG used on input line 18.
-(pdftex.def)             Requested size: 450.9336pt x 127.22499pt.
-
-Overfull \hbox (24.14224pt too wide) in paragraph at lines 18--19
- [] 
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 35.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [178
-
- <./sections/CommunicationsDept/GroundInvestment/SbandEquip.PNG> <./sections/Co
-mmunicationsDept/GroundInvestment/XbandEquip.PNG>]) (./sections/CommunicationsD
-ept/GroundMaintenance/Maintenance.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [179]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 32.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[180
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 43.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [181])
-(./sections/CommunicationsDept/GroundSalaries/Salaries.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 25.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [182]))
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 99.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[183] [184
-
-] (./sections/FinancialDept/Introduction.tex)
-(./sections/FinancialDept/Ch1-FinancialStudy.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [185]
-Chapter 10.
-[186
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 27--31
-
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
-
- []
-
-
-Underfull \hbox (badness 1142) in paragraph at lines 53--57
-\T1/lmr/m/n/10.95 On the ba-sis the ser-vice is af-ford-able for many pres-ti-g
-ious col-leges and it
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [187
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 65.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[188]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 74.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [189]
-Underfull \vbox (badness 10000) detected at line 112
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 146.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [190
-
-]
 
 Package longtable Warning: Column widths have changed
-(longtable)                in table 10.2.1 on input line 146.
+(longtable)                in table 1.0.7 on input line 160.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 154.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 160.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [191]
-Underfull \hbox (badness 10000) in paragraph at lines 160--164
+ [11]
 
- []
-
-
-LaTeX Warning: Citation `UN' on page 192 undefined on input line 168.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 173.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [192]
-
-LaTeX Warning: Citation `allianz' on page 193 undefined on input line 184.
-
-
-Underfull \vbox (badness 10000) detected at line 201
- []
-
-(./sections/FinancialDept/taula.tex
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 4.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [193]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=540.60239pt
-* \textheight=591.5302pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
-* \topmargin=-45.86334pt
-* \headheight=50.0pt
-* \headsep=25.0pt
-* \topskip=11.0pt
-* \footskip=30.0pt
-* \marginparwidth=50.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 7.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 83.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [194])
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 211.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[195
-
-
-
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 246.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [196
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 270.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [197]
-<sections/FinancialDept/DCCF.jpg, id=6662, 353.82187pt x 239.39438pt>
-File: sections/FinancialDept/DCCF.jpg Graphic file (type jpg)
-
-<use sections/FinancialDept/DCCF.jpg>
-Package pdftex.def Info: sections/FinancialDept/DCCF.jpg used on input line 273
+LaTeX Warning: Reference `payloadchosen' on page 12 undefined on input line 162
 .
-(pdftex.def)             Requested size: 353.821pt x 239.39378pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 279.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
-[198 <./sections/FinancialDept/DCCF.jpg>])
-(./sections/FinancialDept/marketingplan.tex
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1.0.8 on input line 178.
+
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 178.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [12])
+(./sections/SatelliteDept/sections/Communicationmodule.tex
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[199]
-Chapter 11.
-[200
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 3--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--8
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 8.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [201
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 9--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--14
-
+ [13])
+(./sections/SatelliteDept/sections/LinkBudget.tex
+Underfull \hbox (badness 2318) in paragraph at lines 3--5
+ [] [] \T1/lmr/m/n/10.95 As-trea con-stel-la-tion main satel-lite must be able 
+to sta-b-lish three dif-fer-ent
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 14.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [202
+ [14
 
 ]
+
+LaTeX Warning: Reference `Appendix:Structure' on page 15 undefined on input lin
+e 17.
+
+
+LaTeX Warning: Reference `Appendix:Structure' on page 15 undefined on input lin
+e 17.
+
+
+<./sections/SatelliteDept/sections/images/SvsB.png, id=199, 422.32782pt x 316.1
+8124pt>
+File: ./sections/SatelliteDept/sections/images/SvsB.png Graphic file (type png)
+
+ <use ./sections/SatelliteDept/sections/images/SvsB.png>
+Package pdftex.def Info: ./sections/SatelliteDept/sections/images/SvsB.png used
+ on input line 20.
+(pdftex.def)             Requested size: 380.09152pt x 284.56049pt.
+
+
+LaTeX Warning: Reference `friisEq' on page 15 undefined on input line 27.
+
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 22.
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 31.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [15 <./sections/SatelliteDept/sections/images/SvsB.png (PNG copy)>]
+<./sections/SatelliteDept/sections/images/friisCases.png, id=209, 422.32782pt x
+ 316.18124pt>
+File: ./sections/SatelliteDept/sections/images/friisCases.png Graphic file (typ
+e png)
+ <use ./sections/SatelliteDept/sections/images/friisCases.png>
+Package pdftex.def Info: ./sections/SatelliteDept/sections/images/friisCases.pn
+g used on input line 42.
+(pdftex.def)             Requested size: 380.09152pt x 284.56049pt.
 
-[203
 
-]
+LaTeX Warning: Reference `friis' on page 16 undefined on input line 47.
+
+
+LaTeX Warning: Reference `friis' on page 16 undefined on input line 48.
+
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 25.
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 49.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [204
+ [16 <./sections/SatelliteDept/sections/images/friisCases.png (PNG copy)>]
 
-]
+LaTeX Warning: Reference `Appendix:Structure' on page 17 undefined on input lin
+e 50.
+
+
+LaTeX Warning: Reference `friis' on page 17 undefined on input line 50.
+
+
+LaTeX Warning: Reference `friis' on page 17 undefined on input line 50.
+
+
+LaTeX Warning: Reference `Appendix:Structure' on page 17 undefined on input lin
+e 50.
+
+) (./sections/SatelliteDept/sections/Budget.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 28.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [205
+ [17]
+Overfull \hbox (31.20076pt too wide) in alignment at lines 6--40
+ [] [] [] [] 
+ []
 
-]
+pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.40    \hline
+              
+Overfull \hbox (66.56082pt too wide) in alignment at lines 40--51
+ [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1.2.1 on input line 51.
+
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 37.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[206
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 44.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [207
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 46.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [208
+ [18
 
 ])
-(./sections/FinancialDept/Ch2-Environmental.tex
+(./sections/SatelliteDept/sections/AstreaFinalConfig.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [209
+ [19]
+Overfull \hbox (51.7046pt too wide) in alignment at lines 7--43
+ [] [] [] [] 
+ []
 
-]
-Chapter 12.
-[210
+pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.43 	\hline
+            
+Overfull \hbox (51.7046pt too wide) in alignment at lines 43--50
+ [] [] [] [] 
+ []
 
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 7.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [211
 
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1.3.1 on input line 50.
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 11.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [212
-
-]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 19.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[213
-
-]
-
-LaTeX Warning: Citation `EIS' on page 214 undefined on input line 22.
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 39.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [214
-
-])
-(./sections/FinancialDept/Ch3-Social.tex
+)) (./Report.bbl
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
-
-[215]
-Chapter 13.
-[216
+ [20
 
 ]
-File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 18.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [217
-
-]
-<sections/FinancialDept/./OrbitalSummary.png, id=6759, 1241.63875pt x 541.02126
-pt>
-File: sections/FinancialDept/./OrbitalSummary.png Graphic file (type png)
- <use sections/FinancialDept/./OrbitalSummary.png>
-Package pdftex.def Info: sections/FinancialDept/./OrbitalSummary.png used on in
-put line 20.
-(pdftex.def)             Requested size: 372.4945pt x 162.30762pt.
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 29.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [218 <./sections/FinancialDept/./OrbitalSummary.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 30--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--40
-
- []
-
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 59.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [219
-
-]) (./Report.bbl
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [220]
-Chapter 14.
-[221
+Chapter 2.
+[21
 
 ]
 Underfull \hbox (badness 1748) in paragraph at lines 93--96
@@ -5548,7 +2203,11 @@ Underfull \hbox (badness 2790) in paragraph at lines 166--169
 o-to-col Num-bers.
  []
 
-
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 169.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [22]
 Overfull \hbox (46.69855pt too wide) in paragraph at lines 179--182
 []\T1/lmr/m/n/10.95 UK Gov-ern-ment.  https://www.ofcom.org.uk/_-_-data/assets/
 pdf_-file/0023/47138/ofw564.pdf. 
@@ -5578,32 +2237,15 @@ Overfull \hbox (3.2339pt too wide) in paragraph at lines 203--205
 nsf/eng/sf01027.html#a4. 
  []
 
-File: ./doc_config/images/logo.png Graphic file (type png)
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 210.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [222]) 
+) 
 AED: lastpage setting LastPage
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 123.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [223]
+ [23]
 
 Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
-
-! LaTeX Error: \begin{itemize} on input line 138 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.123 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
@@ -5617,225 +2259,42 @@ Package rerunfilecheck Warning: File `Report.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Report.out':
-(rerunfilecheck)             Before: C097B04AD0891CF40CAA4FFBECAE6FBA;20725
-(rerunfilecheck)             After:  11A38C5B3A258C99DC388F3B79B44453;18513.
+(rerunfilecheck)             Before: AEBE2F1BF3BF0999A3A77CE755077F8D;148
+(rerunfilecheck)             After:  42B5EC2DF97DB5295F812F9D91C85C9E;2284.
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 123.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 138 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 31550 strings out of 493014
- 607825 string characters out of 6133351
- 702164 words of memory out of 5000000
- 33356 multiletter control sequences out of 15000+600000
- 128127 words of font info for 104 fonts, out of 8000000 for 9000
+ 29715 strings out of 493014
+ 553856 string characters out of 6133351
+ 644422 words of memory out of 5000000
+ 32584 multiletter control sequences out of 15000+600000
+ 73033 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,17n,98p,10484b,1740s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.caption.306} has been refere
-nced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.296} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.293} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.305} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.caption.304} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.10.8} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.10.7} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.10.6} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.10.5} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.10.4} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.10.3} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.15} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.14.2} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.14.1} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.13.4} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.13.3} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.12.9} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.12.8} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.12.7} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.12.6} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.12.5} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.3.5} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.3.4} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.3.3} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.3.2} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.3.1} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.2.2} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.11.2.1.4} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.11.2.1.3} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.11.2.1.2} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.11.2.1.1} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.2.1} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.1.2} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.11.1.1.3} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.11.1.1.2} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.11.1.1.1} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.1.1} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{part.6} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.5.4} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.5.3} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.5.2} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.5.1} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.10.0.5} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.4.2} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.4.1} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.10.0.4} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.10.0.3} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.2.5} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.2.4} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.2.3} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.2.2} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.2.1} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.10.0.2} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.1.3} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.1.2} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.10.0.1.1} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.10.0.1} has been referenced but does not
- exist, replaced by a fixed one
-
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/te
-xlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016/tex
-mf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2016/texmf-dist/fo
-nts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dv
-ips/lm/lm-mathex.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/eur
-osym/feybr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/eurosym
-/feymr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx10.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texliv
-e/2016/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2016/texmf-dist/f
-onts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
-/public/lm/lmmi6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
-lmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi9.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
-public/lm/lmri10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/
-lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy6.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Report.pdf (239 pages, 18886777 bytes).
+ 45i,16n,94p,10484b,885s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
+cal/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/20
+16/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2016/texmf-d
+ist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/eurosym/feybr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/eurosym/feymr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/lm/lmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx12
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/lm/lmr9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/lm/lmri10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lms
+y10.pfb>
+Output written on Report.pdf (28 pages, 468903 bytes).
 PDF statistics:
- 7091 PDF objects out of 7423 (max. 8388607)
- 3218 compressed objects within 33 object streams
- 915 named destinations out of 1000 (max. 500000)
- 2623 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 389 PDF objects out of 1000 (max. 8388607)
+ 339 compressed objects within 4 object streams
+ 183 named destinations out of 1000 (max. 500000)
+ 45 words of extra memory for PDF output out of 10000 (max. 10000000)
 
