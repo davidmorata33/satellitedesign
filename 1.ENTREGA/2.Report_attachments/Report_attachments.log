@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 DEC 2016 23:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 DEC 2016 23:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1965,82 +1965,81 @@ LaTeX Warning: Citation `epsbasics' on page 6 undefined on input line 9.
 LaTeX Warning: Citation `epsbasics' on page 6 undefined on input line 9.
 
 
-Overfull \hbox (23.96793pt too wide) in alignment at lines 19--23
+Overfull \hbox (23.96793pt too wide) in alignment at lines 21--25
  [] [] 
  []
 
 
-Overfull \hbox (23.96793pt too wide) in alignment at lines 23--58
+Overfull \hbox (23.96793pt too wide) in alignment at lines 25--60
  [] [] 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) h
-as been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.58 \end{longtable}
-                    
 File: ./doc_config/images/logo.png Graphic file (type png)
- <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 58.
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 60.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [6
 
- <./sections/SatelliteDept/sections/images/epsbasics.png>]
-Overfull \hbox (61.21521pt too wide) in alignment at lines 68--72
- [] [] [] 
- []
-
-
-Overfull \hbox (61.21521pt too wide) in alignment at lines 72--81
- [] [] [] 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{table.1.2}) h
-as been already used, duplicate ignored
+ <./sections/SatelliteDept/sections/images/epsbasics.png>]pdfTeX warning (ext4)
+: destination with the same identifier (name{table.1.1}) has been already used,
+ duplicate ignored
 <to be read again> 
                    \relax 
-l.81 \end{longtable}
+l.60 \end{longtable}
+                    
+Overfull \hbox (61.21521pt too wide) in alignment at lines 69--73
+ [] [] [] 
+ []
+
+
+Overfull \hbox (61.21521pt too wide) in alignment at lines 73--82
+ [] [] [] 
+ []
+
+File: ./doc_config/images/logo.png Graphic file (type png)
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 82.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [7]pdfTeX warning (ext4): destination with the same identifier (name{table.1.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.82 \end{longtable}
                     
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 81.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [7]
-File: ./doc_config/images/logo.png Graphic file (type png)
-
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 103.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 105.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [8]
-Overfull \hbox (66.2953pt too wide) in alignment at lines 120--124
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 117.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [9]
+Overfull \hbox (66.2953pt too wide) in alignment at lines 122--126
  [] [] [] 
  []
 
 
-Overfull \hbox (66.2953pt too wide) in alignment at lines 124--133
+Overfull \hbox (66.2953pt too wide) in alignment at lines 126--135
  [] [] [] 
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 133.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 140.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [9]
-Underfull \hbox (badness 1286) in paragraph at lines 135--136
- [][] \T1/lmr/m/n/10.95 Among all the com-mer-cial op-tions, As-trea has cho-se
-n the \T1/lmr/bx/n/10.95 BA01/D \T1/lmr/m/n/10.95 bat-ter-ies
- []
-
-) (./sections/SatelliteDept/sections/PropulsionAnnex.tex
+ [10])
+(./sections/SatelliteDept/sections/PropulsionAnnex.tex
 File: ./doc_config/images/logo.png Graphic file (type png)
 
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [10]
+ [11]
 
-LaTeX Warning: Citation `collisionLEO' on page 11 undefined on input line 6.
+LaTeX Warning: Citation `collisionLEO' on page 12 undefined on input line 6.
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.1.1}) h
 as been already used, duplicate ignored
@@ -2052,7 +2051,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 55.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [11
+ [12
 
 ]
 Underfull \vbox (badness 10000) detected at line 55
@@ -2069,7 +2068,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [12]
+ [13]
 Underfull \vbox (badness 10000) detected at line 32
  []
 
@@ -2089,11 +2088,11 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [13
+ [14
 
 ]
 
-LaTeX Warning: Citation `Note1998' on page 14 undefined on input line 5.
+LaTeX Warning: Citation `Note1998' on page 15 undefined on input line 5.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
@@ -2107,7 +2106,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
 
 LaTeX Warning: Citation `SecretariadeEstadodetelecomunicacionesyparalasociedadd
-elainformacion.2015' on page 14 undefined on input line 12.
+elainformacion.2015' on page 15 undefined on input line 12.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
@@ -2115,7 +2114,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
  []
 
 
-<./sections/SatelliteDept/sections/images/principal_losses.png, id=330, 624.834
+<./sections/SatelliteDept/sections/images/principal_losses.png, id=337, 624.834
 38pt x 326.72063pt>
 File: ./sections/SatelliteDept/sections/images/principal_losses.png Graphic fil
 e (type png)
@@ -2130,22 +2129,22 @@ Overfull \hbox (73.07683pt too wide) in paragraph at lines 39--41
  []
 
 
-LaTeX Warning: Citation `Jorge2012' on page 14 undefined on input line 41.
+LaTeX Warning: Citation `Jorge2012' on page 15 undefined on input line 41.
 
 
-LaTeX Warning: Citation `Jorge2012' on page 14 undefined on input line 41.
+LaTeX Warning: Citation `Jorge2012' on page 15 undefined on input line 41.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation `Note1998' on page 14 undefined on input line 48.
+LaTeX Warning: Citation `Note1998' on page 15 undefined on input line 48.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 49.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [14
+ [15
 
 ]
 File: ./doc_config/images/logo.png Graphic file (type png)
@@ -2153,9 +2152,9 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 60.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
-[15 <./sections/SatelliteDept/sections/images/principal_losses.png>]
+[16 <./sections/SatelliteDept/sections/images/principal_losses.png>]
 
-LaTeX Warning: Citation `Jorge2012' on page 16 undefined on input line 69.
+LaTeX Warning: Citation `Jorge2012' on page 17 undefined on input line 69.
 
 
 Underfull \hbox (badness 2042) in paragraph at lines 68--70
@@ -2164,20 +2163,20 @@ Underfull \hbox (badness 2042) in paragraph at lines 68--70
  []
 
 
-LaTeX Warning: Citation `Jorge2012' on page 16 undefined on input line 89.
+LaTeX Warning: Citation `Jorge2012' on page 17 undefined on input line 89.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 91.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [16
+ [17
 
 ]
 
-LaTeX Warning: Citation `Jorge2012' on page 17 undefined on input line 92.
+LaTeX Warning: Citation `Jorge2012' on page 18 undefined on input line 92.
 
 
-<./sections/SatelliteDept/sections/images/specificAttenuation.png, id=356, 563.
+<./sections/SatelliteDept/sections/images/specificAttenuation.png, id=364, 563.
 85657pt x 430.60875pt>
 File: ./sections/SatelliteDept/sections/images/specificAttenuation.png Graphic 
 file (type png)
@@ -2188,25 +2187,25 @@ uation.png used on input line 102.
 (pdftex.def)             Requested size: 394.69691pt x 301.42406pt.
 
 
-LaTeX Warning: Citation `Jorge2012' on page 17 undefined on input line 104.
+LaTeX Warning: Citation `Jorge2012' on page 18 undefined on input line 104.
 
 
-LaTeX Warning: Citation `Jorge2012' on page 17 undefined on input line 104.
+LaTeX Warning: Citation `Jorge2012' on page 18 undefined on input line 104.
 
 
-LaTeX Warning: Citation `Jorge2012' on page 17 undefined on input line 112.
+LaTeX Warning: Citation `Jorge2012' on page 18 undefined on input line 112.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 113.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [17 <./sections/SatelliteDept/sections/images/specificAttenuation.png>]
+ [18 <./sections/SatelliteDept/sections/images/specificAttenuation.png>]
 
 LaTeX Warning: Command \textordmasculine invalid in math mode on input line 114
 .
 
 
-LaTeX Warning: Citation `Jorge2012' on page 18 undefined on input line 124.
+LaTeX Warning: Citation `Jorge2012' on page 19 undefined on input line 124.
 
 
 Underfull \hbox (badness 2245) in paragraph at lines 124--125
@@ -2220,7 +2219,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--125
  []
 
 
-<./sections/SatelliteDept/sections/images/NoiseTemperature.png, id=362, 614.295
+<./sections/SatelliteDept/sections/images/NoiseTemperature.png, id=371, 614.295
 pt x 534.49687pt>
 File: ./sections/SatelliteDept/sections/images/NoiseTemperature.png Graphic fil
 e (type png)
@@ -2231,13 +2230,13 @@ ure.png used on input line 128.
 (pdftex.def)             Requested size: 307.14674pt x 267.24777pt.
 
 
-LaTeX Warning: Citation `Jorge2012' on page 18 undefined on input line 130.
+LaTeX Warning: Citation `Jorge2012' on page 19 undefined on input line 130.
 
 
-LaTeX Warning: Citation `Jorge2012' on page 18 undefined on input line 130.
+LaTeX Warning: Citation `Jorge2012' on page 19 undefined on input line 130.
 
 
-<./sections/SatelliteDept/sections/images/NoiseTemperature2.png, id=363, 673.01
+<./sections/SatelliteDept/sections/images/NoiseTemperature2.png, id=372, 673.01
 437pt x 398.23781pt>
 File: ./sections/SatelliteDept/sections/images/NoiseTemperature2.png Graphic fi
 le (type png)
@@ -2248,10 +2247,10 @@ ure2.png used on input line 134.
 (pdftex.def)             Requested size: 370.15904pt x 219.03146pt.
 
 
-LaTeX Warning: Citation `Jorge2012' on page 18 undefined on input line 136.
+LaTeX Warning: Citation `Jorge2012' on page 19 undefined on input line 136.
 
 
-LaTeX Warning: Citation `Jorge2012' on page 18 undefined on input line 136.
+LaTeX Warning: Citation `Jorge2012' on page 19 undefined on input line 136.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2263,19 +2262,19 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 140.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [18]
+ [19]
 File: ./doc_config/images/logo.png Graphic file (type png)
  <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 140.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
 
-[19 <./sections/SatelliteDept/sections/images/NoiseTemperature.png> <./sections
+[20 <./sections/SatelliteDept/sections/images/NoiseTemperature.png> <./sections
 /SatelliteDept/sections/images/NoiseTemperature2.png>]
 
-LaTeX Warning: Citation `Jorge2012' on page 20 undefined on input line 154.
+LaTeX Warning: Citation `Jorge2012' on page 21 undefined on input line 154.
 
 
-LaTeX Warning: Citation `Macdonald2014' on page 20 undefined on input line 155.
+LaTeX Warning: Citation `Macdonald2014' on page 21 undefined on input line 155.
 
 
 
@@ -2284,20 +2283,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--166
  []
 
 
-LaTeX Warning: Citation `Jorge2012' on page 20 undefined on input line 180.
+LaTeX Warning: Citation `Jorge2012' on page 21 undefined on input line 180.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 181.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [20
+ [21
 
 ]
 
-LaTeX Warning: Citation `Jorge2012' on page 21 undefined on input line 187.
+LaTeX Warning: Citation `Jorge2012' on page 22 undefined on input line 187.
 
 
-LaTeX Warning: Citation `Note1998' on page 21 undefined on input line 201.
+LaTeX Warning: Citation `Note1998' on page 22 undefined on input line 201.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--202
@@ -2310,7 +2309,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--207
  []
 
 
-<./sections/SatelliteDept/sections/images/BEvsSNR.png, id=389, 826.58812pt x 59
+<./sections/SatelliteDept/sections/images/BEvsSNR.png, id=400, 826.58812pt x 59
 2.46344pt>
 File: ./sections/SatelliteDept/sections/images/BEvsSNR.png Graphic file (type p
 ng)
@@ -2320,10 +2319,10 @@ sed on input line 209.
 (pdftex.def)             Requested size: 247.97835pt x 177.7404pt.
 
 
-LaTeX Warning: Citation `Note1998' on page 21 undefined on input line 211.
+LaTeX Warning: Citation `Note1998' on page 22 undefined on input line 211.
 
 
-LaTeX Warning: Citation `Note1998' on page 21 undefined on input line 211.
+LaTeX Warning: Citation `Note1998' on page 22 undefined on input line 211.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2332,23 +2331,23 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 215.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [21]
+ [22]
 
-LaTeX Warning: Citation `Jorge2012' on page 22 undefined on input line 237.
+LaTeX Warning: Citation `Jorge2012' on page 23 undefined on input line 237.
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 247.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [22 <./sections/SatelliteDept/sections/images/BEvsSNR.png>]
+ [23 <./sections/SatelliteDept/sections/images/BEvsSNR.png>]
 
-LaTeX Warning: Citation `Jorge2012' on page 23 undefined on input line 255.
-
-
-LaTeX Warning: Citation `Note1998' on page 23 undefined on input line 260.
+LaTeX Warning: Citation `Jorge2012' on page 24 undefined on input line 255.
 
 
-LaTeX Warning: Citation `Note1998' on page 23 undefined on input line 273.
+LaTeX Warning: Citation `Note1998' on page 24 undefined on input line 260.
+
+
+LaTeX Warning: Citation `Note1998' on page 24 undefined on input line 273.
 
 )) 
 AED: lastpage setting LastPage
@@ -2356,55 +2355,67 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 99.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [23]
+ [24]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
  (./Report_attachments.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
+Package rerunfilecheck Info: File `Report_attachments.out' has not changed.
+(rerunfilecheck)             Checksum: ED74B7213078BF40B7C5E04E4642330A;2123.
 
-
-Package rerunfilecheck Warning: File `Report_attachments.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Report_attachments.out':
-(rerunfilecheck)             Before: 6D73D845D8AC81671DDDC0440023CBAE;2091
-(rerunfilecheck)             After:  ED74B7213078BF40B7C5E04E4642330A;2123.
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 29685 strings out of 493014
- 554840 string characters out of 6133351
+ 29693 strings out of 493014
+ 554954 string characters out of 6133351
  634980 words of memory out of 5000000
  32605 multiletter control sequences out of 15000+600000
  86124 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,16n,94p,10496b,850s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
-texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/20
-16/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2016/texmf-d
-ist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2016/texmf-dist/fonts/type
-1/public/eurosym/feybr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
-blic/lm/lmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lm
-bx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2016/texmf-dis
-t/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
-e1/public/lm/lmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm
-/lmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr9.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/20
-16/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Report_attachments.pdf (29 pages, 1808472 bytes).
+pdfTeX warning (dest): name{figure.caption.61} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.50} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.49} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.46} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.41} has been referenced but does not
+ exist, replaced by a fixed one
+
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/te
+xlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2016
+/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2016/texmf-dis
+t/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/eurosym/feybr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/lm/lmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx
+12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/public/lm/lmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/l
+mr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr9.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/lm/lmsy8.pfb>
+Output written on Report_attachments.pdf (30 pages, 1812599 bytes).
 PDF statistics:
- 508 PDF objects out of 1000 (max. 8388607)
- 441 compressed objects within 5 object streams
- 137 named destinations out of 1000 (max. 500000)
+ 523 PDF objects out of 1000 (max. 8388607)
+ 455 compressed objects within 5 object streams
+ 145 named destinations out of 1000 (max. 500000)
  286 words of extra memory for PDF output out of 10000 (max. 10000000)
 
