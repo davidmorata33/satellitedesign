@@ -114,8 +114,13 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {10.1.1}{\ignorespaces Dimensions of a 1U CubeSat. Source \cite {cubesatdimensions}\relax }}{205}{figure.caption.282}
 \contentsline {figure}{\numberline {10.2.1}{\ignorespaces Basic schematics of the EPS. Source \cite {epsbasics}\relax }}{207}{figure.caption.287}
+\contentsline {figure}{\numberline {10.5.1}{\ignorespaces Principal losses in the received signal \cite {Jorge2012}\relax }}{216}{figure.caption.315}
+\contentsline {figure}{\numberline {10.5.2}{\ignorespaces Specific attenuation for different frequencies \cite {Jorge2012}\relax }}{218}{figure.caption.320}
+\contentsline {figure}{\numberline {10.5.3}{\ignorespaces Galaxy noise influence in noise temperature \cite {Jorge2012}\relax }}{220}{figure.caption.323}
+\contentsline {figure}{\numberline {10.5.4}{\ignorespaces Noise temperature variation with frequency \cite {Jorge2012}\relax }}{221}{figure.caption.324}
+\contentsline {figure}{\numberline {10.5.5}{\ignorespaces Probability of bit error for common modulation methods \cite {Note1998}\relax }}{224}{figure.caption.335}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {14.1.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{250}{figure.caption.315}
+\contentsline {figure}{\numberline {14.1.1}{\ignorespaces Orbital Launch Summary by Year\relax }}{261}{figure.caption.343}
