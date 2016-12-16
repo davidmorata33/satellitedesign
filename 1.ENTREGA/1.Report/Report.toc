@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Tables}{ii}{section*.1}
-\contentsline {chapter}{List of Figures}{iii}{section*.2}
+\contentsline {chapter}{List of Tables}{iii}{section*.1}
+\contentsline {chapter}{List of Figures}{iv}{section*.2}
 \contentsline {part}{I\hspace {1em}Satellite design}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Satellite design}{2}{chapter.1}
 \contentsline {subsection}{\numberline {1.0.1}Structure and mechanics}{2}{subsection.1.0.1}
@@ -34,62 +34,62 @@
 \contentsline {paragraph}{}{5}{section*.21}
 \contentsline {paragraph}{}{6}{section*.22}
 \contentsline {paragraph}{}{6}{section*.23}
+\contentsline {subsubsection}{\numberline {1.0.3.1}Propulsion Systems}{6}{subsubsection.1.0.3.1}
 \contentsline {paragraph}{}{6}{section*.24}
-\contentsline {paragraph}{}{6}{section*.25}
 \contentsline {subsection}{\numberline {1.0.4}Attitude and Orbital Control Systems}{6}{subsection.1.0.4}
+\contentsline {paragraph}{}{6}{section*.25}
 \contentsline {paragraph}{}{6}{section*.26}
-\contentsline {paragraph}{}{6}{section*.27}
-\contentsline {paragraph}{}{7}{section*.28}
+\contentsline {paragraph}{}{7}{section*.27}
 \contentsline {subsubsection}{\numberline {1.0.4.1}Orbital Control}{7}{subsubsection.1.0.4.1}
-\contentsline {paragraph}{}{7}{section*.29}
+\contentsline {paragraph}{}{7}{section*.28}
 \contentsline {subsubsection}{\numberline {1.0.4.2}Option chosen for the Attitude and Orbital Control System}{7}{subsubsection.1.0.4.2}
-\contentsline {paragraph}{Decision}{7}{section*.30}
+\contentsline {paragraph}{Decision}{7}{section*.29}
 \contentsline {subsection}{\numberline {1.0.5}Payload}{7}{subsection.1.0.5}
-\contentsline {paragraph}{Aim}{7}{section*.31}
-\contentsline {paragraph}{}{7}{section*.32}
+\contentsline {paragraph}{Aim}{7}{section*.30}
+\contentsline {paragraph}{}{7}{section*.31}
+\contentsline {paragraph}{}{8}{section*.32}
 \contentsline {paragraph}{}{8}{section*.33}
-\contentsline {paragraph}{}{8}{section*.34}
 \contentsline {subsubsection}{\numberline {1.0.5.1}Antennas}{8}{subsubsection.1.0.5.1}
-\contentsline {paragraph}{}{8}{section*.35}
+\contentsline {paragraph}{}{8}{section*.34}
 \contentsline {subsubsubsection}{\numberline {1.0.5.1.1}Patch antenna}{8}{subsubsubsection.1.0.5.1.1}
-\contentsline {paragraph}{}{8}{section*.36}
+\contentsline {paragraph}{}{8}{section*.35}
 \contentsline {subsubsubsection}{\numberline {1.0.5.1.2}Turnstile antenna}{9}{subsubsubsection.1.0.5.1.2}
-\contentsline {paragraph}{}{9}{section*.37}
+\contentsline {paragraph}{}{9}{section*.36}
 \contentsline {subsubsection}{\numberline {1.0.5.2}Antenna selection}{9}{subsubsection.1.0.5.2}
-\contentsline {paragraph}{}{9}{section*.38}
+\contentsline {paragraph}{}{9}{section*.37}
 \contentsline {subsubsection}{\numberline {1.0.5.3}Payload Data Handling Systems}{9}{subsubsection.1.0.5.3}
+\contentsline {paragraph}{}{9}{section*.38}
 \contentsline {paragraph}{}{9}{section*.39}
 \contentsline {paragraph}{}{9}{section*.40}
-\contentsline {paragraph}{}{9}{section*.41}
 \contentsline {subsubsubsection}{\numberline {1.0.5.3.1}Transceivers}{10}{subsubsubsection.1.0.5.3.1}
+\contentsline {paragraph}{}{10}{section*.41}
 \contentsline {paragraph}{}{10}{section*.42}
-\contentsline {paragraph}{}{10}{section*.43}
-\contentsline {paragraph}{}{11}{section*.44}
+\contentsline {paragraph}{}{11}{section*.43}
 \contentsline {subsubsubsection}{\numberline {1.0.5.3.2}PDHS computers}{11}{subsubsubsection.1.0.5.3.2}
+\contentsline {paragraph}{}{11}{section*.44}
 \contentsline {paragraph}{}{11}{section*.45}
-\contentsline {paragraph}{}{11}{section*.46}
 \contentsline {subsubsection}{\numberline {1.0.5.4}Study of the commercial available options and options chosen}{11}{subsubsection.1.0.5.4}
-\contentsline {paragraph}{}{11}{section*.47}
-\contentsline {section}{\numberline {1.1}Communication module}{14}{section.1.1}
-\contentsline {paragraph}{}{14}{section*.48}
-\contentsline {paragraph}{}{14}{section*.49}
-\contentsline {paragraph}{}{14}{section*.50}
-\contentsline {paragraph}{}{14}{section*.51}
-\contentsline {subsection}{\numberline {1.1.1}Link Budget}{14}{subsection.1.1.1}
-\contentsline {paragraph}{\ }{14}{section*.52}
-\contentsline {subsubsection}{\numberline {1.1.1.1}Link Budget Calculation}{14}{subsubsection.1.1.1.1}
-\contentsline {paragraph}{Methodology}{14}{section*.53}
-\contentsline {paragraph}{}{15}{section*.54}
-\contentsline {paragraph}{}{15}{section*.55}
-\contentsline {paragraph}{}{15}{section*.56}
-\contentsline {paragraph}{}{15}{section*.58}
-\contentsline {paragraph}{Range calculation:}{16}{section*.59}
-\contentsline {paragraph}{S band range:}{16}{section*.61}
-\contentsline {paragraph}{X band range:}{16}{section*.62}
+\contentsline {paragraph}{}{11}{section*.46}
+\contentsline {subsection}{\numberline {1.0.6}Communication module}{13}{subsection.1.0.6}
+\contentsline {paragraph}{}{13}{section*.47}
+\contentsline {paragraph}{}{13}{section*.48}
+\contentsline {paragraph}{}{13}{section*.49}
+\contentsline {paragraph}{}{13}{section*.50}
+\contentsline {subsection}{\numberline {1.0.7}Link Budget}{13}{subsection.1.0.7}
+\contentsline {paragraph}{\ }{13}{section*.51}
+\contentsline {subsubsection}{\numberline {1.0.7.1}Link Budget Calculation}{14}{subsubsection.1.0.7.1}
+\contentsline {paragraph}{Methodology}{14}{section*.52}
+\contentsline {paragraph}{}{14}{section*.53}
+\contentsline {paragraph}{}{14}{section*.54}
+\contentsline {paragraph}{}{14}{section*.55}
+\contentsline {paragraph}{}{15}{section*.57}
+\contentsline {paragraph}{Range calculation:}{15}{section*.58}
+\contentsline {paragraph}{S band range:}{15}{section*.60}
+\contentsline {paragraph}{X band range:}{16}{section*.61}
+\contentsline {paragraph}{}{16}{section*.62}
+\contentsline {section}{\numberline {1.1}Budget}{17}{section.1.1}
 \contentsline {paragraph}{}{17}{section*.63}
-\contentsline {section}{\numberline {1.2}Budget}{18}{section.1.2}
-\contentsline {paragraph}{}{18}{section*.64}
+\contentsline {paragraph}{}{17}{section*.64}
 \contentsline {paragraph}{}{18}{section*.65}
-\contentsline {paragraph}{}{19}{section*.66}
-\contentsline {section}{\numberline {1.3}Astrea satellite Final Configuration}{20}{section.1.3}
-\contentsline {chapter}{\numberline {2}Bibliography}{21}{chapter.2}
+\contentsline {section}{\numberline {1.2}Astrea satellite Final Configuration}{19}{section.1.2}
+\contentsline {chapter}{\numberline {2}Bibliography}{20}{chapter.2}
