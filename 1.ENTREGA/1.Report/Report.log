@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 DEC 2016 19:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.26)  16 DEC 2016 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1533,7 +1533,11 @@ Package tocloft Info: The document has chapter divisions on input line 44.
 \cfttabindent=\skip125
 \cfttabnumwidth=\skip126
 )
-(./Report.aux)
+(./Report.aux
+
+LaTeX Warning: Label `epsfinal' multiply defined.
+
+)
 \openout1 = `Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -1932,6 +1936,12 @@ or spe-cific stars.
  []
 
 ) (./sections/SatelliteDept/sections/Payload.tex
+File: ./doc_config/images/logo.png Graphic file (type png)
+
+<use ./doc_config/images/logo.png>
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 6.
+(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
+ [7]
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 6.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmr.fd
@@ -1939,12 +1949,7 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 6.
-File: ./doc_config/images/logo.png Graphic file (type png)
 
-<use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 8.
-(pdftex.def)             Requested size: 105.90773pt x 35.0pt.
- [7]
 
 LaTeX Warning: Citation `patch' on page 8 undefined on input line 23.
 
@@ -1960,7 +1965,7 @@ DHS com-put-ers com-pat-i-ble
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 43.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 41.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [9]
 Underfull \vbox (badness 10000) detected at line 65
@@ -1972,7 +1977,7 @@ Underfull \vbox (badness 10000) detected at line 90
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 92.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 91.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [10]
 Underfull \vbox (badness 10000) detected at line 119
@@ -2019,7 +2024,7 @@ LaTeX Warning: Reference `Appendix:Structure' on page 14 undefined on input lin
 e 17.
 
 
-<./sections/SatelliteDept/sections/images/SvsB.png, id=327, 422.32782pt x 316.1
+<./sections/SatelliteDept/sections/images/SvsB.png, id=331, 422.32782pt x 316.1
 8124pt>
 File: ./sections/SatelliteDept/sections/images/SvsB.png Graphic file (type png)
 
@@ -2033,7 +2038,7 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 27.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [14 <./sections/SatelliteDept/sections/images/SvsB.png (PNG copy)>]
-<./sections/SatelliteDept/sections/images/friisCases.png, id=337, 422.32782pt x
+<./sections/SatelliteDept/sections/images/friisCases.png, id=341, 422.32782pt x
  316.18124pt>
 File: ./sections/SatelliteDept/sections/images/friisCases.png Graphic file (typ
 e png)
@@ -2062,12 +2067,12 @@ File: ./doc_config/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ./doc_config/images/logo.png used on input line 1.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [16]
-Overfull \hbox (66.56082pt too wide) in alignment at lines 3--6
+Overfull \hbox (11.49231pt too wide) in alignment at lines 3--6
  [] [] [] [] 
  []
 
 
-Overfull \hbox (66.56082pt too wide) in alignment at lines 6--40
+Overfull \hbox (11.49231pt too wide) in alignment at lines 6--40
  [] [] [] [] 
  []
 
@@ -2077,13 +2082,13 @@ as been already used, duplicate ignored
                    \relax 
 l.40    \hline
               
-Overfull \hbox (66.56082pt too wide) in alignment at lines 40--51
+Overfull \hbox (11.49231pt too wide) in alignment at lines 40--51
  [] [] [] [] 
  []
 
 File: ./doc_config/images/logo.png Graphic file (type png)
 <use ./doc_config/images/logo.png>
-Package pdftex.def Info: ./doc_config/images/logo.png used on input line 57.
+Package pdftex.def Info: ./doc_config/images/logo.png used on input line 56.
 (pdftex.def)             Requested size: 105.90773pt x 35.0pt.
  [17
 
@@ -2208,13 +2213,16 @@ Package rerunfilecheck Info: File `Report.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 123.
  ) 
 Here is how much of TeX's memory you used:
- 29755 strings out of 493014
- 554568 string characters out of 6133351
- 645805 words of memory out of 5000000
- 32620 multiletter control sequences out of 15000+600000
+ 29758 strings out of 493014
+ 554593 string characters out of 6133351
+ 645912 words of memory out of 5000000
+ 32621 multiletter control sequences out of 15000+600000
  80257 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,15n,94p,10484b,885s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2232,10 +2240,10 @@ xmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2016/texmf-dist/fon
 ts/type1/public/lm/lmr9.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
 lic/lm/lmri10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lms
 y10.pfb>
-Output written on Report.pdf (28 pages, 473845 bytes).
+Output written on Report.pdf (28 pages, 474694 bytes).
 PDF statistics:
- 518 PDF objects out of 1000 (max. 8388607)
- 467 compressed objects within 5 object streams
- 183 named destinations out of 1000 (max. 500000)
+ 522 PDF objects out of 1000 (max. 8388607)
+ 471 compressed objects within 5 object streams
+ 185 named destinations out of 1000 (max. 500000)
  261 words of extra memory for PDF output out of 10000 (max. 10000000)
 
