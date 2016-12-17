@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Tables}{ii}{section*.1}
-\contentsline {chapter}{List of Figures}{iii}{section*.2}
+\contentsline {chapter}{List of Tables}{iii}{section*.1}
+\contentsline {chapter}{List of Figures}{iv}{section*.2}
 \contentsline {part}{I\hspace {1em}ANNEX V: Satellite design}{1}{part.1}
 \contentsline {chapter}{\numberline {1}Satellite design}{2}{chapter.1}
 \contentsline {section}{\numberline {1.1}Structure and thermal protection}{3}{section.1.1}
@@ -48,39 +48,72 @@
 \contentsline {paragraph}{}{14}{section*.37}
 \contentsline {paragraph}{}{14}{section*.38}
 \contentsline {paragraph}{}{14}{section*.39}
-\contentsline {section}{\numberline {1.5}Link Budget}{15}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Communications Basics}{15}{subsection.1.5.1}
-\contentsline {paragraph}{}{15}{section*.40}
+\contentsline {section}{\numberline {1.5}Payload}{15}{section.1.5}
+\contentsline {paragraph}{Aim}{15}{section*.40}
 \contentsline {paragraph}{}{15}{section*.41}
-\contentsline {paragraph}{Transmission Losses}{15}{section*.42}
-\contentsline {subsection}{\numberline {1.5.2}Propagation losses}{16}{subsection.1.5.2}
-\contentsline {subsubsection}{\numberline {1.5.2.1}Free Space Losses}{16}{subsubsection.1.5.2.1}
-\contentsline {paragraph}{Range and Path Loss}{16}{section*.44}
-\contentsline {subsubsection}{\numberline {1.5.2.2}Atmospheric Losses}{17}{subsubsection.1.5.2.2}
-\contentsline {paragraph}{\ }{17}{section*.45}
-\contentsline {paragraph}{Ionospheric Effects}{17}{section*.46}
-\contentsline {paragraph}{Tropospheric Effects \cite {Jorge2012}}{18}{section*.47}
-\contentsline {paragraph}{}{19}{section*.49}
-\contentsline {paragraph}{}{19}{section*.50}
-\contentsline {paragraph}{AstreaSAT noise temperature}{19}{section*.53}
-\contentsline {paragraph}{Local Effects}{21}{section*.54}
-\contentsline {subsubsection}{\numberline {1.5.2.3}Pointing Losses}{21}{subsubsection.1.5.2.3}
-\contentsline {paragraph}{\ }{21}{section*.55}
-\contentsline {paragraph}{}{21}{section*.56}
-\contentsline {paragraph}{}{21}{section*.57}
-\contentsline {subsubsection}{\numberline {1.5.2.4}Multipath and Fade Margin}{21}{subsubsection.1.5.2.4}
-\contentsline {paragraph}{\ }{21}{section*.58}
-\contentsline {subsection}{\numberline {1.5.3}Local Losses}{22}{subsection.1.5.3}
-\contentsline {subsubsection}{\numberline {1.5.3.1}Equipament Losses}{22}{subsubsection.1.5.3.1}
-\contentsline {paragraph}{}{22}{section*.59}
-\contentsline {subsubsection}{\numberline {1.5.3.2}Environment Losses}{22}{subsubsection.1.5.3.2}
-\contentsline {paragraph}{}{22}{section*.60}
-\contentsline {paragraph}{}{22}{section*.61}
-\contentsline {subsection}{\numberline {1.5.4}Modulation Technique}{22}{subsection.1.5.4}
-\contentsline {paragraph}{\ }{22}{section*.62}
+\contentsline {paragraph}{}{15}{section*.42}
+\contentsline {paragraph}{}{15}{section*.43}
+\contentsline {subsection}{\numberline {1.5.1}Antennas}{15}{subsection.1.5.1}
+\contentsline {paragraph}{}{15}{section*.44}
+\contentsline {subsubsubsection}{\numberline {1.5.1.0.1}Basic parameters}{16}{subsubsubsection.1.5.1.0.1}
+\contentsline {paragraph}{}{16}{section*.45}
+\contentsline {paragraph}{}{16}{section*.46}
+\contentsline {paragraph}{}{16}{section*.47}
+\contentsline {paragraph}{}{16}{section*.48}
+\contentsline {subsubsubsection}{\numberline {1.5.1.0.2}Patch antenna}{17}{subsubsubsection.1.5.1.0.2}
+\contentsline {paragraph}{}{17}{section*.49}
+\contentsline {subsubsubsection}{\numberline {1.5.1.0.3}Turnstile antenna}{17}{subsubsubsection.1.5.1.0.3}
+\contentsline {paragraph}{}{17}{section*.50}
+\contentsline {subsection}{\numberline {1.5.2}Antenna selection}{18}{subsection.1.5.2}
+\contentsline {paragraph}{}{18}{section*.51}
+\contentsline {paragraph}{}{18}{section*.52}
+\contentsline {paragraph}{}{18}{section*.53}
+\contentsline {subsection}{\numberline {1.5.3}Payload Data Handling Systems}{18}{subsection.1.5.3}
+\contentsline {paragraph}{}{18}{section*.54}
+\contentsline {paragraph}{}{18}{section*.55}
+\contentsline {paragraph}{}{18}{section*.56}
+\contentsline {subsubsubsection}{\numberline {1.5.3.0.1}Transceivers}{19}{subsubsubsection.1.5.3.0.1}
+\contentsline {paragraph}{}{19}{section*.57}
+\contentsline {paragraph}{}{19}{section*.58}
+\contentsline {paragraph}{}{20}{section*.59}
+\contentsline {subsubsubsection}{\numberline {1.5.3.0.2}PDHS computers}{20}{subsubsubsection.1.5.3.0.2}
+\contentsline {paragraph}{}{20}{section*.60}
+\contentsline {paragraph}{}{20}{section*.61}
+\contentsline {subsection}{\numberline {1.5.4}Study of the commercial available options and options chosen}{20}{subsection.1.5.4}
+\contentsline {paragraph}{}{20}{section*.62}
+\contentsline {section}{\numberline {1.6}Link Budget}{23}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Communications Basics}{23}{subsection.1.6.1}
+\contentsline {paragraph}{}{23}{section*.63}
 \contentsline {paragraph}{}{23}{section*.64}
-\contentsline {subsection}{\numberline {1.5.5}System Noise}{23}{subsection.1.5.5}
-\contentsline {paragraph}{}{24}{section*.65}
-\contentsline {paragraph}{}{24}{section*.66}
-\contentsline {paragraph}{Channel Noise}{24}{section*.67}
-\contentsline {chapter}{\numberline {2}Bibliography}{25}{chapter.2}
+\contentsline {paragraph}{Transmission Losses}{23}{section*.65}
+\contentsline {subsection}{\numberline {1.6.2}Propagation losses}{24}{subsection.1.6.2}
+\contentsline {subsubsection}{\numberline {1.6.2.1}Free Space Losses}{24}{subsubsection.1.6.2.1}
+\contentsline {paragraph}{Range and Path Loss}{24}{section*.67}
+\contentsline {subsubsection}{\numberline {1.6.2.2}Atmospheric Losses}{25}{subsubsection.1.6.2.2}
+\contentsline {paragraph}{\ }{25}{section*.68}
+\contentsline {paragraph}{Ionospheric Effects}{25}{section*.69}
+\contentsline {paragraph}{Tropospheric Effects \cite {Jorge2012}}{26}{section*.70}
+\contentsline {paragraph}{}{27}{section*.72}
+\contentsline {paragraph}{}{27}{section*.73}
+\contentsline {paragraph}{AstreaSAT noise temperature}{27}{section*.76}
+\contentsline {paragraph}{Local Effects}{29}{section*.77}
+\contentsline {subsubsection}{\numberline {1.6.2.3}Pointing Losses}{29}{subsubsection.1.6.2.3}
+\contentsline {paragraph}{\ }{29}{section*.78}
+\contentsline {paragraph}{}{29}{section*.79}
+\contentsline {paragraph}{}{29}{section*.80}
+\contentsline {subsubsection}{\numberline {1.6.2.4}Multipath and Fade Margin}{29}{subsubsection.1.6.2.4}
+\contentsline {paragraph}{\ }{29}{section*.81}
+\contentsline {subsection}{\numberline {1.6.3}Local Losses}{30}{subsection.1.6.3}
+\contentsline {subsubsection}{\numberline {1.6.3.1}Equipament Losses}{30}{subsubsection.1.6.3.1}
+\contentsline {paragraph}{}{30}{section*.82}
+\contentsline {subsubsection}{\numberline {1.6.3.2}Environment Losses}{30}{subsubsection.1.6.3.2}
+\contentsline {paragraph}{}{30}{section*.83}
+\contentsline {paragraph}{}{30}{section*.84}
+\contentsline {subsection}{\numberline {1.6.4}Modulation Technique}{30}{subsection.1.6.4}
+\contentsline {paragraph}{\ }{30}{section*.85}
+\contentsline {paragraph}{}{31}{section*.87}
+\contentsline {subsection}{\numberline {1.6.5}System Noise}{31}{subsection.1.6.5}
+\contentsline {paragraph}{}{32}{section*.88}
+\contentsline {paragraph}{}{32}{section*.89}
+\contentsline {paragraph}{Channel Noise}{32}{section*.90}
+\contentsline {chapter}{\numberline {2}Bibliography}{33}{chapter.2}
